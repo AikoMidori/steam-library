@@ -5,7 +5,7 @@ Join us on discord https://discord.gg/015OTigbS9wyJlBDP to discuss about upcomin
 
 ### Manual Installation
 
-# Requirements
+### Requirements
     https://github.com/PhantomGamers/SteamFriendsPatcher/releases/tag/0.1.18-beta
 
 # Windows
