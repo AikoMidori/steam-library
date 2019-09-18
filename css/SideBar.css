@@ -1,4 +1,4 @@
-@import url('https://aikomidori.github.io/steam-library/css/Colors.css');
+@import url('https://aikomidori.github.io/steam-library/libraryroot.custom.css');
 @import url('https://aikomidori.github.io/steam-library/css/Scrollbar.css');
 /* ------------------SIDEBAR GAME LIST------------------ */
 
@@ -19,7 +19,7 @@
   
   /* Game Page Header Background */
   .libraryhome_UpdatesContainer_17uE {
-    background rgb(var(--darkgrey)) !important;
+    background: rgb(var(--darkgrey)) !important;
   }
   
   /* Filter Button Position */
