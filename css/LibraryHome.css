@@ -1,1 +1,13 @@
-/* nothing here yet */
+@import url('https://aikomidori.github.io/steam-library/libraryroot.custom.css');
+
+.libraryhome_UpdatesContainer_17uEB {
+    display: var(--WhatsNew) !important;
+}
+
+.libraryhome_LibraryHomeSection_1NCHR {
+    display: var(--Recent) !important;
+}
+
+.libraryhomeshowcases_Showcase_V7RuD {
+    display: var(--Favorites) !important;
+}
