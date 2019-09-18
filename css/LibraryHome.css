@@ -1,3 +1,11 @@
 .libraryhome_UpdatesContainer_17uEB {
-    display: (var(--WhatsNew)) !important;
+    display: (var(--WhatsNew));
+}
+
+.libraryhome_LibraryHomeSection_1NCHR {
+    display: (var(--Recent));
+}
+
+.libraryhomeshowcases_Showcase_V7RuD {
+    display: (var(--Favorites));
 }
