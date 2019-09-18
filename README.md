@@ -38,10 +38,10 @@ Join us on discord https://discord.gg/015OTigbS9wyJlBDP to discuss about upcomin
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 2</div>
-    <img src="#" style="width:100%">
+    <img src="https://i.imgur.com/wh39wsB.png" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 2</div>
-    <img src="#" style="width:100%">
+    <img src="https://i.imgur.com/w82Ey2b.png" style="width:100%">
   </div>
