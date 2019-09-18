@@ -3,11 +3,10 @@
 Visit https://steamcommunity.com/groups/metroskin/discussions/0/1761356057412667612/ to check for updates.
 Join us on discord https://discord.gg/015OTigbS9wyJlBDP to discuss about upcoming releases and updates.
 
-### Manual Installation
-
 ### Requirements
     https://github.com/PhantomGamers/SteamFriendsPatcher/releases/tag/0.1.18-beta
-
+    
+### Manual Installation
 # Windows
     Head over to:
     "C:/Program files (86)/Steam/steamui/"
