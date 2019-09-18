@@ -17,6 +17,12 @@
     border-radius: 30px !important;
     background: rgb(var(--lightgrey)) !important;
   }
+
+  /* Hover Over What's New Game */
+  .libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd.libraryhomenewupdates_HoversEnabled_278jF:hover .libraryhomenewupdates_EventSummaryContainer_3Rb_j {
+    background-color: rgb(var(--lightgrey)) !important;
+    border-radius: 4px !important;
+  }
   
   /* Game Page Catogory Background */
   .collectionview_OuterContainer_2sNr7 {
