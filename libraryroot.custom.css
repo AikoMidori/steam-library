@@ -1,4 +1,19 @@
-@import url('https://aikomidori.github.io/steam-library/css/Options.css');
 @import url('https://aikomidori.github.io/steam-library/css/GamePage.css');
 @import url('https://aikomidori.github.io/steam-library/css/LibraryHome.css');
 @import url('https://aikomidori.github.io/steam-library/css/SideBar.css');
+
+/* Disable Shadowns and Transitions */
+*{
+    transition: none !important;
+    box-shadow: none !important;
+}
+
+/* Enable or Disable Library Home Catagories */
+:root {
+
+    --WhatsNew: none;
+    --RecentGames: none;
+    --RecentFriendActivity: none;
+    --Favorites: none;
+
+}
