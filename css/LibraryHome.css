@@ -1,7 +1,8 @@
 @import url('https://aikomidori.github.io/steam-library/libraryroot.custom.css');
 
-.libraryhome_UpdatesContainer_17uEB {
+.LibraryDisplaySizeSmall .libraryhome_UpdatesContainer_17uEB {
     display: var(--WhatsNew) !important;
+    height: 300px !important;
 }
 
 .libraryhome_LibraryHomeSection_1NCHR {
