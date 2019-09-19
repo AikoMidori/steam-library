@@ -1,19 +1,5 @@
 @import url('https://aikomidori.github.io/steam-library/libraryroot.custom.css');
 
-:root {
-    --GamesGridBigColumns: repeat(auto-fill, 215px);
-    --GamesGridBigRows: 320px;
-    --GamesGridBigGap: 20px 10px;
-
-    --GamesGridMediumColumns: repeat(auto-fill, 150px);
-    --GamesGridMediumRows: 230px;
-    --GamesGridMediumGap: 20px 10px;
-
-    --GamesGridSmallColumns: repeat(auto-fill, 80px);
-    --GamesGridSmallRows: 120px;
-    --GamesGridSmallGap: 20px 10px;
-}
-
 .LibraryDisplaySizeSmall .libraryhome_UpdatesContainer_17uEB {
     display: var(--WhatsNew) !important;
     height: 300px !important;
@@ -30,21 +16,4 @@
 .appportrait_LibraryItemBox_WYgDg {
     border-top: 1px solid rgba(0, 0, 0, 0.5) !important;
     border-radius: 4px !important;
-}
-
-.libraryhomeshowcases_Showcase_V7RuD .libraryhomeshowcases_ShowcaseGrid_3DJLG {
-    grid-template-columns: var(--GamesGridBigColumns) !important;
-    grid-auto-rows: var(--GamesGridBigRows) !important;
-    gap: var(--GamesGridBigGap) !important;
-    display: var(--GamesGridBig) !important;
-    
-    grid-template-columns: var(--GamesGridMediumColumns) !important;
-    grid-auto-rows: var(--GamesGridMediumRows) !important;
-    gap: var(--GamesGridMediumGap) !important;
-    display: var(--GamesGridMedium) !important;
-
-    grid-template-columns: var(--GamesGridSmallColumns) !important;
-    grid-auto-rows: var(--GamesGridSmallRows) !important;
-    gap: var(--GamesGridSmallGap) !important;
-    display: var(--GamesGridSmall) !important;
 }
