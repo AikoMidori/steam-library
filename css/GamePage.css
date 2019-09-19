@@ -1,14 +1,15 @@
 @import url('https://aikomidori.github.io/steam-library/libraryroot.custom.css');
 @import url('https://aikomidori.github.io/steam-library/css/Scrollbar.css');
-/* ------------------GAME PAGES------------------ */
 
+/* ------------------GAME PAGES------------------ */
 
 /* Scroll To Top */
 .smartscrollcontainer_ScrollToTopButton_1J21t div {
-    background: rgb(var(--black)) !important;
-    border-radius: 20px !important;
-    bottom: 5px !important;
-  }
+  background: rgb(var(--backdropblur)) !important;
+  border-radius: 20px !important;
+  bottom: 5px !important;
+  backdrop-filter: blur(50px) !important;
+}
   
   /* Beta Button */
   .libraryhome_BetaBar_1HcmY {
