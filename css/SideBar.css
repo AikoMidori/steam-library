@@ -4,12 +4,12 @@
 
 /* Sidebar Background */
 .gamelistbar_Container_3x1Hk {
-    background-color: rgb(var(--grey)) !important;
+    background-color: rgb(var(--black)) !important;
   }
   
   /* Sidebar Header Background */
   .gamelistbar_GameListHomeAndSearch_2TKEa {
-    background-color: rgb(var(--grey)) !important;
+    background-color: rgb(var(--black)) !important;
   }
 
   .gamelisthome_Bar_3pSPl.gamelisthome_Selected_eNLOx .SVGIcon_Home {
@@ -84,7 +84,7 @@
   
   /* Sidebar Searchbar Hover Color */
   .gamelistsearchbar_Container_20QAC .gamelistsearchbar_SearchInput_12vo5 .DialogTextInputBase:hover {
-    background: rgb(var(--black)) !important;
+    background: rgb(var(--darkgrey)) !important;
     border-radius: 30px !important;
   }
   
@@ -109,7 +109,7 @@
   
   /* Filter Button + Background Hover */
   .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_MenuHeader_2PF_m:hover {
-    background-color: rgb(var(--black)) !important;
+    background-color: rgb(var(--darkgrey)) !important;
   }
   
   /* Filter Back To Top Button */
@@ -136,7 +136,7 @@
   
   /* Sidebar Catogory Name Selected */
   .gamelistsectionheader_Container_2sYIg.gamelistsectionheader_Selected_sXMOs {
-    background-color: rgb(var(--black)) !important;
+    background-color: rgb(var(--darkgrey)) !important;
   }
   
   /* Sidebar Game Name Hover */
@@ -152,5 +152,5 @@
   
   /* Sidebar Game Name Selected Hover */
   .gamelistentry_Container_2-O4Z.gamelistentry_Selected_1UBpA:hover, .gamelistentry_Container_2-O4Z.gamelistentry_Selected_1UBpA.gamelistentry_HoverOverlay_3cMVy {
-    background: rgb(var(--black)) !important;
+    background: rgb(var(--darkgrey)) !important;
   }
