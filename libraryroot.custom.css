@@ -36,6 +36,13 @@
     /*Hide/Show Game Icons ( Choose none / show )*/
     --GameIcons: none;
 
+
+
+    /* Hide/Show Games Grid "One at a time" ( Choose none / grid ) */
+    --GamesGridSmall: none;
+    --GamesGridMedium: none;
+    --GamesGridBig: none;
+
 }
 
 /* ===== CREDITS  =====
