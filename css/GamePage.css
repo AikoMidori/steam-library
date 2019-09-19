@@ -18,6 +18,17 @@
     background: rgb(var(--lightgrey)) !important;
   }
 
+  .appactivityday_ScreenshotCaption_23HTp.appactivityday_HasCaption_tLc3y, .appactivityday_VideoTitle_1d0ij.appactivityday_HasCaption_tLc3y {
+    background-image: none !important;
+    border-bottom-left-radius: 4px !important;
+    backdrop-filter: blur(50px)
+  }
+
+  .appdetailscommunityfeed_ArtItem_1aP1b .appdetailscommunityfeed_BottomSection_3uabi {
+    background: none !important;
+    color: #2db9ff !important;
+    backdrop-filter: blur(50px) !important;
+  }
 
   .appdetailsplaysection_DetailsProgressContainer_25YVD {
     border-radius: 6px !important;
@@ -152,6 +163,12 @@
   /* Removes Background Game Page Communnity Photos */
   .appdetailscommunityfeed_AuthorSection_1ul9Z {
     background: transparent !important;
+    padding: 0px !important;
+  }
+  
+  /* Cahnges User Avatar Game Page Communnity Photos */
+  .steamavatar_avatar_3h-QR {
+    border-radius: 20px !important;
   }
   
   /* Removes Padding Social Background */
