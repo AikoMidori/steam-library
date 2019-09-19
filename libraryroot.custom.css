@@ -9,6 +9,7 @@
     /*Disable Shadows and Transitions*/
 
     transition-duration: .2s !important;
+    -webkit-box-shadow: none !important;
     box-shadow: none !important; 
 
 }
