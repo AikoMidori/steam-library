@@ -7,7 +7,7 @@
 *{
     /*Disable Shadows and Transitions*/
 
-    transition: none !important;
+    transition: 0.2s !important;
     box-shadow: none !important; 
 
 }
