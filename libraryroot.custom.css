@@ -25,7 +25,12 @@
     --lightgrey: 62, 62, 63;
     --scrollbar: 62, 62, 63;
     --backdropblur: 62, 62, 63, 0.3;
-    --libraryhome: 62, 62, 63;
+    --libraryhome: 255, 255, 255;
+
+
+
+     /* Font Sizes */
+    --LibraryHome: 15px;
 
 
 
