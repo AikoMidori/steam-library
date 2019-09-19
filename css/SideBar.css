@@ -12,6 +12,13 @@
     background-color: rgb(var(--grey)) !important;
   }
 
+  .gamelisthome_Bar_3pSPl.gamelisthome_Selected_eNLOx .SVGIcon_Home {
+    fill: rgb(var(--libraryhome)) !important;
+  }
+
+  .gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L {
+    color: rgb(var(--libraryhome)) !important;
+  }
 
   .gamelistsearchbar_Container_20QAC .DialogInput_ClearAction, .gamelistsearchbar_Container_20QAC .gamelistsearchbar_SearchFilterInputClear_38tIM {
     width: 20px !important;
