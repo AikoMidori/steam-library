@@ -1,5 +1,13 @@
 @import url('https://aikomidori.github.io/steam-library/libraryroot.custom.css');
+
+.ReactVirtualized__List::-webkit-scrollbar-thumb {
+  background: rgb(var(--scrollbar)) !important;
+  border: 3px solid rgb(var(--grey)) !important;
+  border-radius: 10px !important;
+}
+
 ::-webkit-scrollbar-thumb {
   background: rgb(var(--scrollbar)) !important;
-  border-radius: 0px !important;
+  border: 3px solid rgb(var(--darkgrey)) !important;
+  border-radius: 10px !important;
 }
