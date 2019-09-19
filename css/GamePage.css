@@ -181,6 +181,9 @@
   /* Cahnges User Avatar Game Page Communnity Photos */
   .steamavatar_avatar_3h-QR {
     border-radius: 60px !important;
+    border: 0px !important;
+    height: 28px !important;
+    width: 28px !important;
   }
   
   /* Removes Padding Social Background */
