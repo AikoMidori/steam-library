@@ -1,13 +1,31 @@
 @import url('https://aikomidori.github.io/steam-library/libraryroot.custom.css');
 
+::-webkit-scrollbar{
+  width: 9px;
+  background-color: transparent !important;
+  border-radius: 0px !important;
+}
 .ReactVirtualized__List::-webkit-scrollbar-thumb {
   background: rgb(var(--scrollbar)) !important;
   border: 3px solid rgb(var(--grey)) !important;
   border-radius: 10px !important;
+  -webkit-box-shadow: none !important;
 }
-
 ::-webkit-scrollbar-thumb {
   background: rgb(var(--scrollbar)) !important;
   border: 3px solid rgb(var(--darkgrey)) !important;
   border-radius: 10px !important;
+  -webkit-box-shadow: none !important;
+}
+.ReactVirtualized__List::-webkit-scrollbar-track {
+  background: rgb(var(--grey)) !important;
+  border-radius: 0px !important;
+}
+::-webkit-scrollbar-track {
+  background: rgb(var(--darkgrey)) !important;
+  border-radius: 0px !important;
+}
+::-webkit-scrollbar-corner{
+  border: 0px solid rgba(255, 255, 255, 0) !important;
+  background-color: rgba(255, 255, 255, 0) !important;
 }
