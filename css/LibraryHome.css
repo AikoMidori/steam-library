@@ -1,6 +1,6 @@
 @import url('https://aikomidori.github.io/steam-library/libraryroot.custom.css');
 
-.LibraryDisplaySizeSmall .libraryhome_UpdatesContainer_17uEB {
+.libraryhome_UpdatesContainer_17uEB {
     display: var(--WhatsNew) !important;
 }
 
@@ -8,7 +8,7 @@
     display: var(--Recent) !important;
 }
 
-.LibraryDisplaySizeSmall .appportrait_RecentGameFooter_2d1hS {
+.appportrait_RecentGameFooter_2d1hS {
     border-radius: 4px !important;
 }
 
