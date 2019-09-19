@@ -5,8 +5,9 @@
 /* !!! DO NOT EDIT THESE !!! DO NOT EDIT THESE !!! */
 
 *{
-    /* Disable Shadows and Transitions */
-    transition: 0.2s !important;
+    /*Disable Shadows and Transitions*/
+
+    transition: none !important;
     box-shadow: none !important; 
 
 }
@@ -23,6 +24,7 @@
     --grey: 46, 46, 47;
     --lightgrey: 62, 62, 63;
     --scrollbar: 62, 62, 63;
+    --backdropblur: 62, 62, 63, 0.3;
 
 
 
