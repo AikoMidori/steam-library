@@ -8,3 +8,12 @@
 .libraryhome_LibraryHomeSection_1NCHR {
     display: var(--Recent) !important;
 }
+
+.LibraryDisplaySizeSmall .appportrait_RecentGameFooter_2d1hS {
+    border-radius: 4px !important;
+}
+
+.appportrait_LibraryItemBox_WYgDg {
+    border-top: 1px solid rgba(0, 0, 0, 0.5) !important;
+    border-radius: 4px !important;
+}
