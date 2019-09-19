@@ -24,7 +24,7 @@ Join us on discord https://discord.gg/015OTigbS9wyJlBDP to discuss about upcomin
     
 ------------------------------------------------------------------------------------------------------------------
 
-### Beta Update 0.1
+### Beta Update 0.1.5
 
 **What's New?**
 
