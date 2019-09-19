@@ -1,12 +1,5 @@
 @import url('https://aikomidori.github.io/steam-library/libraryroot.custom.css');
 
-:root {
-    --GridColumns: repeat(auto-fill, 250px);
-    --GridRows: 115px;
-    --GridGap: 10px 15px;
-}
-
-
 .LibraryDisplaySizeSmall .libraryhome_UpdatesContainer_17uEB {
     display: var(--WhatsNew) !important;
     height: 300px !important;
@@ -23,11 +16,4 @@
 .appportrait_LibraryItemBox_WYgDg {
     border-top: 1px solid rgba(0, 0, 0, 0.5) !important;
     border-radius: 4px !important;
-}
-
-.libraryhomeshowcases_Showcase_V7RuD .libraryhomeshowcases_ShowcaseGrid_3DJLG {
-    grid-template-columns: var(--GridColumns) !important;
-    grid-auto-rows: var(--GridRows) !important;
-    gap: var(--GridGap) !important;
-    display: var(--OldGamesGrid) !important;
 }
