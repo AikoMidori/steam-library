@@ -11,6 +11,11 @@
   .gamelistbar_GameListHomeAndSearch_2TKEa {
     background-color: rgb(var(--grey)) !important;
   }
+
+  /* Sidebar Minimum Width */
+  .library_LeftListSizableContainer_9sPoV {
+    min-width: 272px !important;
+  }
   
   /* Removes Sidebar Header Shadow Image */
   .gamelistsearchbar_Container_20QAC .gamelistsearchbar_HeaderListFadeTop_2_ts8 {
