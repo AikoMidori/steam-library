@@ -16,7 +16,7 @@
   border-radius: 10px !important;
 }
 .ReactVirtualized__List::-webkit-scrollbar-track {
-  background: rgb(var(--grey)) !important;
+  background: rgb(var(--black)) !important;
   border-radius: 0px !important;
 }
 ::-webkit-scrollbar-track {
