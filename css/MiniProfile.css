@@ -2,6 +2,22 @@
 
 /* MINI PROFILES*/
 
+/* Changes User Avatar Game Page Communnity Photos */
+.steamavatar_avatar_3h-QR {
+    border-radius: 60px !important;
+    border: 0px !important;
+    height: 28px !important;
+    width: 28px !important;
+}
+
+/* Changes User Miniprofile Avatar */
+.miniprofile_miniProfile_2QPdq .steamavatar_avatar_3h-QR {
+    border-radius: 60px !important;
+    border: 0px !important;
+    height: 90px !important;
+    width: 90px !important;
+}
+
 .miniprofile_miniProfileBackgroundBlur_xUosY {
     display: none !important; }
 
