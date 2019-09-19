@@ -24,16 +24,17 @@ Join us on discord https://discord.gg/015OTigbS9wyJlBDP to discuss about upcomin
     
 ------------------------------------------------------------------------------------------------------------------
 
-### Beta Update 0.1.5
+### Beta Update 0.1.6
 
 **What's New?**
 
     A complete new release of the Steam Library with many features from user requests.
 
     Here's what new in version 0.1.5:
-        - The ability to change colors.
-        - Hide/show certain catagories.
-        - Hide/show Game Icons.
+        - Change library button fontsize.
+        - Smoother transition effects.
+        - Miniprofiles have been completely remade.
+        - New scollbar and optional colors added.
         
     Coming Soon:
         - The ability to change Games Grid
