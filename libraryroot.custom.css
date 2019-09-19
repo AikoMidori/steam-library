@@ -7,11 +7,10 @@
 *{
     /*Disable Shadows and Transitions*/
 
-    transition: 0.2s !important;
+    transition: transform .2s, background-color .2s !important;
     box-shadow: none !important; 
 
 }
-
 
 
 /* MODIFICATIONS DOWN BELOW */
@@ -33,7 +32,7 @@
 
 
 
-     /* Font Sizes */
+    /* Font Sizes */
     --LibraryHome: 15px;
 
 
