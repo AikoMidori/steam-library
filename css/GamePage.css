@@ -18,6 +18,31 @@
     background: rgb(var(--lightgrey)) !important;
   }
 
+
+  .appdetailsplaysection_DetailsProgressContainer_25YVD {
+    border-radius: 6px !important;
+    background-color: rgb(var(--grey)) !important;
+    margin-top: 6px !important;
+  }
+
+  .appdetailsplaysection_DetailsProgressContainer_25YVD .appdetailsplaysection_DetailsProgressBar_1FnTq {
+    border-radius: 6px !important;
+  }
+
+  .appdetailsachievementssection_AchievementProgressContainer_3ns91 {
+    background-color: rgb(var(--darkgrey)) !important;
+    border-radius: 6px !important;
+  }
+
+  .appdetailsachievementssection_AchievementProgressContainer_3ns91 .appdetailsachievementssection_AchievementProgress_3Rm36 {
+    border-radius: 6px !important;
+  }
+
+
+  .appdetailsplaysection_GameStat_1kiZK .appdetailsplaysection_GameStatIcon_1tIg- {
+    margin: 0px !important;
+  }
+
   /* Hover Over What's New Game */
   .libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd.libraryhomenewupdates_HoversEnabled_278jF:hover .libraryhomenewupdates_EventSummaryContainer_3Rb_j {
     background-color: rgb(var(--lightgrey)) !important;
