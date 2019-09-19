@@ -59,11 +59,13 @@
   /* Sidebar Searchbar Color */
   .gamelistsearchbar_Container_20QAC .gamelistsearchbar_SearchInput_12vo5 .DialogTextInputBase {
     background: rgb(var(--darkgrey)) !important;
+    border-radius: 30px !important;
   }
   
   /* Sidebar Searchbar Hover Color */
   .gamelistsearchbar_Container_20QAC .gamelistsearchbar_SearchInput_12vo5 .DialogTextInputBase:hover {
     background: rgb(var(--black)) !important;
+    border-radius: 30px !important;
   }
   
   /* Sidebar Searchbar Position */
