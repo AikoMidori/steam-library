@@ -1,36 +1,47 @@
+/* !!! DO NOT EDIT THESE !!! DO NOT EDIT THESE !!! */
 @import url('https://aikomidori.github.io/steam-library/css/GamePage.css');
 @import url('https://aikomidori.github.io/steam-library/css/LibraryHome.css');
 @import url('https://aikomidori.github.io/steam-library/css/SideBar.css');
+/* !!! DO NOT EDIT THESE !!! DO NOT EDIT THESE !!! */
 
-/* Disable Shadows and Transitions */
 *{
+    /*Disable Shadows and Transitions*/
+
     transition: none !important;
-    box-shadow: none !important;
+    box-shadow: none !important; 
+
 }
 
-/* Colors ( Only works with RGB )*/
+
+
+/* MODIFICATIONS DOOWN BELOW */
+
 :root {
 
+    /*Colors ( Only works with RGB )*/
     --black: 21, 21, 21;
     --darkgrey: 30, 30, 31;
     --grey: 46, 46, 47;
     --lightgrey: 62, 62, 63;
-    
-}
+    --scrollbar: 62, 62, 63;
 
-/* Hide/Show Catagories ( Choose none / flex ) */
-:root {
 
+
+    /*Hide/Show Catagories ( Choose none / flex )*/
     --WhatsNew: flex;
     --Recent: flex;
-    
+
+
+
+    /*Hide/Show Game Icons ( Choose none / show )*/
+    --GameIcons: none;
+
 }
 
-/* Change Game Grid !!!!!!!!!!!!!!! DOESN'T WORK, IN PROGRESS !!!!!!!!!!!!!!!!!!!!!! */
-:root {
-
-    --Default: none;
-    --Bigger: none;
-    --Smaller: none;
-    
-}
+/* ===== CREDITS  =====
+/* SHIINA♪
+/* DISCORD: https://discord.gg/UZvkvkh
+/* GITHUB: https://github.com/AikoMidori/
+/* -------------------------------------------------------------------------------------------
+/* © 2019 All Rights Reserved. Created by Shiina♪
+/**/
