@@ -12,11 +12,16 @@
     background-color: rgb(var(--grey)) !important;
   }
   
-  /* Removes Sidebar Header Shadow */
+  /* Removes Sidebar Header Shadow Image */
   .gamelistsearchbar_Container_20QAC .gamelistsearchbar_HeaderListFadeTop_2_ts8 {
     display: none;
   }
-  
+
+  /* Removes Sidebar Game Icons */
+  .gamelistentry_Container_2-O4Z .gamelistentry_GameIcon_ga1hy {
+    display: var(--GameIcons) !important;
+}
+
   /* Game Page Header Background */
   .libraryhome_UpdatesContainer_17uE {
     background: rgb(var(--darkgrey)) !important;
