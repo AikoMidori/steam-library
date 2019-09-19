@@ -56,9 +56,15 @@
 
   /* Hover Over What's New Game */
   .libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd.libraryhomenewupdates_HoversEnabled_278jF:hover .libraryhomenewupdates_EventSummaryContainer_3Rb_j {
-    background-color: rgb(var(--lightgrey)) !important;
+    background-color: transparent !important;
     border-radius: 4px !important;
+    backdrop-filter: blur(12px) !important;
   }
+
+  /* Background Hover Over What's New Game */
+  .libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd .libraryhomenewupdates_PartnerEventRowCapsule_MainImageContainer_SPz0i {
+    background-color: transparent !important;
+}
   
   /* Game Page Catogory Background */
   .collectionview_OuterContainer_2sNr7 {
@@ -168,7 +174,7 @@
   
   /* Cahnges User Avatar Game Page Communnity Photos */
   .steamavatar_avatar_3h-QR {
-    border-radius: 20px !important;
+    border-radius: 60px !important;
   }
   
   /* Removes Padding Social Background */
