@@ -1,5 +1,5 @@
 @import url('https://aikomidori.github.io/steam-library/libraryroot.custom.css');
 ::-webkit-scrollbar-thumb {
-  background: rgb(var(--lightgrey)) !important;
+  background: rgb(var(--scrollbar)) !important;
   border-radius: 0px !important;
 }

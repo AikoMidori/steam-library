@@ -136,7 +136,22 @@
   
   /* Changes Blur Color For Games Page */
   .appdetails_Glassy_3Fmxx.appdetails_ScrollContainer_2l416 {
-    background-image: radial-gradient(100% 100% at 45% 35%, rgb(var(--black)) 0%, rgb(var(--black)) 100%) !important;
+    background-image: radial-gradient(100% 100% at 45% 35%, rgb(var(--darkgrey)) 0%, rgb(var(--darkgrey)) 100%) !important;
+  }
+
+  /* Changes Background Game Page Communnity Photos */
+  .appdetailscommunityfeed_CommunityItem_3QS6O {
+    background-color: rgb(var(--black)) !important;
+  }
+
+  /* Changes Background Game Page Communnity Guide */
+  .appdetailscommunityfeed_Guide_-85o5 .appdetailscommunityfeed_TopSectionInner_1dJuv {
+    background: transparent !important;
+  }
+
+  /* Removes Background Game Page Communnity Photos */
+  .appdetailscommunityfeed_AuthorSection_1ul9Z {
+    background: transparent !important;
   }
   
   /* Removes Padding Social Background */
