@@ -37,16 +37,12 @@
     grid-auto-rows: var(--GamesGridBigRows) !important;
     gap: var(--GamesGridBigGap) !important;
     display: var(--GamesGridBig) !important;
-}
-
-.libraryhomeshowcases_Showcase_V7RuD .libraryhomeshowcases_ShowcaseGrid_3DJLG {
+    
     grid-template-columns: var(--GamesGridMediumColumns) !important;
     grid-auto-rows: var(--GamesGridMediumRows) !important;
     gap: var(--GamesGridMediumGap) !important;
     display: var(--GamesGridMedium) !important;
-}
 
-.libraryhomeshowcases_Showcase_V7RuD .libraryhomeshowcases_ShowcaseGrid_3DJLG {
     grid-template-columns: var(--GamesGridSmallColumns) !important;
     grid-auto-rows: var(--GamesGridSmallRows) !important;
     gap: var(--GamesGridSmallGap) !important;
