@@ -28,7 +28,16 @@ Join us on discord https://discord.gg/015OTigbS9wyJlBDP to discuss about upcomin
 
 **What's New?**
 
-    A complete new release of the Steam Library with many features form user requests.
+    A complete new release of the Steam Library with many features from user requests.
+
+    Here's what new in version 0.1.5:
+        - The ability to change colors.
+        - Hide/show certain catagories.
+        - Hide/show Game Icons.
+        
+    Coming Soon:
+        - The ability to change Games Grid
+
     Everything has been written from scratch, and there is so much more to come!
     Keep up to date for the latest changes.
     
