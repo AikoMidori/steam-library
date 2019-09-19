@@ -3,6 +3,11 @@
 
 /* ------------------GAME PAGES------------------ */
 
+/* Scroll To Color */
+.smartscrollcontainer_ScrollToTopButton_1J21t {
+  color: rgb(var(--black)) !important;
+}
+
 /* Scroll To Top */
 .smartscrollcontainer_ScrollToTopButton_1J21t div {
   background: rgb(var(--backdropblur)) !important;
