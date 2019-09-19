@@ -7,7 +7,7 @@
 }
 .ReactVirtualized__List::-webkit-scrollbar-thumb {
   background: rgb(var(--scrollbar)) !important;
-  border: 3px solid rgb(var(--grey)) !important;
+  border: 3px solid rgb(var(--black)) !important;
   border-radius: 10px !important;
 }
 ::-webkit-scrollbar-thumb {
