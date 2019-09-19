@@ -8,7 +8,7 @@
 *{
     /*Disable Shadows and Transitions*/
 
-    transition: transform .2s, background-color .2s !important;
+    transition-duration: .2s !important;
     box-shadow: none !important; 
 
 }
