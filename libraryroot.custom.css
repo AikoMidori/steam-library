@@ -5,9 +5,8 @@
 /* !!! DO NOT EDIT THESE !!! DO NOT EDIT THESE !!! */
 
 *{
-    /*Disable Shadows and Transitions*/
-
-    transition: none !important;
+    /* Disable Shadows and Transitions */
+    transition: 0.2s !important;
     box-shadow: none !important; 
 
 }
