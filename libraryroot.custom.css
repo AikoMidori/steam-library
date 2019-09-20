@@ -7,7 +7,6 @@
 
 *{
     /*Disable Shadows and Transitions*/
-
     transition-duration: .2s !important;
     -webkit-box-shadow: none !important;
     box-shadow: none !important; 
@@ -39,9 +38,9 @@
 
 
 
-    /* Hide/Show Categories ( Choose none / flex ) */
-    --WhatsNew: flex;
-    --Recent: flex;
+    /* Hide/Show Categories ( Choose none / block ) */
+    --WhatsNew: block;
+    --Recent: block;
 
 
 
