@@ -10,7 +10,6 @@
     transition-duration: .2s !important;
     -webkit-box-shadow: none !important;
     box-shadow: none !important; 
-
 }
 
 
@@ -33,8 +32,11 @@
 
 
 
-    /* Font Sizes */
-    --LibraryHome: 15px;
+    /* Make Your Own Library Name */
+    --FontSize: 15px;
+    --Font: "Motiva Sans", Arial, Helvetica, sans-serif;    /* Any custom fonts u have installed */
+    --FontStyle: uppercase;     /* none to turn off. */
+    --YourLibraryName: "LIBRARY";
 
 
 
@@ -46,11 +48,6 @@
 
     /* Hide/Show Game Icons ( Choose none / show ) */
     --GameIcons: none;
-
-    
-
-    /* Make Your Own Library Name */
-    --YourLibraryName: "LIBRARY" !important;
 
 }
 
