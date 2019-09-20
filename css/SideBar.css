@@ -17,6 +17,7 @@
   }
 
   .gamelistsearchbar_Container_20QAC .DialogInput_ClearAction, .gamelistsearchbar_Container_20QAC .gamelistsearchbar_SearchFilterInputClear_38tIM {
+    background-color: red !important;
     width: 20px !important;
     height: 20px !important;
     border-radius: 10px !important;
@@ -183,10 +184,6 @@
   background-color: rgb(var(--black)) !important;
   box-shadow: 1px 1px 5px 1px rgb(var(--black)) !important;
   margin-left: 10px !important;
-}
-
-.gamelistsearchbar_Container_20QAC .DialogInput_ClearAction, .gamelistsearchbar_Container_20QAC .gamelistsearchbar_SearchFilterInputClear_38tIM {
-  background-color: red !important;
 }
 
 .gamelisthome_Label_3O48L {
