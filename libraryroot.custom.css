@@ -46,7 +46,12 @@
 
     /* Hide/Show Game Icons ( Choose none / show ) */
     --GameIcons: none;
+
     
+
+    /* Make Your Own Library Name */
+    --YourLibraryName: "LIBRARY" !important;
+
 }
 
 /* ===== CREDITS  =====
