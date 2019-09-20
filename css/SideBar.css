@@ -196,7 +196,7 @@
 .gamelisthome_Label_3O48L:before {
   font-size: var(--LibraryHome) !important;
   content: var(--YourLibraryName) !important;
-  font-weight: medium !important;
+  font-weight: bold !important;
   visibility: visible !important;
 }
 
@@ -207,7 +207,7 @@
 .gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L:before {
   color: rgb(var(--libraryhome)) !important;
   font-size: var(--LibraryHome) !important;
-  font-weight: bold !important;
+  font-weight: bolder !important;
   content: var(--YourLibraryName) !important;
   visibility: visible !important;
 }
