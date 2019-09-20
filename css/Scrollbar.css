@@ -1,31 +1,62 @@
 @import url('https://aikomidori.github.io/steam-library/libraryroot.custom.css');
 
 ::-webkit-scrollbar{
-  width: 9px;
   background-color: transparent !important;
   border-radius: 0px !important;
+  -webkit-box-shadow: none !important;
 }
-.ReactVirtualized__List::-webkit-scrollbar-thumb {
+
+.ReactVirtualized__List:hover::-webkit-scrollbar-thumb,
+.gamelist_Container_1ijTa:hover::-webkit-scrollbar-thumb {
   background: rgb(var(--scrollbar)) !important;
-  border: 3px solid rgb(var(--black)) !important;
+  background-clip: padding-box!important;
+  -webkit-box-shadow: none !important;
+  border: 5px solid transparent !important;
+}
+
+.ReactVirtualized__List:hover::-webkit-scrollbar-thumb:hover {
+  background: rgb(var(--scrollbar)) !important;
+  background-clip: padding-box!important;
+  -webkit-box-shadow: none !important;
+  border: 5px solid transparent !important;
+}
+
+.ReactVirtualized__List::-webkit-scrollbar-thumb {
+  background: transparent !important;
+  border: 5px solid transparent !important;
   -webkit-box-shadow: none !important;
   border-radius: 10px !important;
 }
+
 ::-webkit-scrollbar-thumb {
   background: rgb(var(--scrollbar)) !important;
-  border: 3px solid rgb(var(--darkgrey)) !important;
+  border: 5px solid transparent !important;
+  background-clip: padding-box !important;
   -webkit-box-shadow: none !important;
   border-radius: 10px !important;
 }
+
 .ReactVirtualized__List::-webkit-scrollbar-track {
   background: rgb(var(--black)) !important;
   border-radius: 0px !important;
 }
+
+.ReactVirtualized__Grid::-webkit-scrollbar {
+  background-color: transparent!important;
+  -webkit-box-shadow: none !important;
+}
+
+.library_LeftListSizableContainer_9sPoV::-webkit-scrollbar:horizontal {
+  background-color: transparent!important;
+  -webkit-box-shadow: none !important;
+}
+
 ::-webkit-scrollbar-track {
   background: rgb(var(--darkgrey)) !important;
   border-radius: 0px !important;
 }
+
 ::-webkit-scrollbar-corner{
-  border: 0px solid rgba(255, 255, 255, 0) !important;
-  background-color: rgba(255, 255, 255, 0) !important;
+  border: 0px solid rgb(var(--darkgrey)) !important;
+  background-color: rgb(var(--darkgrey)) !important;
 }
