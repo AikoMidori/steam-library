@@ -77,11 +77,6 @@
     background: rgb(var(--darkgrey)) !important;
   }
   
-  /* Game Page Header Background */
-  .libraryhome_UpdatesContainer_17uEB {
-    background: rgb(var(--darkgrey)) !important;
-  }
-  
   /* Game Page Background */
   .libraryhome_InnerContainer_2AUVZ {
     background: rgb(var(--darkgrey)) !important;
@@ -176,14 +171,6 @@
   .appdetailscommunityfeed_AuthorSection_1ul9Z {
     background: transparent !important;
     padding: 0px !important;
-  }
-  
-  /* Cahnges User Avatar Game Page Communnity Photos */
-  .steamavatar_avatar_3h-QR {
-    border-radius: 60px !important;
-    border: 0px !important;
-    height: 28px !important;
-    width: 28px !important;
   }
   
   /* Removes Padding Social Background */

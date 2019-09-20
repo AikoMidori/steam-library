@@ -1,7 +1,9 @@
 @import url('https://aikomidori.github.io/steam-library/libraryroot.custom.css');
 
+/* Game Page Header Background */
 .libraryhome_UpdatesContainer_17uEB {
     display: var(--WhatsNew) !important;
+    background: rgb(var(--darkgrey)) !important;
 }
 
 .libraryhome_LibraryHomeSection_1NCHR {
