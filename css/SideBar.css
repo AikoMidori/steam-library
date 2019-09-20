@@ -207,7 +207,7 @@
 .gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L:before {
   color: rgb(var(--libraryhome)) !important;
   font-size: var(--LibraryHome) !important;
-  font-weight: bolder !important;
+  font-weight: bold !important;
   content: var(--YourLibraryName) !important;
   visibility: visible !important;
 }
