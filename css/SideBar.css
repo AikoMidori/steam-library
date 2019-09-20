@@ -28,6 +28,14 @@
     background-color: rgb(var(--libraryhome)) !important;
   }
 
+  .gamelisthome_CollectionIcon_nC-pL .gamelisthome_CollectionIconBox_2tyaV.gamelisthome_CollectionIcon_nC-pL .gamelisthome_CollectionIconBox_2tyaV {
+    background: rgb(var(--libraryhome)) !important;
+  }
+
+  .gamelisthome_CollectionIcon_nC-pL .gamelisthome_CollectionIconBox_2tyaV {
+    background: rgb(var(--white)) !important;
+  }
+
   .gamelistsearchbar_Container_20QAC .DialogInput_ClearAction:hover {
     background: red !important;
   }
@@ -142,7 +150,7 @@
   /* Sidebar Game Name Hover */
   .gamelistentry_Container_2-O4Z:hover, .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy {
     background-color: rgb(var(--darkgrey)) !important;
-    transition: background-color 0s !important;
+    transition: 0s !important;
   }
   
   /* Sidebar Game Name Selected */
@@ -193,6 +201,8 @@
   font-size: var(--FontSize) !important;
   content: var(--YourLibraryName) !important;
   font-weight: bold !important;
+  transition-duration: .3s !important;
+  transition-property: color !important;
   text-transform: var(--FontStyle) !important;
   font-family: var(--Font) !important;
   visibility: visible !important;
@@ -204,14 +214,13 @@
 
 .gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L:before {
   font-size: var(--FontSize) !important;
+  transition-delay: .2s !important;
+  transition-duration: .2s !important;
+  transition-property: color !important;
   color: rgb(var(--libraryhome)) !important;
   content: var(--YourLibraryName) !important;
   font-weight: bold !important;
   text-transform: var(--FontStyle) !important;
   font-family: var(--Font) !important;
   visibility: visible !important;
-}
-
-.gamelisthome_CollectionIcon_nC-pL .gamelisthome_CollectionIconBox_2tyaV {
-  background: rgb(var(--libraryhome)) !important;
 }
