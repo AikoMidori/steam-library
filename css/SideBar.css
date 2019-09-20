@@ -194,9 +194,11 @@
 }
 
 .gamelisthome_Label_3O48L:before {
-  font-size: var(--LibraryHome) !important;
+  font-size: var(--FontSize) !important;
   content: var(--YourLibraryName) !important;
   font-weight: bold !important;
+  text-transform: var(--FontStyle) !important;
+  font-family: var(--Font) !important;
   visibility: visible !important;
 }
 
@@ -205,9 +207,11 @@
 }
 
 .gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L:before {
+  font-size: var(--FontSize) !important;
   color: rgb(var(--libraryhome)) !important;
-  font-size: var(--LibraryHome) !important;
-  font-weight: bold !important;
   content: var(--YourLibraryName) !important;
+  font-weight: bold !important;
+  text-transform: var(--FontStyle) !important;
+  font-family: var(--Font) !important;
   visibility: visible !important;
 }
