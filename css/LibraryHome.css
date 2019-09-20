@@ -4,6 +4,8 @@
 .libraryhome_UpdatesContainer_17uEB {
     display: var(--WhatsNew) !important;
     background: rgb(var(--darkgrey)) !important;
+    padding-top: 15px !important;
+    padding-bottom: 275px !important;
 }
 
 .libraryhome_LibraryHomeSection_1NCHR {
@@ -18,3 +20,11 @@
     border-top: 1px solid rgba(0, 0, 0, 0.5) !important;
     border-radius: 4px !important;
 }
+
+/* Scroll To Top */
+.smartscrollcontainer_ScrollToTopButton_1J21t div {
+    background: rgb(var(--backdropblur)) !important;
+    border-radius: 20px !important;
+    bottom: 5px !important;
+    backdrop-filter: blur(50px) !important;
+  }

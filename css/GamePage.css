@@ -3,19 +3,6 @@
 
 /* ------------------GAME PAGES------------------ */
 
-/* Scroll To Color */
-.smartscrollcontainer_ScrollToTopButton_1J21t {
-  color: rgb(var(--black)) !important;
-}
-
-/* Scroll To Top */
-.smartscrollcontainer_ScrollToTopButton_1J21t div {
-  background: rgb(var(--backdropblur)) !important;
-  border-radius: 20px !important;
-  bottom: 5px !important;
-  backdrop-filter: blur(50px) !important;
-}
-  
   /* Beta Button */
   .libraryhome_BetaBar_1HcmY {
     margin-top: 5px !important;
