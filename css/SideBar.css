@@ -211,3 +211,7 @@
   font-family: var(--Font) !important;
   visibility: visible !important;
 }
+
+.gamelisthome_CollectionIcon_nC-pL .gamelisthome_CollectionIconBox_2tyaV {
+  background: rgb(var(--libraryhome)) !important;
+}
