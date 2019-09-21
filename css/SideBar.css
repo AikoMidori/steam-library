@@ -224,3 +224,31 @@
   font-family: var(--Font) !important;
   visibility: visible !important;
 }
+
+.collapseicon_CollapseIconParent_ehAsU .collapseicon_Container_3SFRZ {
+  stroke: rgb(var(--white)) !important;
+}
+
+.gamelistsectionheader_SectionHeaderContent_3cV3O {
+  color: rgb(var(--white)) !important
+}
+
+.gamelistsectionheader_SectionCount_29ute {
+  color: rgb(var(--white)) !important
+}
+
+.gamelistsectionheader_SectionHeaderContent_3cV3O svg {
+  display: none !important;
+}
+
+.collapseicon_Container_3SFRZ .SVGIcon_PlusCircle {
+  width: 30px !important;
+  margin-left: 0px !important;
+}
+
+.gamelistentry_Container_2-O4Z.gamelistentry_Selected_1UBpA.gamelistentry_Uninstalled_5YTBr {
+  color: rgb(var(--libraryhome)) !important; 
+}
+
+.gamelistentry_Container_2-O4Z.gamelistentry_Uninstalled_5YTBr {
+  color: rgb(var(--grey)) !important;  }
