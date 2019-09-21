@@ -3,11 +3,12 @@
 @import url('https://aikomidori.github.io/steam-library/css/LibraryHome.css');
 @import url('https://aikomidori.github.io/steam-library/css/MiniProfile.css');
 @import url('https://aikomidori.github.io/steam-library/css/SideBar.css');
+@import url('https://aikomidori.github.io/steam-library/css/Scrollbar.css');
 /* !!! DO NOT EDIT THESE !!! DO NOT EDIT THESE !!! */
 
 *{
     /*Disable Shadows and Transitions*/
-    transition-duration: .2s !important;
+    transition: 0s !important;
     -webkit-box-shadow: none !important;
     box-shadow: none !important; 
 }
