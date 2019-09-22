@@ -5,7 +5,7 @@ Join us on discord https://discord.gg/015OTigbS9wyJlBDP to discuss about upcomin
 
 ### Requirements
     https://github.com/PhantomGamers/SteamFriendsPatcher/releases/latest
-    Thank you [PhantomGamers](https://github.com/PhantomGamers) for making this possible
+    Thank you <url=https://github.com/PhantomGamers>name</url> for making this possible
     
 ### Manual Installation
 # Windows
