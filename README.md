@@ -8,20 +8,21 @@ Join us on discord https://discord.gg/015OTigbS9wyJlBDP to discuss about upcomin
 Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patcher.
     
     
-### Manual Installation
-# Windows
+## Manual Installation
+
+### Windows
     Head over to:
     "C:/Program files (86)/Steam/steamui/"
     Copy or drag libraryroot.custom.css in, click replace.
     When everything is in place, run Phantom's patcher and you're all set!
     (If the patcher didn't work, please click [Force Check]).
 
-# macOS ( Coming Soon )
+### macOS (Coming Soon)
     Right click on Finder, select "Go to Folder..." and put this in the search path:
     ~/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/skins/YourSkinName/resource
     Copy or drag webkit.css in, click replace, restart steam and you're all done!
     
-# Linux ( Coming Soon )
+### Linux (Coming Soon)
     Open Terminal, copy and paste the following line:
     ~/.local/share/Steam/skins/YourSkinName/resource
     Copy or drag webkit.css in, click replace, restart steam and you're all done!
