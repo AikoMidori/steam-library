@@ -5,7 +5,7 @@ Join us on discord https://discord.gg/015OTigbS9wyJlBDP to discuss about upcomin
 
 ### Requirements
     https://github.com/PhantomGamers/SteamFriendsPatcher/releases/latest
-Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the pathcher.
+Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patcher.
     
     
 ### Manual Installation
@@ -14,17 +14,17 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the pathc
     "C:/Program files (86)/Steam/steamui/"
     Copy or drag libraryroot.custom.css in, click replace.
     When everything is in place, run Phantom's patcher and you're all set!
-    ( If it the patcher didn't work, please ( Force Check ).
+    (If the patcher didn't work, please click [Force Check]).
 
 # macOS ( Coming Soon )
     Right click on Finder, select "Go to Folder..." and put this in the search path:
     ~/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/skins/YourSkinName/resource
-    Copy or drag drag webkit.css in, click replace, restart steam and all done!
+    Copy or drag webkit.css in, click replace, restart steam and you're all done!
     
 # Linux ( Coming Soon )
     Open Terminal, copy and paste the following line:
     ~/.local/share/Steam/skins/YourSkinName/resource
-    Copy or drag webkit.css in, click replace, restart steam and all done!
+    Copy or drag webkit.css in, click replace, restart steam and you're all done!
     
 ------------------------------------------------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the pathc
         - Change library button fontsize.
         - Smoother transition effects.
         - Miniprofiles have been completely remade.
-        - New scollbar and optional colors added.
+        - New scrollbar and optional colors added.
         
     Coming Soon:
         - The ability to change Games Grid
@@ -52,13 +52,5 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the pathc
 
 # Screenshots
 
-<div class="container">
-  <div class="mySlides">
-    <div class="numbertext">1 / 2</div>
-    <img src="https://i.imgur.com/wh39wsB.png" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">2 / 2</div>
-    <img src="https://i.imgur.com/w82Ey2b.png" style="width:100%">
-  </div>
+![](https://i.imgur.com/wh39wsB.png)
+![](https://i.imgur.com/w82Ey2b.png)
