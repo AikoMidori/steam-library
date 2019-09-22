@@ -4,7 +4,8 @@ Visit https://steamcommunity.com/groups/metroskin/discussions/0/1761356057412667
 Join us on discord https://discord.gg/015OTigbS9wyJlBDP to discuss about upcoming releases and updates.
 
 ### Requirements
-    https://github.com/PhantomGamers/SteamFriendsPatcher/releases/tag/0.1.18-beta
+    https://github.com/PhantomGamers/SteamFriendsPatcher/releases/latest
+    Thank you [PhantomGamers](https://github.com/PhantomGamers) for making this possible
     
 ### Manual Installation
 # Windows
