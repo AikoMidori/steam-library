@@ -14,6 +14,7 @@
 
   .gamelisthome_Bar_3pSPl.gamelisthome_Selected_eNLOx .SVGIcon_Home {
     fill: rgb(var(--libraryhome)) !important;
+    transition: .5s !important;
   }
 
   .gamelistentry_Container_2-O4Z .gamelistentry_GameListEntryContainer_1vO6B {
