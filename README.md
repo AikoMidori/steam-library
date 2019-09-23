@@ -13,7 +13,7 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patch
 ### Windows
     Head over to:
     "C:/Program files (86)/Steam/steamui/"
-    Copy or drag libraryroot.custom.css in, click replace.
+    Copy or drag libraryroot.custom.css in.
     When everything is in place, run Phantom's patcher and you're all set!
     (If the patcher didn't work, please click [Force Check]).
 
