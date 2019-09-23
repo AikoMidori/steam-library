@@ -14,6 +14,31 @@
     border-radius: 4px !important;
 }
 
+.appgrid_SortingDropDownContainer_1ZpBQ > div {
+    background: rgb(var(--grey)) !important;
+    border-radius: 4px !important;
+    border: 0px !important;
+}
+
+.tooltip_TextToolTip_SeaN1 { 
+    background-color: #151515 !important;
+    border-radius: 4px !important;
+}
+
+.DialogDropDownMenu._DialogInputContainer {
+    background: rgb(var(--grey)) !important;
+    border-radius: 4px !important;
+    border: 0px !important;
+    margin-top: 4px !important
+}
+
+.DialogDropDownMenu._DialogInputContainer {
+    background: rgb(var(--grey)) !important;
+    border-radius: 4px !important;
+    border: 0px !important;
+    margin-top: 4px !important;
+}
+
 .appportrait_LibraryItemBox_WYgDg {
     border-top: 1px solid rgba(0, 0, 0, 0.5) !important;
     border-radius: 4px !important;
