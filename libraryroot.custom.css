@@ -3,7 +3,7 @@
 /* !!! DO NOT EDIT THESE !!! DO NOT EDIT THESE !!! */
 
 *{
-    /*Disable Shadows and Transitions*/
+    /* Disable Shadows & Transitions */
     transition: 0s !important;
     -webkit-box-shadow: none !important;
     box-shadow: none !important; 
@@ -33,8 +33,8 @@
 
     /* Make Your Own Library Name */
     --FontSize: 15px;
-    --Font: "Motiva Sans", Arial, Helvetica, sans-serif;    /* Any custom fonts u have installed */
-    --FontStyle: uppercase;     /* none to turn off. */
+    --Font: "Motiva Sans", Arial, Helvetica, sans-serif;    /* Any Custom Fonts U Have Installed */
+    --FontStyle: uppercase;     /* none To Yurn Off. */
     --YourLibraryName: "YOUR LIBRARY";
     --BackgroundColor: transparent;
 
@@ -51,12 +51,12 @@
 
 
 
-    /* Change The Blur Amount Blur ( Lower For Better Performance ) */
+    /* Change The Blur Amount ( Lower For Better Performance ) */
     --FuckBlur: blur(50px);     /* Use 10px For Low End PC's */
 
 
 
-    /* RGB VColor To Disable blur */
+    /* Replace none with RGB Color To Disable Blur */
     --FlatColor: none;
 
 }
