@@ -43,6 +43,7 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patch
         
     Coming Soon:
         - The ability to change Games Grid
+        - Offline mode for when your cat ate the Internet Cable :'D
 
     Everything has been written from scratch, and there is so much more to come!
     Keep up to date for the latest changes.
