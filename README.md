@@ -35,11 +35,11 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patch
 
     A complete new release of the Steam Library with many features from user requests.
 
-    Here's what new in version 0.1.5:
-        - Change library button fontsize.
-        - Smoother transition effects.
-        - Miniprofiles have been completely remade.
-        - New scrollbar and optional colors added.
+    Here's what new in version 0.1.7:
+        - Ability to change the amount of blur on game page.
+        - Ability to disable the blur on game page.
+        - Several changes to dropdown and context menus.
+        - Organized the code a bit for petter performance.
         
     Coming Soon:
         - The ability to change Games Grid
