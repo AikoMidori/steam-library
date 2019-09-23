@@ -30,6 +30,7 @@
 .appdetailsoverview_Container_27RcN {
     backdrop-filter: var(--FuckBlur) !important;
     background: rgb(var(--FlatColor)) !important;
+    display: block!important;
 }
 
 /* Blurs The Backgrounds */
