@@ -54,5 +54,5 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patch
 
 # Screenshots
 
-![](https://i.imgur.com/wh39wsB.png)
-![](https://i.imgur.com/w82Ey2b.png)
+![](https://i.imgur.com/PanuGV9.png)
+![](https://i.imgur.com/IJqurhv.png)
