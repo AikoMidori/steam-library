@@ -10,6 +10,16 @@
     background: rgb(var(--lightgrey)) !important;
   }
 
+  /* Removes Play Button Glow */
+  .appdetailsoverview_Glassy_2OOzY > div {
+    z-index: -1 !important;
+  }
+
+  /* Removes Play Button Glow */
+  .appdetailsplaysection_Container_3Yf8b {
+    z-index: 2 !important;
+  }
+
   .appactivityday_ScreenshotCaption_23HTp.appactivityday_HasCaption_tLc3y, .appactivityday_VideoTitle_1d0ij.appactivityday_HasCaption_tLc3y {
     background-image: none !important;
     border-bottom-left-radius: 4px !important;
