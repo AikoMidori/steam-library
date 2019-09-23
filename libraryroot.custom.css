@@ -59,15 +59,12 @@
     /* Replace none with RGB Color To Disable Blur */
     --FlatColor: none;
 
-}
 
-/* ===== CREDITS  =====
-/* SHIINA♪
-/* DISCORD: https://discord.gg/UZvkvkh
-/* GITHUB: https://github.com/AikoMidori/
-/* -------------------------------------------------------------------------------------------
-/* © 2019 All Rights Reserved. Created by Shiina♪
-/**/
+
+    /* Disable/Enable Game Cover Hover Effects */
+    --CoverHover: show;
+
+}
 
 /* ===== CREDITS  =====
 /* SHIINA♪
