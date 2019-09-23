@@ -20,7 +20,7 @@
     --grey: 46, 46, 47;
     --lightgrey: 62, 62, 63;
     --white: 255, 255, 255;
-    --gamelist: 102, 36, 226, 255;      /* Change The Color Of Your Game List Selections */
+    --gamelist: 62, 62, 63;             /* Change The Color Of Your Game List Selections */
     --scrollbar: 62, 62, 63;            /* Change The Color Of Your Scrollbar */
     --backdropblur: 62, 62, 63, 0.3;
     --libraryhome: 255, 255, 255;       /* Library Name Text Color */
@@ -49,7 +49,25 @@
     /* Hide/Show Game Icons ( Choose none / show ) */
     --GameIcons: none;
 
+
+
+    /* Change The Blur Amount Blur ( Lower For Better Performance ) */
+    --FuckBlur: blur(50px);     /* Use 10px For Low End PC's */
+
+
+
+    /* RGB VColor To Disable blur */
+    --FlatColor: none;
+
 }
+
+/* ===== CREDITS  =====
+/* SHIINA♪
+/* DISCORD: https://discord.gg/UZvkvkh
+/* GITHUB: https://github.com/AikoMidori/
+/* -------------------------------------------------------------------------------------------
+/* © 2019 All Rights Reserved. Created by Shiina♪
+/**/
 
 /* ===== CREDITS  =====
 /* SHIINA♪
