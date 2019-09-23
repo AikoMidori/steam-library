@@ -1,4 +1,3 @@
-@import url('https://aikomidori.github.io/steam-library/libraryroot.custom.css');
 @import url('https://aikomidori.github.io/steam-library/css/Scrollbar.css');
 
 /* ------------------GAME PAGES------------------ */
@@ -16,6 +15,30 @@
     border-bottom-left-radius: 4px !important;
     backdrop-filter: blur(50px)
   }
+
+/* Blurs The Backgrounds */
+.appdetailsoverview_Container_27RcN {
+    backdrop-filter: var(--FuckBlur) !important;
+    background: rgb(var(--FlatColor)) !important;
+}
+
+/* Blurs The Backgrounds */
+.appdetailsoverview_Glassy_2OOzY .appdetailsoverview_BackdropGlass_Jbe-- {
+    backdrop-filter: var(--FuckBlur) !important;
+    background: rgb(var(--FlatColor)) !important;
+}
+
+/* Changes Blur Color & Depth For Games Page */
+.appdetailsoverview_Glassy_2OOzY .appdetailsoverview_ColumnContainer_OhSdL {
+    backdrop-filter: var(--FuckBlur) !important;
+    background: rgb(var(--FlatColor)) !important;
+}
+
+/* Game Page Launch Game Bar */
+.appdetailsplaysection_StickyHeader_39Rhe .appdetailsplaysection_Glassy_3DeO9 {
+    backdrop-filter: var(--FuckBlur) !important;
+    background: rgb(var(--FlatColor)) !important;
+}
 
   .appdetailscommunityfeed_ArtItem_1aP1b .appdetailscommunityfeed_BottomSection_3uabi {
     background: none !important;
@@ -116,24 +139,6 @@
     border-radius: 4px;
   }
   
-  
-  .appdetailsoverview_Glassy_2OOzY .appdetailsoverview_BackdropGlass_Jbe--
-  {
-    backdrop-filter: blur(50px) !important;
-    /* background: linear-gradient(to bottom,
-    rgba(46, 46, 47, 0.1) 0%, 
-    rgba(46, 46, 47, 0.7) 82px,
-    rgba(46, 46, 47, 0.3) 80%,
-    rgba(46, 46, 47, 0) 100%) !important; */
-    background: none !important;
-  }
-  
-  /* Changes Blur Color & Depth For Games Page */
-  .appdetailsoverview_Glassy_2OOzY .appdetailsoverview_ColumnContainer_OhSdL {
-    background: transparent !important;
-    backdrop-filter: blur(50px) !important;
-  }
-  
   /* Changes Blur Color For Games Page */
   .appdetails_ScrollContainer_2l416 {
     background-color: rgb(var(--darkgrey)) !important;
@@ -208,17 +213,6 @@
   /* Removes Play/Install Background */
   .appdetailsplaysection_Glassy_3DeO9.appdetailsplaysection_PlayBar_3fLo1 {
     background: none !important;
-  }
-  
-  /* Blurs The Backgrounds */
-  .appdetailsoverview_Container_27RcN {
-    backdrop-filter: blur(50px) !important;
-  }
-  
-  /* Game Page Launch Game Bar */
-  .appdetailsplaysection_StickyHeader_39Rhe .appdetailsplaysection_Glassy_3DeO9 {
-    backdrop-filter: blur(50px) !important;
-    background-color: transparent !important;
   }
   
   /* Game Page Content Background */

@@ -1,5 +1,4 @@
-@import url('https://aikomidori.github.io/steam-library/libraryroot.custom.css');
-@import url('https://aikomidori.github.io/steam-library/Scrollbar.css');
+@import url('https://aikomidori.github.io/steam-library/css/Scrollbar.css');
 /* ------------------SIDEBAR GAME LIST------------------ */
 
 /* Sidebar Background */
@@ -14,25 +13,6 @@
 
   .gamelisthome_Bar_3pSPl.gamelisthome_Selected_eNLOx .SVGIcon_Home {
     fill: rgb(var(--libraryhome)) !important;
-    transition: .8s !important;
-  }
-
-    .gamelisthome_Bar_3pSPl .SVGIcon_Home {
-        transition: 1s !important;
-  }
-
-  .gamelistentry_Container_2-O4Z .gamelistentry_GameListEntryContainer_1vO6B {
-    margin-left: 12px !important;
-  }
-
-  .gamelistsectionheader_Container_2sYIg.gamelistsectionheader_HoverOverlay_2zGph {
-    background-color: rgb(var(--darkgrey)) !important;
-  }
-
-  .gamelistentry_FriendIsPlaying_cNZ3w {
-    width: 15px !important;
-    height: 15px !important;
-    left: -23px !important;
   }
 
   .gamelistsearchbar_Container_20QAC .DialogInput_ClearAction, .gamelistsearchbar_Container_20QAC .gamelistsearchbar_SearchFilterInputClear_38tIM {
@@ -163,24 +143,23 @@
   
   /* Sidebar Catogory Name Selected */
   .gamelistsectionheader_Container_2sYIg.gamelistsectionheader_Selected_sXMOs {
-    background-color: rgb(var(--gamelist)) !important;
+    background-color: rgb(var(--darkgrey)) !important;
   }
   
   /* Sidebar Game Name Hover */
   .gamelistentry_Container_2-O4Z:hover, .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy {
-    background-color: rgb(var(--gamelist)) !important;
+    background-color: rgb(var(--darkgrey)) !important;
     transition: 0s !important;
   }
   
   /* Sidebar Game Name Selected */
   .gamelistentry_Selected_1UBpA {
-    background-color: rgb(var(--gamelist)) !important;
-    color: rgb(var(--white)) !important;  
+    background-color: rgb(var(--darkgrey)) !important;
   }
   
   /* Sidebar Game Name Selected Hover */
   .gamelistentry_Container_2-O4Z.gamelistentry_Selected_1UBpA:hover, .gamelistentry_Container_2-O4Z.gamelistentry_Selected_1UBpA.gamelistentry_HoverOverlay_3cMVy {
-    background: rgb(var(--gamelist)) !important;
+    background: rgb(var(--darkgrey)) !important;
   }
 
 .contextmenu_contextMenu_PP7LM {
@@ -267,13 +246,13 @@
 }
 
 .gamelistentry_Container_2-O4Z.gamelistentry_Selected_1UBpA.gamelistentry_Uninstalled_5YTBr {
-  color: rgb(var(--white)) !important;  
+  color: rgb(var(--libraryhome)) !important; 
 }
 
 .gamelistentry_Container_2-O4Z.gamelistentry_Uninstalled_5YTBr:hover, .gamelistentry_Container_2-O4Z.gamelistentry_Uninstalled_5YTBr.gamelistentry_HoverOverlay_3cMVy {
-  color: rgb(var(--white)) !important; 
+  color: rgb(var(--libraryhome)) !important;  
 }
 
 .gamelistentry_Container_2-O4Z.gamelistentry_Selected_1UBpA.gamelistentry_Updating_1LVQp {
-  color: rgb(var(--white)) !important; 
+  color: rgb(var(--libraryhome)) !important; 
 }
