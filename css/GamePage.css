@@ -20,6 +20,24 @@
     z-index: 2 !important;
   }
 
+  .appactivityday_PartnerEvent_1AYE1 {
+    border: 0x !important;
+    border-image-source: none !important;
+    background: transparent !important;
+  }
+
+  .appactivityday_PartnerEventMediumImage_Container_1HZy7:hover {
+    background:none;
+  }
+
+  .appactivityday_Event_UVeN0:first-child {
+    border-radius: 4px !important;
+  }
+
+  .appactivityday_PartnerEventMediumImage_Container_1HZy7 {
+    background: none !important;
+  }
+
   .appactivityday_ScreenshotCaption_23HTp.appactivityday_HasCaption_tLc3y, .appactivityday_VideoTitle_1d0ij.appactivityday_HasCaption_tLc3y {
     background-image: none !important;
     border-bottom-left-radius: 4px !important;
