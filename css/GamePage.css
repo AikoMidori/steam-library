@@ -185,6 +185,18 @@
     background-color: rgb(var(--backdropblur)) !important;
   }
 
+  .comment_thread_ActivityCommentThread_39nna {
+    background: transparent !important;
+  }
+
+  .posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2 {
+    background: rgb(var(--black)) !important;
+  }
+
+  .posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2:focus {
+    background: rgb(var(--black)) !important;
+  }
+
   /* Changes Background Game Page Communnity Guide */
   .appdetailscommunityfeed_Guide_-85o5 .appdetailscommunityfeed_TopSectionInner_1dJuv {
     background: transparent !important;
