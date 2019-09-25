@@ -189,6 +189,15 @@
     background: transparent !important;
   }
 
+  .appactivityday_PartnerEventLargeImage_Container_Libri {
+    background: transparent !important;
+    border: 0px !important;
+    border-image-source: none !important;
+  }
+
+  .appactivityday_PartnerEventLargeImage_Container_Libri:hover {
+    background: transparent !important;
+
   .posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2 {
     background: rgb(var(--black)) !important;
   }
