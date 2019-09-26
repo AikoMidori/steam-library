@@ -106,12 +106,14 @@
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_SearchInput_12vo5 .DialogTextInputBase {
   background: rgb(var(--darkgrey)) !important;
   border-radius: 30px !important;
+  padding-right: 20px !important;
 }
 
 /* Sidebar Searchbar Hover Color */
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_SearchInput_12vo5 .DialogTextInputBase:hover {
   background: rgb(var(--darkgrey)) !important;
   border-radius: 30px !important;
+  padding-right: 20px !important;
 }
 
 /* Sidebar Searchbar Position */
@@ -150,6 +152,14 @@
   margin-left: 5px;
 }
 
+.gamelistdropdown_ScrollToTop_uE7Pj .SVGIcon_Arrow {
+  border: 0px !important;
+}
+
+.gamelistdropdown_Bar_1ZS_x .gamelistdropdown_MenuHeader_2PF_m {
+  border: 0px !important;
+}
+
 /* Sidebar Catogory Name Position */
 .gamelist_Container_1ijTa .ReactVirtualized__Grid {
   margin-left: 0px !important;
@@ -185,7 +195,13 @@
 .contextmenu_contextMenu_PP7LM {
   background: rgb(var(--darkgrey)) !important;
   border-radius: 4px !important;
-  margin-left: 10px !important;
+  margin-left: 0px !important;
+  padding: 2px !important;
+  margin-top: 5px !important;
+}
+
+.gamelistsearchbar_Container_20QAC .gamelistsearchbar_AdvancedSearchContainer_vCCmY .gamelistsearchbar_AdvancedSearchPaneContainer_1dgAM.gamelistsearchbar_Visible_1v65x .gamelistsearchbar_AdvancedSearchPane_Woh0k:before {
+  display: none !important;
 }
 
 .appfilterpane_Container_170Np .appfilterpane_FilterArea_1ennW .appfilterpane_FilterBucket_1axoi .DialogInput_Wrapper .DialogTextInputBase {
