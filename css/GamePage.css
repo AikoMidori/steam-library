@@ -199,6 +199,16 @@
     background: transparent !important;
   }
 
+  .posttextentry_PostTextEntry_3x31A .posttextentry_Controls_37e7D .posttextentry_PostButton_2JSyA {
+    background-color: rgb(var(--backdropblur)) !important;
+    border-radius: 4px !important;
+  }
+
+  .posttextentry_PostTextEntry_3x31A .posttextentry_Controls_37e7D button.posttextentry_EmoticonButton_bACIu {
+    background-color: rgb(var(--backdropblur)) !important;
+    border-radius: 4px !important;
+  }
+
   .posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2 {
     background: rgb(var(--backdropblur)) !important;
   }
