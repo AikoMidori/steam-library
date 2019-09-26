@@ -200,11 +200,11 @@
   }
 
   .posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2 {
-    background: rgb(var(--black)) !important;
+    background: rgb(var(--backdropblur)) !important;
   }
 
   .posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2:focus {
-    background: rgb(var(--black)) !important;
+    background: rgb(var(--backdropblur)) !important;
   }
 
   /* Changes Background Game Page Communnity Guide */
