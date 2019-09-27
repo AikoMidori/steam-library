@@ -64,6 +64,12 @@
     /* Disable/Enable Game Cover Hover Effects */
     --CoverHover: show;
 
+
+
+    /* Hide/Show Friend In-Game Icon ( Choose none / show ) */
+    --FriendInGameIcon: none;
+    --FriendInGameIconPosition: -12px;  /* Set 12px If Icon Is Enabled */
+    
 }
 
 /* ===== CREDITS  =====
