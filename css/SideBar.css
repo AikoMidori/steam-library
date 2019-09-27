@@ -228,6 +228,7 @@
   margin-left: 10px !important;
 }
 
+/* Home Button Not In Use 
 .gamelisthome_Label_3O48L {
   visibility: hidden !important;
   font-size: 0px !important;
@@ -260,7 +261,9 @@
   text-transform: var(--FontStyle) !important;
   font-family: var(--Font) !important;
   visibility: visible !important;
+  display: block !important;
 }
+*/
 
 .collapseicon_CollapseIconParent_ehAsU .collapseicon_Container_3SFRZ {
 stroke: rgb(var(--white)) !important;
@@ -283,10 +286,6 @@ stroke: rgb(var(--white)) !important;
   margin-left: 0px !important;
 }
 
-.gamelistentry_Container_2-O4Z.gamelistentry_Selected_1UBpA.gamelistentry_Uninstalled_5YTBr {
-   
-}
-
 .gamelistentry_Container_2-O4Z.gamelistentry_Uninstalled_5YTBr:hover, .gamelistentry_Container_2-O4Z.gamelistentry_Uninstalled_5YTBr.gamelistentry_HoverOverlay_3cMVy {
   color: rgb(var(--white)) !important; 
 }
@@ -296,5 +295,14 @@ stroke: rgb(var(--white)) !important;
 }
 
 .gamelistentry_AppIconDownloading_2kzMb {
-  display: var(--GameIcons);
+  display: var(--GameIcons) !important;
 }
+
+.gamelistentry_FriendIsPlaying_cNZ3w {
+  display: var(--FriendInGameIcon) !important;
+}
+
+.gamelistentry_Container_2-O4Z .gamelistentry_GameListEntryContainer_1vO6B {
+  margin-left: var(--FriendInGameIconPosition) !important;
+}
+
