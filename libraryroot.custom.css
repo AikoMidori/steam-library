@@ -25,7 +25,7 @@
     --backdropblur: 62, 62, 63, 0.3;
     --libraryhome: 255, 255, 255;       /* Library Name Text Color */
     --titlehover: 00, 00, 00, 00;
-    --gamehover: 00, 00, 00, 00;
+    --gamehover: 255, 255, 255;
     --offline: 145, 145, 145;
     --ingame: 130, 186, 0;
 
