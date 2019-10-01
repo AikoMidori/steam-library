@@ -195,6 +195,14 @@
     border-image-source: none !important;
   }
 
+  .spotlightgameplaysummary_SummaryCarouselContainer_wgbDI {
+    background: transparent !important;
+  }
+
+  .spotlightgameplaysummary_SummaryCarouselContainer_wgbDI:after {
+    box-shadow: none !important;
+  }
+
   .appdetailsspotlight_NewDLCContainer_3Exow {
     background: transparent !important;
   }
