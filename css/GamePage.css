@@ -61,7 +61,7 @@
 
 /* Changes Blur Color & Depth For Games Page */
 .appdetailsoverview_Glassy_2OOzY .appdetailsoverview_ColumnContainer_OhSdL {
-    backdrop-filter: var(--FuckBlur) !important;
+    backdrop-filter: blur(0px) !important;
     background: rgb(var(--FlatColor)) !important;
 }
 
