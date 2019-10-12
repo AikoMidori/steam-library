@@ -234,6 +234,7 @@
 }
 
 .gamelisthome_Label_3O48L:before {
+  color: rgb(var(--libraryhome)) !important;
   content: var(--YourLibraryName) !important;
   font-weight: bold !important;
   transition-duration: .3s !important;
