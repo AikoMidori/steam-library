@@ -31,14 +31,13 @@
 
 
 
-    /* ( Out Of Order )
-    /* Make Your Own Library Name
+    /* Make Your Own Library Name */
     --FontSize: 15px;
-    --Font: "Motiva Sans", Arial, Helvetica, sans-serif;    /* Any Custom Fonts U Have Installed
-    --FontStyle: uppercase;     /* none To Yurn Off.
-    --YourLibraryName: "YOUR LIBRARY";
+    --Font: "Motiva Sans", Arial, Helvetica, sans-serif;    /* Any Custom Fonts U Have Installed */
+    --FontStyle: uppercase;     /* none To Yurn Off. */
+    --LetterSpacing: 3px !important;
+    --YourLibraryName: "YOUR LIBRARY" !important;
     --BackgroundColor: transparent;
-    */
 
 
     /* Hide/Show Categories ( Choose none / block ) */
