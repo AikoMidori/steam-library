@@ -57,9 +57,9 @@
     border-radius: 20px !important;
     bottom: 5px !important;
     backdrop-filter: blur(50px) !important;
-  }
+}
 
-  .libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd .libraryhomenewupdates_EventTimeSpan_3OSZu {
+.libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd .libraryhomenewupdates_EventTimeSpan_3OSZu {
     background-color: rgba(var(--backdropfilter)) !important;
     backdrop-filter: blur(50px) !important;
     border-radius: 4px !important;
@@ -68,4 +68,8 @@
 
 .libraryhome_Container_2gSXC {
     background: rgb(var(--darkgrey)) !important;
+}
+
+.offline .steamavatar_avatarStatus_3xUpb.avatarStatus.none {
+    display: none !important;
 }
