@@ -231,7 +231,6 @@
 
 .gamelisthome_Label_3O48L {
   visibility: hidden !important;
-  font-size: 0px !important;
 }
 
 .gamelisthome_Label_3O48L:before {
@@ -247,7 +246,6 @@
 
 .gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L {
   visibility: hidden !important;
-  font-size: 0px !important;
 }
 
 .gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L:before {
