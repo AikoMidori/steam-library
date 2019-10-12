@@ -127,7 +127,6 @@
   margin-left: 10px !important;
   background-color: rgb(var(--BackgroundColor)) !important;
   border: 1px solid transparent !important;
-  letter-spacing: var(--LetterSpacing) !important;
 }
 
 /* Filter Button + Background */
