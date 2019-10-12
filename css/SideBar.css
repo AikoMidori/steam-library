@@ -228,6 +228,7 @@
   margin-left: 10px !important;
 }
 
+
 .gamelisthome_Label_3O48L {
   visibility: hidden !important;
   font-size: 0px !important;
@@ -242,7 +243,6 @@
   text-transform: var(--FontStyle) !important;
   font-family: var(--Font) !important;
   visibility: visible !important;
-  display: block !important;
 }
 
 .gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L {
