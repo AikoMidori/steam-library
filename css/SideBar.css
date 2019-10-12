@@ -127,6 +127,7 @@
   margin-left: 10px !important;
   background-color: rgb(var(--BackgroundColor)) !important;
   border: 1px solid transparent !important;
+  letter-spacing: var(--LetterSpacing) !important;
 }
 
 /* Filter Button + Background */
@@ -228,12 +229,12 @@
   margin-left: 10px !important;
 }
 
-
 .gamelisthome_Label_3O48L {
   visibility: hidden !important;
+  font-size: 0px !important;
 }
 
-.gamelisthome_Label_3O48L:before {
+.gamelisthome_Label_3O48L::before {
   font-size: var(--FontSize) !important;
   content: var(--YourLibraryName) !important;
   font-weight: bold !important;
@@ -242,13 +243,17 @@
   text-transform: var(--FontStyle) !important;
   font-family: var(--Font) !important;
   visibility: visible !important;
+  display: block !important;
+  margin-top: 15px !important;
+  letter-spacing: var(--LetterSpacing) !important;
 }
 
 .gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L {
   visibility: hidden !important;
+  font-size: 0px !important;
 }
 
-.gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L:before {
+.gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L::before {
   font-size: var(--FontSize) !important;
   transition-delay: .2s !important;
   transition-duration: .2s !important;
@@ -259,6 +264,9 @@
   text-transform: var(--FontStyle) !important;
   font-family: var(--Font) !important;
   visibility: visible !important;
+  display: block !important;
+  margin-top: 15px !important;
+  letter-spacing: var(--LetterSpacing) !important;
 }
 
 .collapseicon_CollapseIconParent_ehAsU .collapseicon_Container_3SFRZ {
