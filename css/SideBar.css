@@ -127,6 +127,7 @@
   margin-left: 10px !important;
   background-color: rgb(var(--BackgroundColor)) !important;
   border: 1px solid transparent !important;
+  letter-spacing: var(--LetterSpacing) !important;
 }
 
 /* Filter Button + Background */
@@ -234,7 +235,6 @@
 }
 
 .gamelisthome_Label_3O48L:before {
-  font-size: var(--FontSize) !important;
   content: var(--YourLibraryName) !important;
   font-weight: bold !important;
   transition-duration: .3s !important;
@@ -242,6 +242,8 @@
   text-transform: var(--FontStyle) !important;
   font-family: var(--Font) !important;
   visibility: visible !important;
+  display: block !important;
+  margin-top: 15px !important;
 }
 
 .gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L {
@@ -250,7 +252,6 @@
 }
 
 .gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L:before {
-  font-size: var(--FontSize) !important;
   transition-delay: .2s !important;
   transition-duration: .2s !important;
   transition-property: color !important;
@@ -261,6 +262,7 @@
   font-family: var(--Font) !important;
   visibility: visible !important;
   display: block !important;
+  margin-top: 15px !important;
 }
 
 .collapseicon_CollapseIconParent_ehAsU .collapseicon_Container_3SFRZ {
