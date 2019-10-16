@@ -73,3 +73,15 @@
 .offline .steamavatar_avatarStatus_3xUpb.avatarStatus.none {
     display: none !important;
 }
+
+.online .steamavatar_avatarStatus_3xUpb.avatarStatus.none {
+    display: none !important;
+}
+
+.ingame .steamavatar_avatarStatus_3xUpb.avatarStatus.none {
+    display: none !important;
+}
+
+.snooze .steamavatar_avatarStatus_3xUpb.avatarStatus.none {
+    display: none !important;
+}
