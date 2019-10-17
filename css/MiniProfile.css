@@ -187,3 +187,8 @@
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.in-game .miniprofile_avatarStatus_1YdpX.miniprofile_miniProfileAvatarStatus_1k5Yk {
     background: rgb(var(--ingame)) !important;
     border-radius: 4px !important; }
+
+
+.appdetailsfriendssection_PlaytimeSection_1s3b9 {
+    background: rgb(var(--black)) !important;
+}
