@@ -85,3 +85,7 @@
 .snooze .steamavatar_avatarStatus_3xUpb.avatarStatus.none {
     display: none !important;
 }
+
+.appportrait_FriendsBar_3dncO .appportrait_IconsRestCount_2JYwp.appportrait_Short_yGeS6 {
+    border-radius: 25px !important;
+}
