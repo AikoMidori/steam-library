@@ -29,7 +29,7 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patch
     
 ------------------------------------------------------------------------------------------------------------------
 
-### Beta Update 0.1.6
+### Beta Update 0.1.7
 
 **What's New?**
 
@@ -40,6 +40,7 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patch
         - Ability to disable the blur on game page.
         - Several changes to dropdown and context menus.
         - Organized the code a bit for petter performance.
+        - Added macOS and Linux library and darkmode intergration.
         
     Coming Soon:
         - The ability to change Games Grid
