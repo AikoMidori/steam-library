@@ -18,14 +18,14 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patch
     (If the patcher didn't work, please click [Force Check]).
 
 ### macOS ( Beta )
-    Right click on Finder, select "Go to Folder..." and put this in the search path:
+    Right click on Finder, select "Go to Folder..." and enter the following line in the search path:
     ~/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/skins/YourSkinName/resource
-    Copy or drag webkit.css in, click replace, restart steam and you're all done!
+    Copy or drag webkit.css from `macOS - Linux` folder in, click replace, restart steam and you're all done!
     
 ### Linux ( Beta )
     Open Terminal, copy and paste the following line:
     ~/.local/share/Steam/skins/YourSkinName/resource
-    Copy or drag webkit.css in, click replace, restart steam and you're all done!
+    Copy or drag webkit.css from `macOS - finux` Folder in, click replace, restart steam and you're all done!
     
 ------------------------------------------------------------------------------------------------------------------
 
