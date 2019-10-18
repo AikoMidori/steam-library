@@ -25,7 +25,7 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patch
 ### Linux ( Beta )
     Open Terminal, copy and paste the following line:
     ~/.local/share/Steam/skins/YourSkinName/resource
-    Copy or drag webkit.css from `macOS - finux` Folder in, click replace, restart steam and you're all done!
+    Copy or drag webkit.css from `macOS - Linux` Folder in, click replace, restart steam and you're all done!
     
 ------------------------------------------------------------------------------------------------------------------
 
