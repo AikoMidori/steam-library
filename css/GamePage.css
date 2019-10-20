@@ -69,6 +69,7 @@
 .appdetailsplaysection_StickyHeader_39Rhe .appdetailsplaysection_Glassy_3DeO9 {
     backdrop-filter: var(--FuckBlur) !important;
     background: rgb(var(--FlatColor)) !important;
+    margin-left: -6px !important;
 }
 
   .appdetailscommunityfeed_ArtItem_1aP1b .appdetailscommunityfeed_BottomSection_3uabi {
@@ -295,6 +296,11 @@
     background: rgb(var(--backdropblur)) !important;
     border-radius: 4px !important;
     padding-left: 5px !important;
+  }
+
+  .appdetailsplaysection_StickyHeaderShadow_2_86Q {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.2) 10%, rgba(0, 0, 0, 0) 10%) !important;
+    margin-left: -6px !important;
   }
   
   /* Game Page Achievements Background */
