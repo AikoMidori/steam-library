@@ -292,7 +292,9 @@
   
   /* Game Page Content Background */
   .appactivityday_Event_UVeN0 .appactivityday_EventBody_NEMXh {
-    background: none !important;
+    background: rgb(var(--backdropblur)) !important;
+    border-radius: 4px !important;
+    padding-left: 5px !important;
   }
   
   /* Game Page Achievements Background */
