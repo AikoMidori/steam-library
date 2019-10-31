@@ -28,8 +28,8 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patch
     Copy or drag webkit.css from 'macOS - Linux' folder in, click replace, restart steam and you're all done!
     
 # Extra's
-    Open libraryroot.custom.css with a text editor and there are many features for you to
-    check out and change however you like it!
+   Open libraryroot.custom.css with a text editor and there are many features for you to
+   check out and change however you like it!
     
 ------------------------------------------------------------------------------------------------------------------
 
