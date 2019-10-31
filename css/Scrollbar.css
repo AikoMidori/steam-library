@@ -1,6 +1,7 @@
 ::-webkit-scrollbar{
   background-color: transparent !important;
   border-radius: 0px !important;
+  width:18px !important;
   -webkit-box-shadow: none !important;
 }
 
