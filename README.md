@@ -33,6 +33,7 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patch
     Open libraryroot.custom.css with a text editor and there are many features for you to
     check out and change however you like it!
     
+------------------------------------------------------------------------------------------------------------------
 
 ### Beta Update 0.1.7
 
