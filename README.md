@@ -6,6 +6,10 @@ Join us on discord https://discord.gg/015OTigbS9wyJlBDP to discuss about upcomin
 ### Requirements
     https://github.com/PhantomGamers/SteamFriendsPatcher/releases/latest
 Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patcher.
+
+### Extra's
+    Open libraryroot.custom.css with a text editor and there are many features for you to
+    check out and change however you like it!
     
     
 ## Manual Installation
