@@ -6,10 +6,6 @@ Join us on discord https://discord.gg/015OTigbS9wyJlBDP to discuss about upcomin
 ### Requirements
     https://github.com/PhantomGamers/SteamFriendsPatcher/releases/latest
 Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patcher.
-
-### Extra's
-    Open libraryroot.custom.css with a text editor and there are many features for you to
-    check out and change however you like it!
     
     
 ## Manual Installation
@@ -30,6 +26,10 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patch
     Open Terminal, copy and paste the following line:
     ~/.local/share/Steam/skins/YourSkinName/resource
     Copy or drag webkit.css from 'macOS - Linux' folder in, click replace, restart steam and you're all done!
+    
+## Extra's
+    Open libraryroot.custom.css with a text editor and there are many features for you to
+    check out and change however you like it!
     
 ------------------------------------------------------------------------------------------------------------------
 
