@@ -35,7 +35,7 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patch
     
 ------------------------------------------------------------------------------------------------------------------
 
-### Beta Update 0.1.7
+### Beta Update 0.1.8
 
 **What's New?**
 
@@ -49,7 +49,7 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patch
         - Added macOS and Linux library and darkmode intergration.
         
     Coming Soon:
-        - The ability to change Games Grid
+        - A squared version of the Library ( who needs circles if we can have squares )
         - Offline mode for when your cat ate the Internet Cable :'D
 
     Everything has been written from scratch, and there is so much more to come!
