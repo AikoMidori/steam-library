@@ -17,7 +17,7 @@
 
   /* Removes Play Button Glow */
   .appdetailsplaysection_Container_3Yf8b {
-    z-index: 2 !important;
+    z-index: -100 !important;
   }
 
   .appactivityday_PartnerEvent_1AYE1 {
