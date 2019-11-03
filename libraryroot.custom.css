@@ -70,6 +70,18 @@
     /* Hide/Show Friend In-Game Icon ( Choose none / show ) */
     --FriendInGameIcon: none;
     --FriendInGameIconPosition: -12px;  /* Set 12px If Icon Is Enabled */
+
+    
+    /* Change Play/Install Buttons ( Set 2 colors for 1 button. ) */
+    --ButtonPlay: #70d61d 0%;
+    --ButtonPlay2: #01a75b 60%;
+    --ButtonPlayHover: #70d61d 0%; 
+    --ButtonPlayHover2: #01a75b 60%;
+    
+    --ButtonInstall: #47bfff 0%;
+    --ButtonInstall2: #1a44c2 60%;
+    --ButtonInstallHover: #47bfff 0%;
+    --ButtonInstallHover2: #1a44c2 60%;
     
 }
 

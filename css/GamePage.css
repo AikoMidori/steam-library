@@ -310,3 +310,52 @@
   .writereview_RatingContainer_2Jk1D { 
     background-color: transparent !important;
   }
+
+  .appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX {
+    background: linear-gradient(to right, var(--ButtonPlay), var(--ButtonPlay2)) !important;
+}
+
+.appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX.appactionbutton_StreamingSelector_2q-gZ {
+    background: linear-gradient(to right, var(--ButtonPlayHover), var(--ButtonPlayHover2)) !important;
+}
+
+:not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX:hover {
+    background: linear-gradient(to right, var(--ButtonPlayHover), var(--ButtonPlayHover2)) !important;
+}
+
+:not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX:hover svg {
+    fill: white !important; 
+}
+
+.appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX svg {
+    fill: white !important; 
+}
+
+.appactionbutton_ButtonChild_2AzIX {
+  background: linear-gradient(to right, var(--ButtonInstall), var(--ButtonInstall2)); 
+}
+
+.appactionbutton_ButtonChild_2AzIX {
+  background: linear-gradient(to right, var(--ButtonInstall), var(--ButtonInstall2)) !important;
+}
+
+.appactionbutton_ButtonChild_2AzIX.appactionbutton_StreamingSelector_2q-gZ {
+  background: linear-gradient(to right, var(--ButtonInstallHover), var(--ButtonInstallHover2)) !important;
+}
+
+:not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_ButtonChild_2AzIX:hover {
+  background: linear-gradient(to right, var(--ButtonInstallHover), var(--ButtonInstallHover2)) !important;
+}
+
+:not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_ButtonChild_2AzIX svg {
+  fill: white !important;
+}
+
+:not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_ButtonChild_2AzIX svg path {
+  stroke: white !important; 
+}
+
+:not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_ButtonChild_2AzIX svg line, :not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_ButtonChild_2AzIX svg polygon {
+  stroke: white !important;
+  fill: white !important;
+}
