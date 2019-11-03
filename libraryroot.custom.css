@@ -76,12 +76,12 @@
     --ButtonPlay: #70d61d 0%;
     --ButtonPlay2: #01a75b 60%;
     --ButtonPlayHover: #70d61d 0%; 
-    --ButtonPlayHover2: #01a75b 60%;
+    --ButtonPlayHover2: #01a75b 100%;
     
     --ButtonInstall: #47bfff 0%;
     --ButtonInstall2: #1a44c2 60%;
     --ButtonInstallHover: #47bfff 0%;
-    --ButtonInstallHover2: #1a44c2 60%;
+    --ButtonInstallHover2: #1a44c2 100%;
     
 }
 
