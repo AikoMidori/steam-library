@@ -1,88 +1,12 @@
 /* !!! DO NOT EDIT THESE !!! DO NOT EDIT THESE !!! */
 @import url('https://aikomidori.github.io/steam-library/css/live.css');
+@import url('config.css');
 /* !!! DO NOT EDIT THESE !!! DO NOT EDIT THESE !!! */
 
-*{
-    /* Disable Shadows & Transitions */
+*{  /* Disable Shadows & Transitions */
     transition: 0s !important;
     -webkit-box-shadow: none !important;
     box-shadow: none !important; 
-}
-
-
-/* MODIFICATIONS DOWN BELOW */
-
-:root {
-
-    /* Colors ( Only works with RGB ) */
-    --black: 21, 21, 21;
-    --darkgrey: 30, 30, 31;
-    --grey: 46, 46, 47;
-    --lightgrey: 62, 62, 63;
-    --white: 255, 255, 255;
-    --gamelist: 62, 62, 63;             /* Change The Color Of Your Game List Selections */
-    --scrollbar: 62, 62, 63;            /* Change The Color Of Your Scrollbar */
-    --backdropblur: 62, 62, 63, 0.3;
-    --libraryhome: 255, 255, 255;       /* Library Name Text Color */
-    --titlehover: 00, 00, 00, 00;
-    --gamehover: 255, 255, 255;
-    --offline: 145, 145, 145;
-    --ingame: 144, 186, 60;
-    --online: 93, 178, 254;
-
-
-
-    /* Make Your Own Library Name */
-    --FontSize: 15px;
-    --Font: "Motiva Sans", Arial, Helvetica, sans-serif;    /* Any Custom Fonts U Have Installed */
-    --FontStyle: uppercase;     /* none To Yurn Off. */
-    --LetterSpacing: 3px !important;
-    --YourLibraryName: "YOUR LIBRARY" !important;
-    --BackgroundColor: transparent;
-
-
-    /* Hide/Show Categories ( Choose none / block ) */
-    --WhatsNew: block;
-    --Recent: block;
-
-
-
-    /* Hide/Show Game Icons ( Choose none / show ) */
-    --GameIcons: none;
-
-
-
-    /* Change The Blur Amount ( Lower For Better Performance ) */
-    --FuckBlur: blur(50px);     /* Use 10px For Low End PC's */
-
-
-
-    /* Replace none with RGB Color To Disable Blur */
-    --FlatColor: none;
-
-
-
-    /* Disable/Enable Game Cover Hover Effects */
-    --CoverHover: show;
-
-
-
-    /* Hide/Show Friend In-Game Icon ( Choose none / show ) */
-    --FriendInGameIcon: none;
-    --FriendInGameIconPosition: -12px;  /* Set 12px If Icon Is Enabled */
-
-    
-    /* Change Play/Install Buttons ( Set 2 colors for 1 button. ) */
-    --ButtonPlay: #70d61d 0%;
-    --ButtonPlay2: #01a75b 60%;
-    --ButtonPlayHover: #70d61d 0%; 
-    --ButtonPlayHover2: #01a75b 100%;
-    
-    --ButtonInstall: #47bfff 0%;
-    --ButtonInstall2: #1a44c2 60%;
-    --ButtonInstallHover: #47bfff 0%;
-    --ButtonInstallHover2: #1a44c2 100%;
-    
 }
 
 /* ===== CREDITS  =====

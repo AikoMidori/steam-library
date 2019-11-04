@@ -1,0 +1,96 @@
+/* MODIFICATIONS DOWN BELOW */
+
+:root { /* COLORS */
+
+    --black: #151515; /* Black color */
+    --darkgrey: #1e1e1f; /* Dark grey color */
+    --grey: #2e2e2f; /* Grey color */
+    --lightgrey: #3e3e3f; /* Light grey color */
+    --white: #ffffff; /* White color */
+    --scrollbar: #6624e2; /* Scrollbar color */
+    --backdropblur: #3e3e3e3e; /* Blur color */
+    --libraryhome: #6624e2; /* Main library color */
+    --progressbar: #6624e2; /* Progressbar color */
+    --gamelist: #6624e2; /* Gamelist selected color */
+    --titlehover: #00000000; /* Title hover color */
+    --gamehover: #ffffff; /* Game hover color */
+    --textColor: #6624e2; /* Text color */
+    --offline: #919191; /* Offline avatar color */
+    --ingame: #90ba3c; /* Ingame avatar color */
+    --online: #5db2fe; /* Online avatar color */
+
+}
+
+:root { /* MODIFICATIONS */
+
+    /*************************/
+    /* SET LIBRARY TEXT PART */
+    /*************************/
+    --FontSize: 15px; /* The size of the font */
+    --Font: "Motiva Sans", Arial, Helvetica, sans-serif;; /* Any font on the system */
+    --FontStyle: uppercase; /* Set to [lowercase | uppercase | none ] */
+    --LetterSpacing: 3px !important; /* Set 3px or more ] */
+    --YourLibraryName: "YOUR LIBRARY" !important; /* Set your own library name */
+    --BackgroundColor: transparent; /* Button background color */
+    
+
+    /**********************/
+    /* LIBRARY CATEGORIES */
+    /**********************/
+    --WhatsNew: block; /* Set to [none | block ] */
+    --Recent: block; /* Set to [none | block ] */
+
+
+    /**************/
+    /* GAME ICONS */
+    /**************/
+    --GameIcons: none; /* Set to [none | block ] */
+
+
+    /**********************************/
+    /* BLUR AMOUNT ( Lower > Better ) */
+    /**********************************/
+    --FuckBlur: blur(50px); /* Low PC ( 10px ) | High PC ( > 10px ) */
+
+
+    /***************/
+    /* BLUR OPTION */
+    /***************/
+    --FlatColor: none; /* Set to { RGB | [none] } */
+
+
+    /******************************/
+    /* GAME COVER EFFECTS #HOVER# */
+    /******************************/
+    --CoverHover: show; /* Set to [ show | hide ] */
+
+
+    /**********************/
+    /* INGAME FRIEND ICON */
+    /**********************/
+    --FriendInGameIcon: none; /* Set to [block | none ] */
+    --FriendInGameIconPosition: -12px;  /* Position $BETTER NOT EDIT$ */
+
+
+    /*********************/
+    /* BUTTON BAR COLORS */
+    /*********************/
+    --ButtonPlay: rgb(var(--libraryhome)) 0%;
+    --ButtonPlay2: rgb(var(--libraryhome)) 60%;
+    --ButtonPlayHover: #70d61d 0%; 
+    --ButtonPlayHover2: #01a75b 100%;
+    
+    --ButtonInstall: rgb(var(--libraryhome)) 0%;
+    --ButtonInstall2: rgb(var(--libraryhome)) 60%;
+    --ButtonInstallHover: #47bfff 0%;
+    --ButtonInstallHover2: #1a44c2 100%;
+    
+}
+
+/* ===== CREDITS  =====
+/* SHIINA♪
+/* DISCORD: https://discord.gg/UZvkvkh
+/* GITHUB: https://github.com/AikoMidori/
+/* -------------------------------------------------------------------------------------------
+/* © 2019 All Rights Reserved. Created by Shiina♪
+/**/
