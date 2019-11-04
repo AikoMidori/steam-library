@@ -322,15 +322,15 @@
   }
 
   .appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX {
-    background: linear-gradient(to right, var(--ButtonPlay), var(--ButtonPlay2)) !important;
+    background: linear-gradient(to right, var(--ButtonPlay) 0%, var(--ButtonPlay2)) 60% !important;
 }
 
 .appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX.appactionbutton_StreamingSelector_2q-gZ {
-    background: linear-gradient(to right, var(--ButtonPlayHover), var(--ButtonPlayHover2)) !important;
+    background: linear-gradient(to right, var(--ButtonPlayHover) 0%, var(--ButtonPlayHover2)) 100% !important;
 }
 
 :not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX:hover {
-    background: linear-gradient(to right, var(--ButtonPlayHover), var(--ButtonPlayHover2)) !important;
+    background: linear-gradient(to right, var(--ButtonPlayHover) 0%, var(--ButtonPlayHover2)) 100% !important;
 }
 
 :not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX:hover svg {
@@ -342,19 +342,19 @@
 }
 
 .appactionbutton_ButtonChild_2AzIX {
-  background: linear-gradient(to right, var(--ButtonInstall), var(--ButtonInstall2)); 
+  background: linear-gradient(to right, var(--ButtonInstall) 0%, var(--ButtonInstall2)) 60% !important;
 }
 
 .appactionbutton_ButtonChild_2AzIX {
-  background: linear-gradient(to right, var(--ButtonInstall), var(--ButtonInstall2)) !important;
+  background: linear-gradient(to right, var(--ButtonInstall) 0%, var(--ButtonInstall2)) 60% !important;
 }
 
 .appactionbutton_ButtonChild_2AzIX.appactionbutton_StreamingSelector_2q-gZ {
-  background: linear-gradient(to right, var(--ButtonInstallHover), var(--ButtonInstallHover2)) !important;
+  background: linear-gradient(to right, var(--ButtonInstallHover) 0%, var(--ButtonInstallHover2)) 100% !important;
 }
 
 :not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_ButtonChild_2AzIX:hover {
-  background: linear-gradient(to right, var(--ButtonInstallHover), var(--ButtonInstallHover2)) !important;
+  background: linear-gradient(to right, var(--ButtonInstallHover) 0%, var(--ButtonInstallHover2)) 100% !important;
 }
 
 :not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_ButtonChild_2AzIX svg {

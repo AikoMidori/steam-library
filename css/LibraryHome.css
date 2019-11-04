@@ -89,3 +89,19 @@
 .appportrait_FriendsBar_3dncO .appportrait_IconsRestCount_2JYwp.appportrait_Short_yGeS6 {
     border-radius: 25px !important;
 }
+
+.libraryhomeshowcases_CollectionDropDown_1YdRd ._DialogInputContainer {
+    color: var(--textcolor) !important;
+}
+
+.pageablecontainer_HeaderPageControls_2ce8e {
+    color: var(--textcolor) !important;
+}
+
+.libraryhomeshowcases_CollectionDropDown_1YdRd ._DialogInputContainer .DialogDropDown_Arrow svg {
+    color: var(--textcolor) !important;
+}
+
+.appportrait_LibraryItemActionButton_3AjoL.appportrait_Play_1_Bo2:not(.appportrait_Disabled_1aml4) {
+    background: radial-gradient(circle farthest-corner at 50% 50%, var(--libraryhome) 0%, var(--libraryhome) 100%);
+}
