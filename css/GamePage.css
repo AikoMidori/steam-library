@@ -21,6 +21,12 @@
     background: rgb(var(--backdropblur)) !important;
   }
 
+  .appactivityday_Event_UVeN0 {
+    border-radius: 4px !important;
+    background: rgb(var(--backdropblur)) !important;
+    padding-left: 5px !important;
+  }
+
   .appactivityday_PartnerEventMediumImage_Container_1HZy7:hover {
     background:none;
   }
@@ -289,7 +295,7 @@
   
   /* Game Page Content Background */
   .appactivityday_Event_UVeN0 .appactivityday_EventBody_NEMXh {
-    background: rgb(var(--backdropblur)) !important;
+    background: none !important;
     border-radius: 4px !important;
     padding-left: 5px !important;
   }
