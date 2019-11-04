@@ -75,13 +75,13 @@
     /*********************/
     /* BUTTON BAR COLORS */
     /*********************/
-    --ButtonPlay: rgb(var(--libraryhome)) 0%;
-    --ButtonPlay2: rgb(var(--libraryhome)) 60%;
+    --ButtonPlay: var(--libraryhome) 0%;
+    --ButtonPlay2: var(--libraryhome) 60%;
     --ButtonPlayHover: #70d61d 0%; 
     --ButtonPlayHover2: #01a75b 100%;
     
-    --ButtonInstall: rgb(var(--libraryhome)) 0%;
-    --ButtonInstall2: rgb(var(--libraryhome)) 60%;
+    --ButtonInstall: var(--libraryhome) 0%;
+    --ButtonInstall2: var(--libraryhome) 60%;
     --ButtonInstallHover: #47bfff 0%;
     --ButtonInstallHover2: #1a44c2 100%;
     
