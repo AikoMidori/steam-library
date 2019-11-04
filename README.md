@@ -13,44 +13,38 @@ Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patch
 ### Windows
     Head over to:
     "C:/Program files (86)/Steam/steamui/"
-    Copy or drag libraryroot.custom.css in.
+    Copy or drag libraryroot.custom.css and config.css in.
     When everything is in place, run Phantom's patcher and you're all set!
     (If the patcher didn't work, please click [Force Check]).
 
-### macOS ( Beta )
-    Right click on Finder, select "Go to Folder..." and enter the following line in the search path:
+### macOS (Coming Soon)
+    Right click on Finder, select "Go to Folder..." and put this in the search path:
     ~/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/skins/YourSkinName/resource
-    Copy or drag webkit.css from 'macOS - Linux' folder in, click replace, restart steam and you're all done!
+    Copy or drag webkit.css in, click replace, restart steam and you're all done!
     
-### Linux ( Beta )
+### Linux (Coming Soon)
     Open Terminal, copy and paste the following line:
     ~/.local/share/Steam/skins/YourSkinName/resource
-    Copy or drag webkit.css from 'macOS - Linux' folder in, click replace, restart steam and you're all done!
+    Copy or drag webkit.css in, click replace, restart steam and you're all done!
     
 ------------------------------------------------------------------------------------------------------------------
 
-# Extra's
-    Open libraryroot.custom.css with a text editor and there are many features for you to
-    check out and change however you like it!
-    
-------------------------------------------------------------------------------------------------------------------
-
-### Beta Update 0.1.8
+### Beta Update 0.2.0
 
 **What's New?**
 
     A complete new release of the Steam Library with many features from user requests.
 
-    Here's what new in version 0.1.7:
-        - Ability to change the amount of blur on game page.
-        - Ability to disable the blur on game page.
-        - Several changes to dropdown and context menus.
-        - Organized the code a bit for petter performance.
-        - Added macOS and Linux library and darkmode intergration.
+    Here's what new in version 0.2.0:
+        - Added Config file to make changes to the library.
+        - Changed RGB color code to Hex.
+        - Cleaned up the code and performance boost.
+        - Final stage of Beta testing.
         
     Coming Soon:
-        - A squared version of the Library ( who needs circles if we can have squares )
+        - The ability to change Games Grid
         - Offline mode for when your cat ate the Internet Cable :'D
+        - Going out of Beta.
 
     Everything has been written from scratch, and there is so much more to come!
     Keep up to date for the latest changes.
