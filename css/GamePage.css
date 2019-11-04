@@ -31,10 +31,14 @@
     background:none;
   }
 
+  .steamavatar_friendavatar_xXwx9 {
+    margin-top: 3px !important;
+    margin-left: 5px !important;
+  }
+
   .appactivityday_Event_UVeN0:first-child {
     border-radius: 4px !important;
     background: rgb(var(--backdropblur)) !important;
-    padding-left: 5px !important;
   }
 
   .appactivityday_PartnerEventMediumImage_Container_1HZy7 {
@@ -364,4 +368,12 @@
 :not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_ButtonChild_2AzIX svg line, :not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_ButtonChild_2AzIX svg polygon {
   stroke: white !important;
   fill: white !important;
+}
+
+.appdetailsplaysection_DetailsProgressContainer_25YVD .appdetailsplaysection_DetailsProgressBar_1FnTq {
+  background-color: rgb(var(--librayrhome)) !important;
+}
+
+.appdetailsachievementssection_AchievementProgressContainer_3ns91 .appdetailsachievementssection_AchievementProgress_3Rm36 {
+  background-color: rgb(var(--librayrhome)) !important;
 }
