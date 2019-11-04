@@ -75,15 +75,15 @@
     /*********************/
     /* BUTTON BAR COLORS */
     /*********************/
-    --ButtonPlay: var(--libraryhome) 0%;
-    --ButtonPlay2: var(--libraryhome) 60%;
-    --ButtonPlayHover: #70d61d 0%; 
-    --ButtonPlayHover2: #01a75b 100%;
+    --ButtonPlay: var(--libraryhome);
+    --ButtonPlay2: var(--libraryhome);
+    --ButtonPlayHover: #70d61d;
+    --ButtonPlayHover2: #01a75b;
     
-    --ButtonInstall: var(--libraryhome) 0%;
-    --ButtonInstall2: var(--libraryhome) 60%;
-    --ButtonInstallHover: #47bfff 0%;
-    --ButtonInstallHover2: #1a44c2 100%;
+    --ButtonInstall: var(--libraryhome);
+    --ButtonInstall2: var(--libraryhome);
+    --ButtonInstallHover: #47bfff;
+    --ButtonInstallHover2: #1a44c2;
     
 }
 
