@@ -99,9 +99,13 @@
 }
 
 .libraryhomeshowcases_CollectionDropDown_1YdRd ._DialogInputContainer .DialogDropDown_Arrow svg {
-    color: var(--textcolor) !important;
+    fill: var(--textcolor) !important;
 }
 
 .appportrait_LibraryItemActionButton_3AjoL.appportrait_Play_1_Bo2:not(.appportrait_Disabled_1aml4) {
+    background: radial-gradient(circle farthest-corner at 50% 50%, var(--libraryhome) 0%, var(--libraryhome) 100%);
+}
+
+.appportrait_LibraryItemActionButton_3AjoL.appportrait_Play_1_Bo2:not(.appportrait_Disabled_1aml4):hover {
     background: radial-gradient(circle farthest-corner at 50% 50%, var(--libraryhome) 0%, var(--libraryhome) 100%);
 }
