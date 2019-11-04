@@ -7,7 +7,7 @@
     margin-top: 5px !important;
     margin-right: 30px !important;
     border-radius: 30px !important;
-    background: rgb(var(--lightgrey)) !important;
+    background: var(--lightgrey) !important;
   }
 
   /* Removes Play Button Glow */
@@ -18,12 +18,12 @@
   .appactivityday_PartnerEvent_1AYE1 {
     border: 0x !important;
     border-image-source: none !important;
-    background: rgb(var(--backdropblur)) !important;
+    background: var(--backdropblur) !important;
   }
 
   .appactivityday_Event_UVeN0 {
     border-radius: 4px !important;
-    background: rgb(var(--backdropblur)) !important;
+    background: var(--backdropblur) !important;
     padding-left: 5px !important;
   }
 
@@ -38,7 +38,7 @@
 
   .appactivityday_Event_UVeN0:first-child {
     border-radius: 4px !important;
-    background: rgb(var(--backdropblur)) !important;
+    background: var(--backdropblur) !important;
   }
 
   .appactivityday_PartnerEventMediumImage_Container_1HZy7 {
@@ -54,26 +54,26 @@
 /* Blurs The Backgrounds */
 .appdetailsoverview_Container_27RcN {
     backdrop-filter: var(--FuckBlur) !important;
-    background: rgb(var(--FlatColor)) !important;
+    background: var(--FlatColor) !important;
     display: block!important;
 }
 
 /* Blurs The Backgrounds */
 .appdetailsoverview_Glassy_2OOzY .appdetailsoverview_BackdropGlass_Jbe-- {
     backdrop-filter: var(--FuckBlur) !important;
-    background: rgb(var(--FlatColor)) !important;
+    background: var(--FlatColor) !important;
 }
 
 /* Changes Blur Color & Depth For Games Page */
 .appdetailsoverview_Glassy_2OOzY .appdetailsoverview_ColumnContainer_OhSdL {
     backdrop-filter: blur(0px) !important;
-    background: rgb(var(--FlatColor)) !important;
+    background: var(--FlatColor) !important;
 }
 
 /* Game Page Launch Game Bar */
 .appdetailsplaysection_StickyHeader_39Rhe .appdetailsplaysection_Glassy_3DeO9 {
     backdrop-filter: var(--FuckBlur) !important;
-    background: rgb(var(--FlatColor)) !important;
+    background: var(--FlatColor) !important;
     margin-left: -6px !important;
     border-bottom: 1px solid black !important;
 }
@@ -86,7 +86,7 @@
 
   .appdetailsplaysection_DetailsProgressContainer_25YVD {
     border-radius: 6px !important;
-    background-color: rgb(var(--grey)) !important;
+    background-color: var(--grey) !important;
     margin-top: 6px !important;
   }
 
@@ -95,7 +95,7 @@
   }
 
   .appdetailsachievementssection_AchievementProgressContainer_3ns91 {
-    background-color: rgb(var(--darkgrey)) !important;
+    background-color: var(--darkgrey) !important;
     border-radius: 6px !important;
   }
 
@@ -122,12 +122,12 @@
   
   /* Game Page Catogory Background */
   .collectionview_OuterContainer_2sNr7 {
-    background: rgb(var(--darkgrey)) !important;
+    background: var(--darkgrey) !important;
   }
   
   /* Game Page Background */
   .libraryhome_InnerContainer_2AUVZ {
-    background: rgb(var(--darkgrey)) !important;
+    background: var(--darkgrey) !important;
   }
   
   /* Game Page What's New Line */
@@ -141,13 +141,13 @@
     height: 18px !important;
     padding: 5px !important;
     font-size: 0px !important;
-    background: rgb(var(--lightgrey)) !important;
+    background: var(--lightgrey) !important;
     border-radius: 40px !important;
   }
   
   /* Game Page Game Titles */
   .libraryhomenewupdates_GameIconAndName_3_xMy {
-    background-color: rgb(var(--grey)) !important;
+    background-color: var(--grey) !important;
     border-radius: 4px !important;
   }
   
@@ -158,18 +158,18 @@
   
   /* Game Page Game Collection Tags */
   .gamelistsearchbar_SearchFilterInput_172OF .gamelistsearchbar_FilterTag_3gzh_ {
-    background-color: rgb(var(--black)) !important;
+    background-color: var(--black) !important;
     border-radius: 4px !important;
   }
   
   /* Your Collection Page */
   .allcollections_ScrollContainer_u1xD3 {
-    background: rgb(var(--darkgrey)) !important;
+    background: var(--darkgrey) !important;
   }
   
   /* Your Collection Page Tile Backgrounds */
   .allcollections_Collection_3IWn- {
-    background: rgb(var(--black)) !important;
+    background: var(--black) !important;
   }
   
   /* Recent Friend Activity Game Images */
@@ -179,17 +179,17 @@
   
   /* Changes Blur Color For Games Page */
   .appdetails_ScrollContainer_2l416 {
-    background-color: rgb(var(--darkgrey)) !important;
+    background-color: var(--darkgrey) !important;
   }
   
   /* Changes Blur Color For Games Page */
   .appdetails_Glassy_3Fmxx.appdetails_ScrollContainer_2l416 {
-    background-image: radial-gradient(100% 100% at 45% 35%, rgb(var(--darkgrey)) 0%, rgb(var(--darkgrey)) 100%) !important;
+    background-image: radial-gradient(100% 100% at 45% 35%, var(--darkgrey) 0%, var(--darkgrey) 100%) !important;
   }
 
   /* Changes Background Game Page Communnity Photos */
   .appdetailscommunityfeed_CommunityItem_3QS6O {
-    background-color: rgb(var(--backdropblur)) !important;
+    background-color: var(--backdropblur) !important;
   }
 
   .comment_thread_ActivityCommentThread_39nna {
@@ -219,21 +219,21 @@
   }
 
   .posttextentry_PostTextEntry_3x31A .posttextentry_Controls_37e7D .posttextentry_PostButton_2JSyA {
-    background-color: rgb(var(--backdropblur)) !important;
+    background-color: var(--backdropblur) !important;
     border-radius: 4px !important;
   }
 
   .posttextentry_PostTextEntry_3x31A .posttextentry_Controls_37e7D button.posttextentry_EmoticonButton_bACIu {
-    background-color: rgb(var(--backdropblur)) !important;
+    background-color: var(--backdropblur) !important;
     border-radius: 4px !important;
   }
 
   .posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2 {
-    background: rgb(var(--backdropblur)) !important;
+    background: var(--backdropblur) !important;
   }
 
   .posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2:focus {
-    background: rgb(var(--backdropblur)) !important;
+    background: var(--backdropblur) !important;
   }
 
   /* Changes Background Game Page Communnity Guide */
@@ -371,9 +371,9 @@
 }
 
 .appdetailsplaysection_DetailsProgressContainer_25YVD .appdetailsplaysection_DetailsProgressBar_1FnTq {
-  background-color: rgb(var(--libraryhome)) !important;
+  background-color: var(--progressbar) !important;
 }
 
 .appdetailsachievementssection_AchievementProgressContainer_3ns91 .appdetailsachievementssection_AchievementProgress_3Rm36 {
-  background-color: rgb(var(--libraryhome)) !important;
+  background-color: var(--progressbar) !important;
 }

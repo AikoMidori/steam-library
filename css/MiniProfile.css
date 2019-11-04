@@ -20,7 +20,7 @@
     display: none !important; }
 
 .miniprofile_miniProfileBackground_3HzZh {
-    background: rgb(var(--black)) !important;
+    background: var(--black) !important;
     border-radius: 4px !important; }
 
 .miniprofile_miniProfile_2QPdq {
@@ -28,7 +28,7 @@
     border-radius: 0px !important; }
   
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfileHeader_3CZcH {
-    background: rgb(var(--black)) !important;
+    background: var(--black) !important;
     border-radius: 4px !important; }
 
 .miniprofile_miniProfileContent_1xTAT.miniprofile_notInOrWatchingGame_1NkB7 .miniprofile_miniProfileBottom_26ga2,
@@ -38,23 +38,23 @@
 
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.in-game .miniprofile_personaName_qiP8a:not(.miniprofile_hasNickname_2TAWS) .miniprofile_personaNameLabel_2VUw8,
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.in-game .miniprofile_personaName_qiP8a.miniprofile_nickName_h_So5 .miniprofile_personaNameLabel_2VUw8 {
-    color: rgb(var(--ingame)) !important;
+    color: var(--ingame) !important;
     border-radius: 4px !important; }
 
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.online .miniprofile_nickname_1SWhp,
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.online .miniprofile_persona_3c5GO,
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.online .miniprofile_playerContent_2-pwJ .miniprofile_awayStatusLabel_1FgWI {
-    color: rgb(var(--online)) !important;
+    color: var(--online) !important;
     border-radius: 4px !important; }
 
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.miniprofile_online .miniprofile_nickname_1SWhp,
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.miniprofile_online.online .miniprofile_persona_3c5GO,
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.miniprofile_online.online .miniprofile_playerContent_2-pwJ .miniprofile_awayStatusLabel_1FgWI {
-    color: rgb(var(--online)) !important;
+    color: var(--online) !important;
     border-radius: 4px !important; }
 
 .online .steamavatar_avatarStatus_3xUpb {
-    background: rgb(var(--online)) !important;
+    background: var(--online) !important;
     border-radius: 50px !important;
     width: 30px !important;
     height: 30px !important;
@@ -64,7 +64,7 @@
 }
 
 .ingame .steamavatar_avatarStatus_3xUpb {
-    background: rgb(var(--ingame)) !important;
+    background: var(--ingame) !important;
     border-radius: 50px !important;
     width: 30px !important;
     height: 30px !important;
@@ -74,7 +74,7 @@
 }
 
 .awayOrSnooze .steamavatar_avatarStatus_1Pwr6 {
-    background: rgb(var(--snooze)) !important;
+    background: var(--snooze) !important;
     border-radius: 50px !important;
     width: 30px !important;
     height: 30px !important;
@@ -102,7 +102,7 @@
 }
 
 .offline .steamavatar_avatarStatus_3xUpb {
-    background: rgb(var(--offline)) !important;
+    background: var(--offline) !important;
     border-radius: 50px !important;
     width: 30px !important;
     height: 30px !important;;
@@ -112,7 +112,7 @@
 }
 
 .online .X-Large .steamavatar_avatarStatus_3xUpb {
-    background: rgb(var(--online)) !important;
+    background: var(--online) !important;
     border-radius: 50px !important;
     width: 92px !important;
     height: 92px !important;
@@ -122,7 +122,7 @@
 }
 
 .ingame .X-Large .steamavatar_avatarStatus_3xUpb {
-    background: rgb(var(--ingame)) !important;
+    background: var(--ingame) !important;
     border-radius: 50px !important;
     width: 92px !important;
     height: 92px !important;
@@ -132,7 +132,7 @@
 }
 
 .awayOrSnooze .X-Large .steamavatar_avatarStatus_3xUpb {
-    background: rgb(var(--snooze)) !important;
+    background: var(--snooze) !important;
     border-radius: 50px !important;
     width: 92px !important;
     height: 92px !important;
@@ -160,7 +160,7 @@
 }
 
 .offline .X-Large .steamavatar_avatarStatus_3xUpb {
-    background: rgb(var(--offline)) !important;
+    background: var(--offline) !important;
     border-radius: 50px !important;
     width: 92px !important;
     height: 92px !important;
@@ -181,14 +181,14 @@
     border-radius: 50px !important; }
     
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.online .miniprofile_avatarStatus_1YdpX.miniprofile_miniProfileAvatarStatus_1k5Yk {
-    background: rgb(var(--online)) !important;
+    background: var(--online) !important;
     border-radius: 4px !important; }
       
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.in-game .miniprofile_avatarStatus_1YdpX.miniprofile_miniProfileAvatarStatus_1k5Yk {
-    background: rgb(var(--ingame)) !important;
+    background: var(--ingame) !important;
     border-radius: 4px !important; }
 
 
 .appdetailsfriendssection_PlaytimeSection_1s3b9 {
-    background: rgb(var(--black)) !important;
+    background: var(--black) !important;
 }

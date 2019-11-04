@@ -1,7 +1,7 @@
 /* Game Page Header Background */
 .libraryhome_UpdatesContainer_17uEB {
     display: var(--WhatsNew) !important;
-    background: rgb(var(--darkgrey)) !important;
+    background: var(--darkgrey) !important;
     padding-top: 15px !important;
     padding-bottom: 275px !important;
 }
@@ -22,7 +22,7 @@
 }
 
 .appgrid_SortingDropDownContainer_1ZpBQ > div {
-    background: rgb(var(--grey)) !important;
+    background: var(--grey) !important;
     border-radius: 4px !important;
     border: 0px !important;
 }
@@ -33,41 +33,41 @@
 }
 
 .DialogDropDownMenu._DialogInputContainer {
-    background: rgb(var(--grey)) !important;
+    background: var(--grey) !important;
     border-radius: 4px !important;
     border: 0px !important;
     margin-top: 4px !important
 }
 
 .DialogDropDownMenu._DialogInputContainer {
-    background: rgb(var(--grey)) !important;
+    background: var(--grey) !important;
     border-radius: 4px !important;
     border: 0px !important;
     margin-top: 4px !important;
 }
 
 .appportrait_LibraryItemBox_WYgDg {
-    border-top: 1px solid rgba(0, 0, 0, 0.5) !important;
+    border-top: 1px solid 0, 0, 0, 0.5 !important;
     border-radius: 4px !important;
 }
 
 /* Scroll To Top */
 .smartscrollcontainer_ScrollToTopButton_1J21t div {
-    background: rgb(var(--backdropblur)) !important;
+    background: var(--backdropblur) !important;
     border-radius: 20px !important;
     bottom: 5px !important;
     backdrop-filter: blur(50px) !important;
 }
 
 .libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd .libraryhomenewupdates_EventTimeSpan_3OSZu {
-    background-color: rgba(var(--backdropfilter)) !important;
+    background-color: var(--backdropfilter) !important;
     backdrop-filter: blur(50px) !important;
     border-radius: 4px !important;
-    color: rgba(var(--online)) !important;
+    color: var(--online) !important;
 }
 
 .libraryhome_Container_2gSXC {
-    background: rgb(var(--darkgrey)) !important;
+    background: var(--darkgrey) !important;
 }
 
 .offline .steamavatar_avatarStatus_3xUpb.avatarStatus.none {
