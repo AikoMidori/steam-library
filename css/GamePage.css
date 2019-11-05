@@ -385,3 +385,7 @@
 .sharedappdetailsheader_TopCapsule_NZMJ6.sharedappdetailsheader_TopCapsule_NZMJ6 {
   overflow: var(--ImageBlur) !important;
 }
+
+.sharedappdetailsheader_TopCapsule_NZMJ6.sharedappdetailsheader_TopCapsule_NZMJ6, .sharedappdetailsheader_HeaderBackgroundImage_1IX7F {
+  max-height: var(--ImageHeight) !important;
+}
