@@ -292,9 +292,9 @@
     color: white !important;
   }
   
-  /* Removes Play/Install Background */
+  /* Removes Play/Install Header Background */
   .appdetailsplaysection_Glassy_3DeO9.appdetailsplaysection_PlayBar_3fLo1 {
-    background: none !important;
+    background: var(--FlatColor) !important;
   }
   
   /* Game Page Content Background */
@@ -376,4 +376,12 @@
 
 .appdetailsachievementssection_AchievementProgressContainer_3ns91 .appdetailsachievementssection_AchievementProgress_3Rm36 {
   background-color: var(--progressbar) !important;
+}
+
+.sharedappdetailsheader_ImgSrc_HNbe3.sharedappdetailsheader_ImgBlurBackdrop_3_IUV {
+  display: var(--BackgoundBlur) !important;
+}
+
+.sharedappdetailsheader_TopCapsule_NZMJ6.sharedappdetailsheader_TopCapsule_NZMJ6 {
+  overflow: var(--ImageBlur) !important;
 }
