@@ -55,6 +55,7 @@
     --FuckBlur: blur(0px); /* Set to [0px | Low PC ( 10px ) | High PC ( > 20px ) */
     --BackgroundBlur: none; /* Set to [none | flex ] */
     --ImageBlur: hidden; /* Set to [hidden | visible ] */
+    --MaxImageHeight: 462px; /* Set to [0px | 462px ] */
 
 
     /******************************/
