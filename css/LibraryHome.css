@@ -103,9 +103,17 @@
 }
 
 .appportrait_LibraryItemActionButton_3AjoL.appportrait_Play_1_Bo2:not(.appportrait_Disabled_1aml4) {
-    background: radial-gradient(circle farthest-corner at 50% 50%, var(--libraryhome) 0%, var(--libraryhome) 100%);
+    background: radial-gradient(circle farthest-corner at 50% 50%, var(--ButtonPlay) 0%, var(--ButtonPlay2) 100%) !important;
 }
 
-.appportrait_LibraryItemActionButton_3AjoL.appportrait_Play_1_Bo2:not(.appportrait_Disabled_1aml4):hover {
-    background: radial-gradient(circle farthest-corner at 50% 50%, var(--libraryhome) 0%, var(--libraryhome) 100%);
+.appportrait_HoversEnabled_54PuC .appportrait_LibraryItemActionButton_3AjoL.appportrait_Play_1_Bo2:not(.appportrait_Disabled_1aml4):hover {
+    background: radial-gradient(circle farthest-corner at 50% 50%, var(--ButtonPlayHover) 0%, var(--ButtonPlayHover2) 100%) !important;
+}
+
+.appportrait_HoversEnabled_54PuC .appportrait_LibraryItemActionButton_3AjoL.appportrait_Play_1_Bo2:not(.appportrait_Disabled_1aml4):hover:after {
+    border-color: white !important;
+}
+
+.appportrait_LibraryItemActionButton_3AjoL.appportrait_Play_1_Bo2:not(.appportrait_Disabled_1aml4) .SVGIcon_Play {
+    fill: white !important;
 }
