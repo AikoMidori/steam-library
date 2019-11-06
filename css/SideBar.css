@@ -58,6 +58,10 @@
   background: red !important;
 }
 
+.gamelistsectionheader_SectionHeaderContent_3cV3O:hover .gamelistsectionheader_SectionName_2mZ8L {
+  color: var(--titlenamehover) !important;
+}
+
 /* Sidebar Minimum Width */
 .library_LeftListSizableContainer_9sPoV {
   min-width: 272px !important;
