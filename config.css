@@ -39,6 +39,8 @@
     /**********************/
     --WhatsNew: block; /* Set to [none | block ] */
     --Recent: block; /* Set to [none | block ] */
+    --TitleColor: var(--textcolor); /* Catagorie title color */
+    --TitleFont: 500; /* Set to [1 > 1000 ] */
 
 
     /**************/
@@ -52,10 +54,10 @@
     /**********************************/
     /* Blur turned off by default, to turn on; set FlatColor to none, and switch everything on. */
     --FlatColor: #1e1e1f; /* Set to [none | color ] */
-    --FuckBlur: blur(0px); /* Set to [0px | Low PC ( 10px ) | High PC ( > 20px ) */
+    --FuckBlur: blur(0px); /* Set to [0px | Low PC ( 10px ) | High PC ( > 20px ) ] */
     --BackgroundBlur: none; /* Set to [none | flex ] */
     --ImageBlur: hidden; /* Set to [hidden | visible ] */
-    --MaxImageHeight: 462px; /* Set to [0px > 462px ] */
+    --ImageHeight: 320px; /* Set to [0px > 462px ] */
 
 
     /******************************/
