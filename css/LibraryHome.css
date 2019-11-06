@@ -90,16 +90,13 @@
     border-radius: 25px !important;
 }
 
-.libraryhomeshowcases_CollectionDropDown_1YdRd ._DialogInputContainer {
-    color: var(--textcolor) !important;
-}
-
-.pageablecontainer_HeaderPageControls_2ce8e {
-    color: var(--textcolor) !important;
+.libraryhomeshowcases_CollectionDropDown_1YdRd ._DialogInputContainer, .pageablecontainer_HeaderPageControls_2ce8, .pageablecontainer_HeaderPageControls_2ce8e .pageablecontainer_Name_EckfX {
+    color: var(--TitleColor) !important;
+    font-weight: var(--TitleFont) !important;
 }
 
 .libraryhomeshowcases_CollectionDropDown_1YdRd ._DialogInputContainer .DialogDropDown_Arrow svg {
-    fill: var(--textcolor) !important;
+    fill: var(--TitleColor) !important;
 }
 
 .appportrait_LibraryItemActionButton_3AjoL.appportrait_Play_1_Bo2:not(.appportrait_Disabled_1aml4) {
