@@ -12,7 +12,8 @@
     --libraryhome: #6624e2; /* Main library color */
     --progressbar: #6624e2; /* Progressbar color */
     --gamelist: #6624e2; /* Gamelist selected color */
-    --titlehover: #00000000; /* Title hover color */
+    --titlehover: #00000000; /* Title hover background color */
+    --titlenamehover: #6624e2; /* Gamelist title hover name color */
     --gamehover: #ffffff; /* Game hover color */
     --textcolor: #6624e2; /* Text color */
     --offline: #919191; /* Offline avatar color */
