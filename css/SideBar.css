@@ -73,6 +73,11 @@
   display: var(--GameIcons) !important;
 }
 
+/* Tile Name Hover color */
+.gamelistsectionheader_SectionName_2mZ8L:hover {
+  color: var(--titlenamehover) !important;
+}
+
 /* Game Page Header Background */
 .libraryhome_UpdatesContainer_17uE {
   background: var(--darkgrey) !important;
