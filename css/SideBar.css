@@ -215,11 +215,11 @@
 }
 
 .appfilterpane_Container_170Np .appfilterpane_FilterArea_1ennW .appfilterpane_FilterBucket_1axoi .DialogInput_Wrapper .DialogTextInputBase {
-  background: var(--darkgrey) !important;
+  background: var(--grey) !important;
 }
 
 .appfilterpane_Container_170Np .appfilterpane_FilterArea_1ennW .appfilterpane_FilterBucket_1axoi .DialogInput_Wrapper .DialogTextInputBase:hover {
-  background: var(--darkgrey) !important;
+  background: var(--grey) !important;
 }
 
 .appfilterpane_Container_170Np .appfilterpane_SaveButton_1bqGA:disabled, .appfilterpane_Container_170Np .appfilterpane_SaveButton_1bqGA:disabled:hover {
