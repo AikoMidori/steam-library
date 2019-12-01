@@ -307,9 +307,6 @@ stroke: var(--white) !important;
   color: var(--white) !important; 
 }
 
-.gamelistentry_FriendIsPlaying_cNZ3w {
-  display: var(--FriendInGameIcon) !important;
-}
-
 .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z :hover, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z :hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy {
-  background-color: var(--gamelist) !important;}
+  background-color: var(--gamelist) !important;
+}
