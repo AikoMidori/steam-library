@@ -307,10 +307,6 @@ stroke: var(--white) !important;
   color: var(--white) !important; 
 }
 
-.gamelistentry_AppIconDownloading_2kzMb {
-  display: var(--GameIcons) !important;
-}
-
 .gamelistentry_FriendIsPlaying_cNZ3w {
   display: var(--FriendInGameIcon) !important;
 }
