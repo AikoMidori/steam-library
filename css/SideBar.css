@@ -307,6 +307,17 @@ stroke: var(--white) !important;
   color: var(--white) !important; 
 }
 
-.gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z :hover, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z :hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy {
-  background-color: var(--gamelist) !important;
+.gamelistentry_AppIconDownloading_2kzMb {
+  display: var(--GameIcons) !important;
 }
+
+.gamelistentry_FriendIsPlaying_cNZ3w {
+  display: var(--FriendInGameIcon) !important;
+}
+
+.gamelistentry_Container_2-O4Z .gamelistentry_GameListEntryContainer_1vO6B {
+  margin-left: var(--FriendInGameIconPosition) !important;
+}
+
+.gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z :hover, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z :hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy {
+  background-color: var(--gamelist) !important;}
