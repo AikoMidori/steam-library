@@ -40,6 +40,19 @@
 :root { /* MODIFICATIONS */
 
     /*************************/
+    /* ROUND OR HARD CORNERS */
+    /*************************/
+    /* Set to 0px for hard edges version */
+    --Corner0: 4px  !important; /* Default set to 4px  */
+    --Corner1: 10px !important; /* Default set to 10px */
+    --Corner2: 20px !important; /* Default set to 20px */
+    --Corner3: 30px !important; /* Default set to 30px */
+    --Corner4: 40px !important; /* Default set to 40px */
+    --Corner5: 50px !important; /* Default set to 50px */
+    --Corner6: 60px !important; /* Default set to 60px */
+
+
+    /*************************/
     /* SET LIBRARY TEXT PART */
     /*************************/
     --FontSize: 15px; /* The size of the font */
