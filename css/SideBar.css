@@ -323,7 +323,7 @@ stroke: var(--white) !important;
 /* NEW CHANGES */
 
 .gamelistbar_GameListHomeAndSearch_2TKEa {
-    display: var(--LibrarySearch) !important;
+    display: var(--LibraryButton) !important;
 }
 
 .gamelistsearchbar_Container_20QAC {
