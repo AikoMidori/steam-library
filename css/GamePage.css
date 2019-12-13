@@ -47,7 +47,7 @@
 
 .appactivityday_ScreenshotCaption_23HTp.appactivityday_HasCaption_tLc3y, .appactivityday_VideoTitle_1d0ij.appactivityday_HasCaption_tLc3y {
   background-image: none !important;
-  border-bottom-left-radius: 4px !important;
+  border-bottom-left-radius: var(--Corner0) !important;
   backdrop-filter: blur(50px)
 }
 
@@ -309,6 +309,7 @@
 
 .appdetailsspotlight_ReviewContainer_3LE-6 {
   background-color: transparent !important;
+  margin-bottom: 15px !important;
 }
 
 .writereview_RatingContainer_2Jk1D { 
@@ -393,4 +394,40 @@
 
 .appdetailsgameinfocontainer_AppGameInfoContainer_25oBZ.appdetailsgameinfocontainer_AppDetailsExpanded_3s6_6 > div:not(.appdetailsgameinfocontainer_GameInfoShadow_1FXWy) {
   border-radius: var(--Corner1) !important;
+}
+
+.appdetailsspotlight_ReviewContainer_3LE-6 .appdetailsspotlight_RatingContainer_1E_EN {
+  border-radius: var(--Corner3) !important;
+}
+
+.writereview_RatingContainer_2SAb6 .writereview_LeftContainer_2aeAn .writereview_Playtime_qX4kN {
+  color: var(--Corner3) !important;
+}
+
+.writereview_RatingContainer_2SAb6 {
+  background-color: var(--grey) !important;
+}
+
+.writereview_ReviewThumbButton_1kCN0 {
+  border-radius: var(--Corner3) !important;
+  background: var(--darkgrey) !important;
+  color: var(--white) !important;
+}
+
+.writereview_CompactThumbButton_35_Og {
+  border-radius: var(--Corner3) !important;
+  background: var(--darkgrey) !important;
+  color: var(--white) !important;
+}
+
+.writereview_ThumbIcon_2Jkk-.writereview_Up_2DXZF {
+  fill: var(--green) !important;
+}
+
+.writereview_ThumbIcon_2Jkk-.writereview_Down_32G01 {
+  fill: var(--red) !important;
+}
+
+.writereview_ThumbIcon_2Jkk- { {
+  fill: var(--white) !important;
 }
