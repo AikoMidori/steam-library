@@ -1,8 +1,8 @@
 /* MINI PROFILES*/
 
-/* Changes User Avatar Game Page Communnity Photos */
+/* Changes User Avatar Game Page Community Photos */
 .steamavatar_avatar_3h-QR {
-    border-radius: 60px !important;
+    border-radius: var(--Corner6) !important;
     border: 0px !important;
     height: 28px !important;
     width: 28px !important;
@@ -10,7 +10,7 @@
 
 /* Changes User Miniprofile Avatar */
 .miniprofile_miniProfile_2QPdq .steamavatar_avatar_3h-QR {
-    border-radius: 60px !important;
+    border-radius: var(--Corner6) !important;
     border: 0px !important;
     height: 90px !important;
     width: 90px !important;
@@ -21,7 +21,7 @@
 
 .miniprofile_miniProfileBackground_3HzZh {
     background: var(--black) !important;
-    border-radius: 4px !important; }
+    border-radius: var(--Corner0) !important; }
 
 .miniprofile_miniProfile_2QPdq {
     border: 0px !important;
@@ -29,7 +29,7 @@
   
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfileHeader_3CZcH {
     background: var(--black) !important;
-    border-radius: 4px !important; }
+    border-radius: var(--Corner0) !important; }
 
 .miniprofile_miniProfileContent_1xTAT.miniprofile_notInOrWatchingGame_1NkB7 .miniprofile_miniProfileBottom_26ga2,
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfileGameContainer_7-U6j {
@@ -39,23 +39,23 @@
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.in-game .miniprofile_personaName_qiP8a:not(.miniprofile_hasNickname_2TAWS) .miniprofile_personaNameLabel_2VUw8,
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.in-game .miniprofile_personaName_qiP8a.miniprofile_nickName_h_So5 .miniprofile_personaNameLabel_2VUw8 {
     color: var(--ingame) !important;
-    border-radius: 4px !important; }
+    border-radius: var(--Corner0) !important; }
 
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.online .miniprofile_nickname_1SWhp,
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.online .miniprofile_persona_3c5GO,
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.online .miniprofile_playerContent_2-pwJ .miniprofile_awayStatusLabel_1FgWI {
     color: var(--online) !important;
-    border-radius: 4px !important; }
+    border-radius: var(--Corner0) !important; }
 
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.miniprofile_online .miniprofile_nickname_1SWhp,
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.miniprofile_online.online .miniprofile_persona_3c5GO,
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.miniprofile_online.online .miniprofile_playerContent_2-pwJ .miniprofile_awayStatusLabel_1FgWI {
     color: var(--online) !important;
-    border-radius: 4px !important; }
+    border-radius: var(--Corner0) !important; }
 
 .online .steamavatar_avatarStatus_3xUpb {
     background: var(--online) !important;
-    border-radius: 50px !important;
+    border-radius: var(--Corner5) !important;
     width: 30px !important;
     height: 30px !important;
     left: -1px !important;
@@ -65,7 +65,7 @@
 
 .ingame .steamavatar_avatarStatus_3xUpb {
     background: var(--ingame) !important;
-    border-radius: 50px !important;
+    border-radius: var(--Corner5) !important;
     width: 30px !important;
     height: 30px !important;
     left: -1px !important;
@@ -75,7 +75,7 @@
 
 .awayOrSnooze .steamavatar_avatarStatus_1Pwr6 {
     background: var(--snooze) !important;
-    border-radius: 50px !important;
+    border-radius: var(--Corner5) !important;
     width: 30px !important;
     height: 30px !important;
     left: -1px !important;
@@ -84,7 +84,7 @@
 } 
 
 .golden .steamavatar_avatarStatus_3xUpb {
-    border-radius: 50px !important;
+    border-radius: var(--Corner5) !important;
     width: 30px !important;
     height: 30px !important;
     left: -1px !important;
@@ -93,7 +93,7 @@
 }
 
 .watchingbroadcast .steamavatar_avatarStatus_3xUpb {
-    border-radius: 50px !important;
+    border-radius: var(--Corner5) !important;
     width: 30px !important;
     height: 30px !important;
     left: -1px !important;
@@ -103,7 +103,7 @@
 
 .offline .steamavatar_avatarStatus_3xUpb {
     background: var(--offline) !important;
-    border-radius: 50px !important;
+    border-radius: var(--Corner5) !important;
     width: 30px !important;
     height: 30px !important;;
     left: -1px !important;
@@ -113,7 +113,7 @@
 
 .online .X-Large .steamavatar_avatarStatus_3xUpb {
     background: var(--online) !important;
-    border-radius: 50px !important;
+    border-radius: var(--Corner5) !important;
     width: 92px !important;
     height: 92px !important;
     left: -1px !important;
@@ -123,7 +123,7 @@
 
 .ingame .X-Large .steamavatar_avatarStatus_3xUpb {
     background: var(--ingame) !important;
-    border-radius: 50px !important;
+    border-radius: var(--Corner5) !important;
     width: 92px !important;
     height: 92px !important;
     left: -1px !important;
@@ -133,7 +133,7 @@
 
 .awayOrSnooze .X-Large .steamavatar_avatarStatus_3xUpb {
     background: var(--snooze) !important;
-    border-radius: 50px !important;
+    border-radius: var(--Corner5) !important;
     width: 92px !important;
     height: 92px !important;
     left: -1px !important;
@@ -142,7 +142,7 @@
 }
 
 .golden .X-Large .steamavatar_avatarStatus_3xUpb {
-    border-radius: 50px !important;
+    border-radius: var(--Corner5) !important;
     width: 92px !important;
     height: 92px !important;
     left: -1px !important;
@@ -151,7 +151,7 @@
 }
 
 .watchingbroadcast .X-Large .steamavatar_avatarStatus_3xUpb {
-    border-radius: 50px !important;
+    border-radius: var(--Corner5) !important;
     width: 92px !important;
     height: 92px !important;
     left: -1px !important;
@@ -161,7 +161,7 @@
 
 .offline .X-Large .steamavatar_avatarStatus_3xUpb {
     background: var(--offline) !important;
-    border-radius: 50px !important;
+    border-radius: var(--Corner5) !important;
     width: 92px !important;
     height: 92px !important;
     left: -1px !important;
@@ -175,18 +175,18 @@
     display: none !important; }
 
 .miniprofile_miniProfileContent_1xTAT .miniprofile_playerAvatar_36eQg img {
-    border-radius: 50px !important; }
+    border-radius: var(--Corner5) !important; }
 
 .miniprofile_miniProfileContent_1xTAT .miniprofile_playerAvatar_36eQg {
-    border-radius: 50px !important; }
+    border-radius: var(--Corner5) !important; }
     
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.online .miniprofile_avatarStatus_1YdpX.miniprofile_miniProfileAvatarStatus_1k5Yk {
     background: var(--online) !important;
-    border-radius: 4px !important; }
+    border-radius: var(--Corner0) !important; }
       
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.in-game .miniprofile_avatarStatus_1YdpX.miniprofile_miniProfileAvatarStatus_1k5Yk {
     background: var(--ingame) !important;
-    border-radius: 4px !important; }
+    border-radius: var(--Corner0) !important; }
 
 
 .appdetailsfriendssection_PlaytimeSection_1s3b9 {

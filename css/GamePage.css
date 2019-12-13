@@ -6,7 +6,7 @@
 .libraryhome_BetaBar_1HcmY {
   margin-top: 5px !important;
   margin-right: 30px !important;
-  border-radius: 30px !important;
+  border-radius: var(--Corner3) !important;
   background: var(--lightgrey) !important;
 }
 
@@ -22,7 +22,7 @@
 }
 
 .appactivityday_Event_UVeN0 {
-  border-radius: 4px !important;
+  border-radius: var(--Corner0) !important;
   background: var(--backdropblur) !important;
   padding-left: 5px !important;
 }
@@ -37,7 +37,7 @@
 }
 
 .appactivityday_Event_UVeN0:first-child {
-  border-radius: 4px !important;
+  border-radius: var(--Corner0) !important;
   background: var(--backdropblur) !important;
 }
 
@@ -85,22 +85,22 @@
 }
 
 .appdetailsplaysection_DetailsProgressContainer_25YVD {
-  border-radius: 6px !important;
+  border-radius: var(--Corner1) !important;
   background-color: var(--grey) !important;
-  margin-top: 6px !important;
+  margin-top: 10px !important;
 }
 
 .appdetailsplaysection_DetailsProgressContainer_25YVD .appdetailsplaysection_DetailsProgressBar_1FnTq {
-  border-radius: 6px !important;
+  border-radius: var(--Corner1) !important;
 }
 
 .appdetailsachievementssection_AchievementProgressContainer_3ns91 {
   background-color: var(--darkgrey) !important;
-  border-radius: 6px !important;
+  border-radius: var(--Corner1) !important;
 }
 
 .appdetailsachievementssection_AchievementProgressContainer_3ns91 .appdetailsachievementssection_AchievementProgress_3Rm36 {
-  border-radius: 6px !important;
+  border-radius: var(--Corner1) !important;
 }
 
 .appdetailsplaysection_GameStat_1kiZK .appdetailsplaysection_GameStatIcon_1tIg- {
@@ -110,7 +110,7 @@
 /* Hover Over What's New Game */
 .libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd.libraryhomenewupdates_HoversEnabled_278jF:hover .libraryhomenewupdates_EventSummaryContainer_3Rb_j {
   background-color: transparent !important;
-  border-radius: 4px !important;
+  border-radius: var(--Corner0) !important;
   backdrop-filter: blur(12px) !important;
 }
 
@@ -141,13 +141,13 @@
   padding: 5px !important;
   font-size: 0px !important;
   background: var(--lightgrey) !important;
-  border-radius: 40px !important;
+  border-radius: var(--Corner4) !important;
 }
   
 /* Game Page Game Titles */
 .libraryhomenewupdates_GameIconAndName_3_xMy {
   background-color: var(--grey) !important;
-  border-radius: 4px !important;
+  border-radius: var(--Corner0) !important;
 }
   
 /* Game Tags Title Line */
@@ -158,7 +158,7 @@
 /* Game Page Game Collection Tags */
 .gamelistsearchbar_SearchFilterInput_172OF .gamelistsearchbar_FilterTag_3gzh_ {
   background-color: var(--black) !important;
-  border-radius: 4px !important;
+  border-radius: var(--Corner0) !important;
 }
   
 /* Your Collection Page */
@@ -172,7 +172,7 @@
   
 /* Recent Friend Activity Game Images */
 .libraryhomefriendsactivity_HeroImageClipper_3RqCl {
-  border-radius: 4px;
+  border-radius: var(--Corner0) !important;
 }
   
 /* Changes Blur Color For Games Page */
@@ -218,12 +218,12 @@
 
 .posttextentry_PostTextEntry_3x31A .posttextentry_Controls_37e7D .posttextentry_PostButton_2JSyA {
   background-color: var(--backdropblur) !important;
-  border-radius: 4px !important;
+  border-radius: var(--Corner0) !important;
 }
 
 .posttextentry_PostTextEntry_3x31A .posttextentry_Controls_37e7D button.posttextentry_EmoticonButton_bACIu {
   background-color: var(--backdropblur) !important;
-  border-radius: 4px !important;
+  border-radius: var(--Corner0) !important;
 }
 
 .posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2 {
@@ -268,7 +268,7 @@
 }
 
 .spotlight_MajorEventBackground_388Iu {
-  border-radius: 10px !important;
+  border-radius: var(--Corner1) !important;
 }
 
 .spotlight_MajorEventHeader_1HL2n {
@@ -294,7 +294,7 @@
 /* Game Page Content Background */
 .appactivityday_Event_UVeN0 .appactivityday_EventBody_NEMXh {
   background: none !important;
-  border-radius: 4px !important;
+  border-radius: var(--Corner0) !important;
   padding-left: 5px !important;
 }
 
@@ -392,5 +392,5 @@
 }
 
 .appdetailsgameinfocontainer_AppGameInfoContainer_25oBZ.appdetailsgameinfocontainer_AppDetailsExpanded_3s6_6 > div:not(.appdetailsgameinfocontainer_GameInfoShadow_1FXWy) {
-  border-radius: 10px !important;
+  border-radius: var(--Corner1) !important;
 }

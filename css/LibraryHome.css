@@ -11,7 +11,7 @@
 }
 
 .appportrait_RecentGameFooter_2d1hS {
-    border-radius: 4px !important;
+    border-radius: var(--Corner0) !important;
 }
 
 .appportrait_LibraryItemBoxShine_MyNb5 {
@@ -23,38 +23,38 @@
 
 .appgrid_SortingDropDownContainer_1ZpBQ > div {
     background: var(--grey) !important;
-    border-radius: 4px !important;
+    border-radius: var(--Corner0) !important;
     border: 0px !important;
 }
 
 .tooltip_TextToolTip_SeaN1 { 
     background-color: #151515 !important;
-    border-radius: 4px !important;
+    border-radius: var(--Corner0) !important;
 }
 
 .DialogDropDownMenu._DialogInputContainer {
     background: var(--grey) !important;
-    border-radius: 4px !important;
+    border-radius: var(--Corner0) !important;
     border: 0px !important;
     margin-top: 4px !important
 }
 
 .DialogDropDownMenu._DialogInputContainer {
     background: var(--grey) !important;
-    border-radius: 4px !important;
+    border-radius: var(--Corner0) !important;
     border: 0px !important;
     margin-top: 4px !important;
 }
 
 .appportrait_LibraryItemBox_WYgDg {
     border-top: 1px solid 0, 0, 0, 0.5 !important;
-    border-radius: 4px !important;
+    border-radius: var(--Corner0) !important;
 }
 
 /* Scroll To Top */
 .smartscrollcontainer_ScrollToTopButton_1J21t div {
     background: var(--backdropblur) !important;
-    border-radius: 20px !important;
+    border-radius: var(--Corner2) !important;
     bottom: 5px !important;
     backdrop-filter: blur(50px) !important;
 }
@@ -62,7 +62,7 @@
 .libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd .libraryhomenewupdates_EventTimeSpan_3OSZu {
     background-color: var(--backdropfilter) !important;
     backdrop-filter: blur(50px) !important;
-    border-radius: 4px !important;
+    border-radius: var(--Corner0) !important;
     color: var(--online) !important;
 }
 
@@ -87,7 +87,7 @@
 }
 
 .appportrait_FriendsBar_3dncO .appportrait_IconsRestCount_2JYwp.appportrait_Short_yGeS6 {
-    border-radius: 25px !important;
+    border-radius: var(--Corner3) !important;
 }
 
 .libraryhomeshowcases_CollectionDropDown_1YdRd ._DialogInputContainer, .pageablecontainer_HeaderPageControls_2ce8, .pageablecontainer_HeaderPageControls_2ce8e .pageablecontainer_Name_EckfX {

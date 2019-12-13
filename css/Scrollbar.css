@@ -28,7 +28,7 @@
   background: transparent !important;
   border: 5px solid transparent !important;
   -webkit-box-shadow: none !important;
-  border-radius: 10px !important;
+  border-radius: var(--Corner1) !important;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -36,7 +36,7 @@
   border: 5px solid transparent !important;
   background-clip: padding-box !important;
   -webkit-box-shadow: none !important;
-  border-radius: 10px !important;
+  border-radius: var(--Corner1) !important;
 }
 
 .ReactVirtualized__List::-webkit-scrollbar-track {

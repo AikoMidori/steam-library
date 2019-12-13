@@ -39,7 +39,7 @@
   background-color: red !important;
   width: 20px !important;
   height: 20px !important;
-  border-radius: 10px !important;
+  border-radius: var(--Corner1) !important;
   top: 6px !important;
 }
 
@@ -95,28 +95,28 @@
 
 /* Sidebar Searchbar Filter Button */
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_AdvancedSearchContainer_vCCmY {
-  border-radius: 20px;
+  border-radius: var(--Corner2) !important;
   margin-left: 10px;
   background-color: var(--darkgrey) !important;
 }
 
 /* Sidebar Searchbar */
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_AdvancedSearchContainer_vCCmY:hover {
-  border-radius: 20px;
+  border-radius: var(--Corner2) !important;
   margin-left: 10px;
 }
 
 /* Sidebar Searchbar Color */
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_SearchInput_12vo5 .DialogTextInputBase {
   background: var(--darkgrey) !important;
-  border-radius: 30px !important;
+  border-radius: var(--Corner3) !important;
   padding-right: 20px !important;
 }
 
 /* Sidebar Searchbar Hover Color */
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_SearchInput_12vo5 .DialogTextInputBase:hover {
   background: var(--darkgrey) !important;
-  border-radius: 30px !important;
+  border-radius: var(--Corner3) !important;
   padding-right: 20px !important;
 }
 
@@ -127,7 +127,7 @@
 
 /* Home Button */
 .gamelisthome_Bar_3pSPl {
-  border-radius: 4px !important;
+  border-radius: var(--Corner0) !important;
   margin-left: 10px !important;
   background-color: var(--BackgroundColor) !important;
   border: 1px solid transparent !important;
@@ -136,7 +136,7 @@
 
 /* Filter Button + Background */
 .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_MenuHeader_2PF_m {
-  border-radius: 4px;
+  border-radius: var(--Corner0) !important;
   background-color: var(--darkgrey) !important;
 }
 
@@ -148,14 +148,14 @@
 /* Filter Back To Top Button */
 .gamelistdropdown_ScrollToTop_uE7Pj.gamelistdropdown_Visible_rkfSf {
   margin-left: 5px !important;
-  border-radius: 20px !important;
+  border-radius: var(--Corner2) !important
 }
 
 /* Filter Button Position */
 .gamelistdropdown_Bar_1ZS_x {
   margin-top: 5px !important;
   border-top: 0px;
-  border-radius: 20px;
+  border-radius: var(--Corner2) !important;
   margin-left: 5px;
 }
 
@@ -201,7 +201,7 @@
 
 .contextmenu_contextMenu_PP7LM {
   background: var(--darkgrey) !important;
-  border-radius: 4px !important;
+  border-radius: var(--Corner0) !important;
   margin-left: 0px !important;
   padding: 2px !important;
   margin-top: 5px !important;
@@ -221,7 +221,7 @@
 
 .appfilterpane_Container_170Np .appfilterpane_SaveButton_1bqGA:disabled, .appfilterpane_Container_170Np .appfilterpane_SaveButton_1bqGA:disabled:hover {
   background: var(--darkgrey) !important;
-  border-radius: 4px !important;
+  border-radius: var(--Corner0) !important;
 }
 
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_AdvancedSearchContainer_vCCmY.gamelistsearchbar_Extended_31r1_ {
