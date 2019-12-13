@@ -2,23 +2,38 @@
 
 :root { /* COLORS */
 
-    --black: #151515; /* Black color */
-    --darkgrey: #1e1e1f; /* Dark grey color */
-    --grey: #2e2e2f; /* Grey color */
-    --lightgrey: #3e3e3f; /* Light grey color */
-    --white: #ffffff; /* White color */
-    --scrollbar: #6624e2; /* Scrollbar color */
-    --backdropblur: #3e3e3e3e; /* Blur color */
-    --libraryhome: #6624e2; /* Main library color */
-    --progressbar: #6624e2; /* Progressbar color */
-    --gamelist: #6624e2; /* Gamelist selected color */
-    --titlehover: #00000000; /* Title hover background color */
-    --titlenamehover: #6624e2; /* Gamelist title hover name color */
-    --gamehover: #ffffff; /* Game hover color */
-    --textcolor: #6624e2; /* Text color */
-    --offline: #919191; /* Offline avatar color */
-    --ingame: #90ba3c; /* Ingame avatar color */
-    --online: #5db2fe; /* Online avatar color */
+    --black: #151515;
+    --darkgrey: #1e1e1f;
+    --grey: #2e2e2f;
+    --lightgrey: #3e3e3f;
+    --white: #ffffff;
+    --purple: #6624e2;
+    --green: #33FF00;
+    --blue: #0066FF;
+    --pink: #FF00FF;
+    --red: #FF0000;
+    --orange: #FF6600;
+    --yellow: #FFFF00;
+    --invisiblegrey: #3e3e3e3e;
+    --invisibleblack: #00000000;
+    --offlinegrey: #919191;
+    --ingamegreen: #90ba3c;
+    --onlineblue: #5db2fe;
+    --yourcolor: #000000; /* make your own color /*
+
+    /* FEATURE COLORS */
+    --scrollbar: var(--purple); /* Scrollbar color */
+    --backdropblur: var(--invisiblegrey); /* Blur color */
+    --libraryhome: var(--purple); /* Main library color */
+    --progressbar: var(--purple); /* Progressbar color */
+    --gamelist: var(--purple); /* Gamelist selected color */
+    --titlehover: var(--invisibleblack); /* Title hover background color */
+    --titlenamehover: var(--purple); /* Gamelist title hover name color */
+    --gamehover: var(--white); /* Game hover color */
+    --textcolor: var(--purple); /* Text color */
+    --offline: var(--offlinegrey);; /* Offline avatar color */
+    --ingame: var(--ingamegreen); /* Ingame avatar color */
+    --online: var(--onlineblue); /* Online avatar color */
 
 }
 
@@ -33,6 +48,8 @@
     --LetterSpacing: 3px !important; /* Set 3px or more ] */
     --YourLibraryName: "YOUR LIBRARY" !important; /* Set your own library name */
     --BackgroundColor: transparent; /* Button background color */
+    --LibraryButton: flex; /* Hide/Show Library Button, Set to [none | flex ] */
+    --LibrarySearch: flex; /* Hide/Show Library Button, Set to [none | flex ] */
     
 
     /**********************/
@@ -48,6 +65,13 @@
     /* GAME ICONS */
     /**************/
     --GameIcons: none; /* Set to [none | block ] */
+
+
+    /**********************/
+    /* INGAME FRIEND ICON */
+    /**********************/
+    --FriendInGameIcon: none; /* Set to [block | none ] */
+    --FriendInGameIconPosition: -12px;  /* Position $BETTER NOT EDIT$ */
 
 
     /**********************************/
@@ -67,11 +91,11 @@
     --CoverHover: show; /* Set to [ show | hide ] */
 
 
-    /**********************/
-    /* INGAME FRIEND ICON */
-    /**********************/
-    --FriendInGameIcon: none; /* Set to [block | none ] */
-    --FriendInGameIconPosition: -12px;  /* Position $BETTER NOT EDIT$ */
+    /************************/
+    /* GAMEPAGE PLAY HEADER */
+    /************************/
+    /* Turning this off results for a smoother scrolling experience on low end pc's */
+    --GamePlayHeader: flex /* Set to [none | flex ] */
 
 
     /*********************/
@@ -86,7 +110,7 @@
     --ButtonInstall2: var(--libraryhome); /* Install button color shade 2 */
     --ButtonInstallHover: #47bfff; /* Install button hover color shade 1 */
     --ButtonInstallHover2: #1a44c2; /* Install button hover color shade 2 */
-    
+
 }
 
 /* ===== CREDITS  =====
