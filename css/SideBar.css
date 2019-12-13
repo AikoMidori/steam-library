@@ -8,6 +8,7 @@
 
 /* Sidebar Header Background */
 .gamelistbar_GameListHomeAndSearch_2TKEa {
+  display: var(--LibraryButton) !important;
   background-color: var(--black) !important;
 }
 
@@ -322,10 +323,6 @@ stroke: var(--white) !important;
 
 /* NEW CHANGES */
 
-.gamelistbar_GameListHomeAndSearch_2TKEa {
-    display: var(--LibraryButton) !important;
-}
-
 .gamelistsearchbar_Container_20QAC {
-    display: var(--LibrarySearch) !important;
+  display: var(--LibrarySearch) !important;
 }
