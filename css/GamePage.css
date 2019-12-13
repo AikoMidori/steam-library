@@ -2,343 +2,337 @@
 
 /* ------------------GAME PAGES------------------ */
 
-  /* Beta Button */
-  .libraryhome_BetaBar_1HcmY {
-    margin-top: 5px !important;
-    margin-right: 30px !important;
-    border-radius: 30px !important;
-    background: var(--lightgrey) !important;
-  }
+/* Beta Button */
+.libraryhome_BetaBar_1HcmY {
+  margin-top: 5px !important;
+  margin-right: 30px !important;
+  border-radius: 30px !important;
+  background: var(--lightgrey) !important;
+}
 
-  /* Removes Play Button Glow */
-  .appdetailsoverview_Glassy_2OOzY > div {
-    z-index: -1 !important;
-  }
+/* Removes Play Button Glow */
+.appdetailsoverview_Glassy_2OOzY > div {
+  z-index: -1 !important;
+}
+ 
+.appactivityday_PartnerEvent_1AYE1 {
+  border: 0x !important;
+  border-image-source: none !important;
+  background: var(--backdropblur) !important;
+}
 
-  .appactivityday_PartnerEvent_1AYE1 {
-    border: 0x !important;
-    border-image-source: none !important;
-    background: var(--backdropblur) !important;
-  }
+.appactivityday_Event_UVeN0 {
+  border-radius: 4px !important;
+  background: var(--backdropblur) !important;
+  padding-left: 5px !important;
+}
 
-  .appactivityday_Event_UVeN0 {
-    border-radius: 4px !important;
-    background: var(--backdropblur) !important;
-    padding-left: 5px !important;
-  }
+.appactivityday_PartnerEventMediumImage_Container_1HZy7:hover {
+  background:none;
+}
 
-  .appactivityday_PartnerEventMediumImage_Container_1HZy7:hover {
-    background:none;
-  }
+.steamavatar_friendavatar_xXwx9 {
+  margin-top: 3px !important;
+  margin-left: 5px !important;
+}
 
-  .steamavatar_friendavatar_xXwx9 {
-    margin-top: 3px !important;
-    margin-left: 5px !important;
-  }
+.appactivityday_Event_UVeN0:first-child {
+  border-radius: 4px !important;
+  background: var(--backdropblur) !important;
+}
 
-  .appactivityday_Event_UVeN0:first-child {
-    border-radius: 4px !important;
-    background: var(--backdropblur) !important;
-  }
+.appactivityday_PartnerEventMediumImage_Container_1HZy7 {
+  background: none !important;
+}
 
-  .appactivityday_PartnerEventMediumImage_Container_1HZy7 {
-    background: none !important;
-  }
-
-  .appactivityday_ScreenshotCaption_23HTp.appactivityday_HasCaption_tLc3y, .appactivityday_VideoTitle_1d0ij.appactivityday_HasCaption_tLc3y {
-    background-image: none !important;
-    border-bottom-left-radius: 4px !important;
-    backdrop-filter: blur(50px)
-  }
+.appactivityday_ScreenshotCaption_23HTp.appactivityday_HasCaption_tLc3y, .appactivityday_VideoTitle_1d0ij.appactivityday_HasCaption_tLc3y {
+  background-image: none !important;
+  border-bottom-left-radius: 4px !important;
+  backdrop-filter: blur(50px)
+}
 
 /* Blurs The Backgrounds */
 .appdetailsoverview_Container_27RcN {
-    backdrop-filter: var(--FuckBlur) !important;
-    background: var(--FlatColor) !important;
-    display: block!important;
+  backdrop-filter: var(--FuckBlur) !important;
+  background: var(--FlatColor) !important;
+  display: block!important;
 }
 
 /* Blurs The Backgrounds */
 .appdetailsoverview_Glassy_2OOzY .appdetailsoverview_BackdropGlass_Jbe-- {
-    backdrop-filter: var(--FuckBlur) !important;
-    background: var(--FlatColor) !important;
+  backdrop-filter: var(--FuckBlur) !important;
+  background: var(--FlatColor) !important;
 }
 
 /* Changes Blur Color & Depth For Games Page */
 .appdetailsoverview_Glassy_2OOzY .appdetailsoverview_ColumnContainer_OhSdL {
-    backdrop-filter: blur(0px) !important;
-    background: var(--FlatColor) !important;
+  backdrop-filter: blur(0px) !important;
+  background: var(--FlatColor) !important;
 }
 
 /* Game Page Launch Game Bar */
 .appdetailsplaysection_StickyHeader_39Rhe .appdetailsplaysection_Glassy_3DeO9 {
-    backdrop-filter: var(--FuckBlur) !important;
-    background: var(--FlatColor) !important;
-    margin-left: -6px !important;
-    border-bottom: 1px solid black !important;
+  backdrop-filter: var(--FuckBlur) !important;
+  background: var(--FlatColor) !important;
+  margin-left: -6px !important;
+  border-bottom: 1px solid black !important;
 }
 
-  .appdetailscommunityfeed_ArtItem_1aP1b .appdetailscommunityfeed_BottomSection_3uabi {
-    background: none !important;
-    color: #2db9ff !important;
-    backdrop-filter: blur(50px) !important;
-  }
+.appdetailscommunityfeed_ArtItem_1aP1b .appdetailscommunityfeed_BottomSection_3uabi {
+  background: none !important;
+  color: #2db9ff !important;
+  backdrop-filter: blur(50px) !important;
+}
 
-  .appdetailsplaysection_DetailsProgressContainer_25YVD {
-    border-radius: 6px !important;
-    background-color: var(--grey) !important;
-    margin-top: 6px !important;
-  }
+.appdetailsplaysection_DetailsProgressContainer_25YVD {
+  border-radius: 6px !important;
+  background-color: var(--grey) !important;
+  margin-top: 6px !important;
+}
 
-  .appdetailsplaysection_DetailsProgressContainer_25YVD .appdetailsplaysection_DetailsProgressBar_1FnTq {
-    border-radius: 6px !important;
-  }
+.appdetailsplaysection_DetailsProgressContainer_25YVD .appdetailsplaysection_DetailsProgressBar_1FnTq {
+  border-radius: 6px !important;
+}
 
-  .appdetailsachievementssection_AchievementProgressContainer_3ns91 {
-    background-color: var(--darkgrey) !important;
-    border-radius: 6px !important;
-  }
+.appdetailsachievementssection_AchievementProgressContainer_3ns91 {
+  background-color: var(--darkgrey) !important;
+  border-radius: 6px !important;
+}
 
-  .appdetailsachievementssection_AchievementProgressContainer_3ns91 .appdetailsachievementssection_AchievementProgress_3Rm36 {
-    border-radius: 6px !important;
-  }
+.appdetailsachievementssection_AchievementProgressContainer_3ns91 .appdetailsachievementssection_AchievementProgress_3Rm36 {
+  border-radius: 6px !important;
+}
 
+.appdetailsplaysection_GameStat_1kiZK .appdetailsplaysection_GameStatIcon_1tIg- {
+  margin: 0px !important;
+}
 
-  .appdetailsplaysection_GameStat_1kiZK .appdetailsplaysection_GameStatIcon_1tIg- {
-    margin: 0px !important;
-  }
+/* Hover Over What's New Game */
+.libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd.libraryhomenewupdates_HoversEnabled_278jF:hover .libraryhomenewupdates_EventSummaryContainer_3Rb_j {
+  background-color: transparent !important;
+  border-radius: 4px !important;
+  backdrop-filter: blur(12px) !important;
+}
 
-  /* Hover Over What's New Game */
-  .libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd.libraryhomenewupdates_HoversEnabled_278jF:hover .libraryhomenewupdates_EventSummaryContainer_3Rb_j {
-    background-color: transparent !important;
-    border-radius: 4px !important;
-    backdrop-filter: blur(12px) !important;
-  }
-
-  /* Background Hover Over What's New Game */
-  .libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd .libraryhomenewupdates_PartnerEventRowCapsule_MainImageContainer_SPz0i {
-    background-color: transparent !important;
+/* Background Hover Over What's New Game */
+.libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd .libraryhomenewupdates_PartnerEventRowCapsule_MainImageContainer_SPz0i {
+  background-color: transparent !important;
 }
   
-  /* Game Page Catogory Background */
-  .collectionview_OuterContainer_2sNr7 {
-    background: var(--darkgrey) !important;
-  }
+/* Game Page Catogory Background */
+.collectionview_OuterContainer_2sNr7 {
+  background: var(--darkgrey) !important;
+}
   
-  /* Game Page Background */
-  .libraryhome_InnerContainer_2AUVZ {
-    background: var(--darkgrey) !important;
-  }
+/* Game Page Background */
+.libraryhome_InnerContainer_2AUVZ {
+  background: var(--darkgrey) !important;
+}
   
-  /* Game Page What's New Line */
-  .pageablecontainer_HeaderPageControls_2ce8e .pageablecontainer_Rule_3kmsu {
-    display: none !important;
-  }
+/* Game Page What's New Line */
+.pageablecontainer_HeaderPageControls_2ce8e .pageablecontainer_Rule_3kmsu {
+  display: none !important;
+}
   
-  /* Game Page Buttons */
-  .pageablecontainer_PageClickContainer_3E421 .pageablecontainer_PageLeft_1L7no, .pageablecontainer_PageClickContainer_3E421 .pageablecontainer_PageRight_1qFMs {
-    width: 18px !important;
-    height: 18px !important;
-    padding: 5px !important;
-    font-size: 0px !important;
-    background: var(--lightgrey) !important;
-    border-radius: 40px !important;
-  }
+/* Game Page Buttons */
+.pageablecontainer_PageClickContainer_3E421 .pageablecontainer_PageLeft_1L7no, .pageablecontainer_PageClickContainer_3E421 .pageablecontainer_PageRight_1qFMs {
+  width: 18px !important;
+  height: 18px !important;
+  padding: 5px !important;
+  font-size: 0px !important;
+  background: var(--lightgrey) !important;
+  border-radius: 40px !important;
+}
   
-  /* Game Page Game Titles */
-  .libraryhomenewupdates_GameIconAndName_3_xMy {
-    background-color: var(--grey) !important;
-    border-radius: 4px !important;
-  }
+/* Game Page Game Titles */
+.libraryhomenewupdates_GameIconAndName_3_xMy {
+  background-color: var(--grey) !important;
+  border-radius: 4px !important;
+}
   
-  /* Game Tags Title Line */
-  .collectionview_Container_2q70u .collectionview_Header_2rqTS .collectionview_Rule_1grg9 {
-   display: none !important;
-  }
+/* Game Tags Title Line */
+.collectionview_Container_2q70u .collectionview_Header_2rqTS .collectionview_Rule_1grg9 {
+  display: none !important;
+}
   
-  /* Game Page Game Collection Tags */
-  .gamelistsearchbar_SearchFilterInput_172OF .gamelistsearchbar_FilterTag_3gzh_ {
-    background-color: var(--black) !important;
-    border-radius: 4px !important;
-  }
+/* Game Page Game Collection Tags */
+.gamelistsearchbar_SearchFilterInput_172OF .gamelistsearchbar_FilterTag_3gzh_ {
+  background-color: var(--black) !important;
+  border-radius: 4px !important;
+}
   
-  /* Your Collection Page */
-  .allcollections_ScrollContainer_u1xD3 {
-    background: var(--darkgrey) !important;
-  }
+/* Your Collection Page */
+.allcollections_ScrollContainer_u1xD3 {
+  background: var(--darkgrey) !important;}
   
-  /* Your Collection Page Tile Backgrounds */
-  .allcollections_Collection_3IWn- {
-    background: var(--black) !important;
-  }
+/* Your Collection Page Tile Backgrounds */
+.allcollections_Collection_3IWn- {
+  background: var(--black) !important;
+}
   
-  /* Recent Friend Activity Game Images */
-  .libraryhomefriendsactivity_HeroImageClipper_3RqCl {
-    border-radius: 4px;
-  }
+/* Recent Friend Activity Game Images */
+.libraryhomefriendsactivity_HeroImageClipper_3RqCl {
+  border-radius: 4px;
+}
   
-  /* Changes Blur Color For Games Page */
-  .appdetails_ScrollContainer_2l416 {
-    background-color: var(--darkgrey) !important;
-  }
+/* Changes Blur Color For Games Page */
+.appdetails_ScrollContainer_2l416 {
+  background-color: var(--darkgrey) !important;
+}
   
-  /* Changes Blur Color For Games Page */
-  .appdetails_Glassy_3Fmxx.appdetails_ScrollContainer_2l416 {
-    background-image: radial-gradient(100% 100% at 45% 35%, var(--darkgrey) 0%, var(--darkgrey) 100%) !important;
-  }
+/* Changes Blur Color For Games Page */
+.appdetails_Glassy_3Fmxx.appdetails_ScrollContainer_2l416 {
+  background-image: radial-gradient(100% 100% at 45% 35%, var(--darkgrey) 0%, var(--darkgrey) 100%) !important;
+}
 
   /* Changes Background Game Page Communnity Photos */
   .appdetailscommunityfeed_CommunityItem_3QS6O {
-    background-color: var(--backdropblur) !important;
-  }
+  background-color: var(--backdropblur) !important;
+}
 
   .comment_thread_ActivityCommentThread_39nna {
-    background: transparent !important;
-  }
+  background: transparent !important;
+}
 
-  .appactivityday_PartnerEventLargeImage_Container_Libri {
-    background: transparent !important;
-    border: 0px !important;
-    border-image-source: none !important;
-  }
+.appactivityday_PartnerEventLargeImage_Container_Libri {
+  background: transparent !important;
+  border: 0px !important;
+  border-image-source: none !important;
+}
 
-  .spotlightgameplaysummary_SummaryCarouselContainer_wgbDI {
-    background: transparent !important;
-  }
+.spotlightgameplaysummary_SummaryCarouselContainer_wgbDI {
+  background: transparent !important;
+}
 
-  .spotlightgameplaysummary_SummaryCarouselContainer_wgbDI:after {
-    box-shadow: none !important;
-  }
+.spotlightgameplaysummary_SummaryCarouselContainer_wgbDI:after {
+  box-shadow: none !important;
+}
 
-  .appdetailsspotlight_NewDLCContainer_3Exow {
-    background: transparent !important;
-  }
+.appdetailsspotlight_NewDLCContainer_3Exow {
+  background: transparent !important;
+}
 
-  .appactivityday_PartnerEventLargeImage_Container_Libri:hover {
-    background: transparent !important;
-  }
+.appactivityday_PartnerEventLargeImage_Container_Libri:hover {
+  background: transparent !important;
+}
 
-  .posttextentry_PostTextEntry_3x31A .posttextentry_Controls_37e7D .posttextentry_PostButton_2JSyA {
-    background-color: var(--backdropblur) !important;
-    border-radius: 4px !important;
-  }
+.posttextentry_PostTextEntry_3x31A .posttextentry_Controls_37e7D .posttextentry_PostButton_2JSyA {
+  background-color: var(--backdropblur) !important;
+  border-radius: 4px !important;
+}
 
-  .posttextentry_PostTextEntry_3x31A .posttextentry_Controls_37e7D button.posttextentry_EmoticonButton_bACIu {
-    background-color: var(--backdropblur) !important;
-    border-radius: 4px !important;
-  }
+.posttextentry_PostTextEntry_3x31A .posttextentry_Controls_37e7D button.posttextentry_EmoticonButton_bACIu {
+  background-color: var(--backdropblur) !important;
+  border-radius: 4px !important;
+}
 
-  .posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2 {
-    background: var(--backdropblur) !important;
-  }
+.posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2 {
+  background: var(--backdropblur) !important;
+}
 
-  .posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2:focus {
-    background: var(--backdropblur) !important;
-  }
+.posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2:focus {
+  background: var(--backdropblur) !important;
+}
 
-  /* Changes Background Game Page Communnity Guide */
-  .appdetailscommunityfeed_Guide_-85o5 .appdetailscommunityfeed_TopSectionInner_1dJuv {
-    background: transparent !important;
-  }
+/* Changes Background Game Page Communnity Guide */
+.appdetailscommunityfeed_Guide_-85o5 .appdetailscommunityfeed_TopSectionInner_1dJuv {
+  background: transparent !important;
+}
 
-  /* Removes Background Game Page Communnity Photos */
-  .appdetailscommunityfeed_AuthorSection_1ul9Z {
-    background: transparent !important;
-    padding: 0px !important;
-  }
+/* Removes Background Game Page Communnity Photos */
+.appdetailscommunityfeed_AuthorSection_1ul9Z {
+  background: transparent !important;
+  padding: 0px !important;
+}
   
-  /* Removes Padding Social Background */
-  .appdetailsprimarylinkssection_LinksSection_3-V8v {
-    margin-bottom: 0px !important;
-  }
+/* Removes Padding Social Background */
+.appdetailsprimarylinkssection_LinksSection_3-V8v {
+  margin-bottom: 0px !important;
+}
   
-  /* Removes Image Blur */
-  .appdetailssection_AppDetailsSectionContainer_31ptF.appdetailssection_RightColumnSection_3KfxI {
-    border: 1px solid transparent !important;
-    /* border-image-source: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIW…ZzXCqnpSlmImI2x2QQKSJm5qJtxuV5CRVFdnby/ODBJ/j/Lba7Vcfad4UAAAAASUVORK5CYII=);
-    border-image-width: 1px !important; */
-    background: none !important;
-  }
-  
-  
-  .appdetailssection_AppDetailsSectionContainer_31ptF {
-    z-index: 1 !important;
-  }
-  
-  
-  .spotlight_MajorEventContainer_dVJB2{
-      border: 1px solid transparent !important;
-      border-image-source: none !important;
-  }
-  
-  
-  .spotlight_MajorEventBackground_388Iu {
-    border-radius: 10px !important;
-  }
-  
-  
-  .spotlight_MajorEventHeader_1HL2n {
-    background-color: transparent !important;
-  }
-  
-  /* Removes Game Page Social Background */
-  .appdetailsprimarylinkssection_LinksSection_3-V8v > div {
-    background: none !important;
-  }
-  
-  /* Removes Game Page Community Header Background */
-  .appdetailscommunityfeed_HeaderStyles_2lNdD {
-    background: none !important;
-    color: white !important;
-  }
-  
-  /* Removes Play/Install Header Background */
-  .appdetailsplaysection_Glassy_3DeO9.appdetailsplaysection_PlayBar_3fLo1 {
-    background: var(--FlatColor) !important;
-  }
-  
-  /* Game Page Content Background */
-  .appactivityday_Event_UVeN0 .appactivityday_EventBody_NEMXh {
-    background: none !important;
-    border-radius: 4px !important;
-    padding-left: 5px !important;
-  }
+/* Removes Image Blur */
+.appdetailssection_AppDetailsSectionContainer_31ptF.appdetailssection_RightColumnSection_3KfxI {
+  border: 1px solid transparent !important;
+  /* border-image-source: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIW…ZzXCqnpSlmImI2x2QQKSJm5qJtxuV5CRVFdnby/ODBJ/j/Lba7Vcfad4UAAAAASUVORK5CYII=);
+  border-image-width: 1px !important; */
+  background: none !important;
+}
 
-  .appdetailsplaysection_StickyHeaderShadow_2_86Q {
-    display: none !important;
-  }
+.appdetailssection_AppDetailsSectionContainer_31ptF {
+  z-index: 1 !important;
+}
+
+.spotlight_MajorEventContainer_dVJB2{
+  border: 1px solid transparent !important;
+  border-image-source: none !important;
+}
+
+.spotlight_MajorEventBackground_388Iu {
+  border-radius: 10px !important;
+}
+
+.spotlight_MajorEventHeader_1HL2n {
+  background-color: transparent !important;
+}
   
-  /* Game Page Achievements Background */
-  .appdetailssection_Highlight_38t1m {
-    background: none !important;
-  }
+/* Removes Game Page Social Background */
+.appdetailsprimarylinkssection_LinksSection_3-V8v > div {
+  background: none !important;
+}
+  
+/* Removes Game Page Community Header Background */
+.appdetailscommunityfeed_HeaderStyles_2lNdD {
+  background: none !important;
+  color: white !important;
+}
+  
+/* Removes Play/Install Header Background */
+.appdetailsplaysection_Glassy_3DeO9.appdetailsplaysection_PlayBar_3fLo1 {
+  background: var(--FlatColor) !important;
+}
+  
+/* Game Page Content Background */
+.appactivityday_Event_UVeN0 .appactivityday_EventBody_NEMXh {
+  background: none !important;
+  border-radius: 4px !important;
+  padding-left: 5px !important;
+}
 
-  .appdetailsspotlight_ReviewContainer_3LE-6 {
-    background-color: transparent !important;
-  }
+.appdetailsplaysection_StickyHeaderShadow_2_86Q {
+  display: none !important;
+}
+  
+/* Game Page Achievements Background */
+.appdetailssection_Highlight_38t1m {
+  background: none !important;
+}
 
-  .writereview_RatingContainer_2Jk1D { 
-    background-color: transparent !important;
-  }
+.appdetailsspotlight_ReviewContainer_3LE-6 {
+  background-color: transparent !important;
+}
 
-  .appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX {
-    background: linear-gradient(to right, var(--ButtonPlay) 0%, var(--ButtonPlay2)) 60% !important;
+.writereview_RatingContainer_2Jk1D { 
+  background-color: transparent !important;
+}
+
+.appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX {
+  background: linear-gradient(to right, var(--ButtonPlay) 0%, var(--ButtonPlay2)) 60% !important;
 }
 
 .appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX.appactionbutton_StreamingSelector_2q-gZ {
-    background: linear-gradient(to right, var(--ButtonPlayHover) 0%, var(--ButtonPlayHover2)) 100% !important;
+  background: linear-gradient(to right, var(--ButtonPlayHover) 0%, var(--ButtonPlayHover2)) 100% !important;
 }
 
 :not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX:hover {
-    background: linear-gradient(to right, var(--ButtonPlayHover) 0%, var(--ButtonPlayHover2)) 100% !important;
+  background: linear-gradient(to right, var(--ButtonPlayHover) 0%, var(--ButtonPlayHover2)) 100% !important;
 }
 
 :not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX:hover svg {
-    fill: white !important; 
+  fill: white !important; 
 }
 
 .appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX svg {
-    fill: white !important; 
+  fill: white !important; 
 }
 
 .appactionbutton_ButtonChild_2AzIX {
@@ -395,4 +389,8 @@
 
 .appdetails_PlayBar_2L3s2.appdetails_ShowPlayBar_jnXtv {
   display: var(--GamePlayHeader) !important;
+}
+
+.appdetailsgameinfocontainer_AppGameInfoContainer_25oBZ.appdetailsgameinfocontainer_AppDetailsExpanded_3s6_6 > div:not(.appdetailsgameinfocontainer_GameInfoShadow_1FXWy) {
+  border-radius: 10px !important;
 }
