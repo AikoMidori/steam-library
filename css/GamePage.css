@@ -389,3 +389,10 @@
 .sharedappdetailsheader_TopCapsule_NZMJ6.sharedappdetailsheader_TopCapsule_NZMJ6, .sharedappdetailsheader_HeaderBackgroundImage_1IX7F {
   max-height: var(--ImageHeight) !important;
 }
+
+
+/* NEW CHANGES */
+
+.appdetails_PlayBar_2L3s2.appdetails_ShowPlayBar_jnXtv {
+  display: var(--GamePlayHeader) !important;
+}
