@@ -14,12 +14,12 @@
     --red: #FF0000;
     --orange: #FF6600;
     --yellow: #FFFF00;
-    --invisiblegrey: #3e3e3e3e;
-    --invisibleblack: #00000000;
     --offlinegrey: #919191;
     --ingamegreen: #90ba3c;
     --onlineblue: #5db2fe;
-    --yourcolor: #000000; /* make your own color /*
+    --yourcolor: #000000; /* make your own color */
+    --invisiblegrey: rgba(62, 62, 62, 0.24);
+    --invisibleblack: rgba(0, 0, 0, 0);
 
     /* FEATURE COLORS */
     --scrollbar: var(--purple); /* Scrollbar color */
@@ -108,7 +108,7 @@
     /* GAMEPAGE PLAY HEADER */
     /************************/
     /* Turning this off results for a smoother scrolling experience on low end pc's */
-    --GamePlayHeader: flex /* Set to [none | flex ] */
+    --GamePlayHeader: flex; /* Set to [none | flex ] */
 
 
     /*********************/
