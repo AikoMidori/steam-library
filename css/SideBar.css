@@ -36,10 +36,8 @@
 }
 
 .gamelistsearchbar_Container_20QAC .DialogInput_ClearAction, .gamelistsearchbar_Container_20QAC .gamelistsearchbar_SearchFilterInputClear_38tIM {
-  background-color: red !important;
   width: 20px !important;
   height: 20px !important;
-  border-radius: var(--Corner1) !important;
   top: 6px !important;
 }
 

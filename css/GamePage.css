@@ -21,6 +21,10 @@
   background: var(--backdropblur) !important;
 }
 
+.appdetailssection_AppDetailsSection_2r4TK {
+  margin-bottom: 0px !important;
+}
+
 .appactivityday_Event_UVeN0 {
   border-radius: var(--Corner0) !important;
   background: var(--backdropblur) !important;
@@ -95,7 +99,7 @@
 }
 
 .appdetailsachievementssection_AchievementProgressContainer_3ns91 {
-  background-color: var(--darkgrey) !important;
+  background-color: var(--invisiblegrey) !important;
   border-radius: var(--Corner1) !important;
 }
 
@@ -405,18 +409,18 @@
 }
 
 .writereview_RatingContainer_2SAb6 {
-  background-color: var(--grey) !important;
+  background-color: var(--invisiblegrey) !important;
 }
 
 .writereview_ReviewThumbButton_1kCN0 {
   border-radius: var(--Corner3) !important;
-  background: var(--darkgrey) !important;
+  background: var(--invisiblegrey) !important;
   color: var(--white) !important;
 }
 
 .writereview_CompactThumbButton_35_Og {
   border-radius: var(--Corner3) !important;
-  background: var(--darkgrey) !important;
+  background: var(--invisiblegrey) !important;
   color: var(--white) !important;
 }
 
@@ -428,6 +432,6 @@
   fill: var(--red) !important;
 }
 
-.writereview_ThumbIcon_2Jkk- { {
+.writereview_ThumbIcon_2Jkk- {
   fill: var(--white) !important;
 }
