@@ -39,6 +39,29 @@
     margin-top: 4px !important
 }
 
+.appportraithover_ScreenshotCrossfade_2R6-l {
+    width: 95% !important;
+    background: transparent !important;
+    -webkit-mask-image: none !important;
+}
+
+.appportraithover_AppPortraitHover_2sGn0 {
+    border-radius: 4px !important;
+    background: var(--darkgrey) !important;
+}
+
+.appportraithover_CapsuleBackgroundContainer_Yts2c {
+    border-radius: 4px !important;
+}
+
+.appportraithover_FriendsContainer_3_0Qb {
+    background-color: transparent !important;
+}
+
+.appportraithover_ScreenshotImg_2X1QC {
+    border-radius: 4px !important;
+}
+
 .DialogDropDownMenu._DialogInputContainer {
     background: var(--grey) !important;
     border-radius: var(--Corner0) !important;
