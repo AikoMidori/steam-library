@@ -75,7 +75,7 @@
   backdrop-filter: var(--FuckBlur) !important;
   background: var(--FlatColor) !important;
   margin-left: -6px !important;
-  border-bottom: 1px solid black !important;
+  border-bottom: 0px solid black !important;
 }
 
 .appdetailscommunityfeed_ArtItem_1aP1b .appdetailscommunityfeed_BottomSection_3uabi {

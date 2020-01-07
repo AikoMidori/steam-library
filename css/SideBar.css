@@ -76,6 +76,8 @@
 /* Removes Sidebar Game Icons */
 .gamelistentry_Container_2-O4Z .gamelistentry_GameIcon_ga1hy {
   display: var(--GameIcons) !important;
+  height: 17px !important;
+  width: 17px !important;
 }
 
 /* Tile Name Hover color */

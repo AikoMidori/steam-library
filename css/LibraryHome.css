@@ -66,6 +66,14 @@
     color: var(--online) !important;
 }
 
+.appfilterpane_Container_170Np .appfilterpane_FilterArea_1ennW .appfilterpane_FilterBucket_1axoi .appfilterpane_FilterBucketLabel_3iV2v {
+    color: var(--textcolor) !important;
+}
+
+.gamelistsearchbar_Container_20QAC .gamelistsearchbar_AdvancedSearchContainer_vCCmY .gamelistsearchbar_AdvancedSearchPaneContainer_1dgAM .gamelistsearchbar_AdvancedSearchPane_Woh0k {
+    left: 32px !important;
+}
+
 .libraryhome_Container_2gSXC {
     background: var(--darkgrey) !important;
 }
