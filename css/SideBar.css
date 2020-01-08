@@ -53,10 +53,6 @@
   background: var(--white) !important;
 }
 
-.gamelistsearchbar_Container_20QAC .DialogInput_ClearAction:hover {
-  background: red !important;
-}
-
 .gamelistsectionheader_SectionHeaderContent_3cV3O:hover .gamelistsectionheader_SectionName_2mZ8L {
   color: var(--titlenamehover) !important;
 }
