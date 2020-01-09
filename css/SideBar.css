@@ -107,6 +107,7 @@
   background: var(--darkgrey) !important;
   border-radius: var(--Corner3) !important;
   padding-right: 20px !important;
+  padding-left: 10px !important;
 }
 
 /* Sidebar Searchbar Hover Color */
@@ -114,6 +115,7 @@
   background: var(--darkgrey) !important;
   border-radius: var(--Corner3) !important;
   padding-right: 20px !important;
+  padding-left: 10px !important;
 }
 
 /* Sidebar Searchbar Position */
