@@ -192,6 +192,18 @@
   color: var(--white) !important;  
 }
 
+.gamelistentry_Container_2-O4Z.gamelistentry_Selected_1UBpA.gamelistentry_Updating_1LVQp {
+  color: var(--white) !important;
+}
+
+.gamelistentry_Container_2-O4Z .gamelistentry_GameListEntryContainer_1vO6B .gamelistentry_DownloadProgress_3uk3F {
+  color: var(--pending) !important;
+}
+
+.gamelistentry_AppIconDownloading_2kzMb svg circle {
+  color: var(--pending) !important;
+}
+
 /* Sidebar Game Name Selected Hover */
 .gamelistentry_Container_2-O4Z.gamelistentry_Selected_1UBpA:hover, .gamelistentry_Container_2-O4Z.gamelistentry_Selected_1UBpA.gamelistentry_HoverOverlay_3cMVy {
   background: var(--gamelist) !important;
