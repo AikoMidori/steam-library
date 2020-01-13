@@ -14,6 +14,14 @@
     border-radius: var(--Corner0) !important;
 }
 
+.appportrait_UninstalledBar_kX-tI .appportrait_UninstalledProgressBar_mA39H {
+    background-color: var(--libraryhome) !important;
+}
+
+.appportrait_UninstalledBar_kX-tI.appportrait_BarDownloading_3BNwj {
+    background-color: var(--invisiblegrey) !important;
+}
+
 .appportrait_LibraryItemBoxShine_MyNb5 {
     transition-property: transform, opacity !important;
     transition-duration: 0.6s !important;

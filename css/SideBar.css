@@ -192,7 +192,7 @@
   color: var(--white) !important;  
 }
 
-.gamelistentry_Container_2-O4Z.gamelistentry_Selected_1UBpA.gamelistentry_Updating_1LVQp {
+.gamelistentry_Container_2-O4Z.gamelistentry_Updating_1LVQp {
   color: var(--white) !important;
 }
 
@@ -201,7 +201,7 @@
 }
 
 .gamelistentry_AppIconDownloading_2kzMb svg circle {
-  color: var(--pending) !important;
+  stroke: var(--pending) !important;
 }
 
 /* Sidebar Game Name Selected Hover */
