@@ -14,6 +14,10 @@
     border-radius: var(--Corner0) !important;
 }
 
+.appportraithover_DownloadStatus_1KHOC {
+    background-color: transparent !important;
+}
+
 .appportrait_UninstalledBar_kX-tI .appportrait_UninstalledProgressBar_mA39H {
     background-color: var(--libraryhome) !important;
 }
