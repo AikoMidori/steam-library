@@ -31,6 +31,7 @@
     --titlenamehover: var(--purple); /* Gamelist title hover name color */
     --gamehover: var(--white); /* Game hover color */
     --textcolor: var(--purple); /* Text color */
+    --pending: var(--red); /* Text color for pending updates/downloads */
     --offline: var(--offlinegrey);; /* Offline avatar color */
     --ingame: var(--ingamegreen); /* Ingame avatar color */
     --online: var(--onlineblue); /* Online avatar color */
