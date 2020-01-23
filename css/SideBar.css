@@ -265,7 +265,7 @@
   font-family: var(--Font) !important;
   visibility: visible !important;
   display: block !important;
-  margin-top: 15px !important;
+  margin-top: 0px !important;
   letter-spacing: var(--LetterSpacing) !important;
 }
 
