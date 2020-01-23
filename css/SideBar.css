@@ -4,6 +4,7 @@
 /* Sidebar Background */
 .gamelistbar_Container_3x1Hk {
   background-color: var(--black) !important;
+  background-image: none !important;
 }
 
 /* Sidebar Header Background */
@@ -178,6 +179,10 @@
 /* Sidebar Catogory Name Selected */
 .gamelistsectionheader_Container_2sYIg.gamelistsectionheader_Selected_sXMOs {
   background-color: var(--titlehover) !important;
+}
+
+.gamelistsectionheader_Container_2sYIg {
+  background: transparent !important;
 }
 
 /* Sidebar Game Name Hover */
