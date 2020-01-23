@@ -11,6 +11,7 @@
 .gamelistbar_GameListHomeAndSearch_2TKEa {
   display: var(--LibraryButton) !important;
   background-color: var(--black) !important;
+  height: 32px !important;
 }
 
 .gamelisthome_Bar_3pSPl.gamelisthome_Selected_eNLOx .SVGIcon_Home {
