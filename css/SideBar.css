@@ -152,7 +152,7 @@
 
 /* Filter Button Position */
 .gamelistdropdown_Bar_1ZS_x {
-  margin-top: 5px !important;
+  margin-top: -5px !important;
   border-top: 0px;
   border-radius: var(--Corner2) !important;
   margin-left: 5px;
@@ -274,6 +274,14 @@
   font-size: 0px !important;
 }
 
+.gamelisthome_Bar_3pSPl .gamelisthome_Icon_1ooRO {
+  height: 120% !important;
+}
+
+.gamelistbar_GameListHomeAndSearch_2TKEa .gamelistbar_HomeBox_3AhYl {
+  border-radius: var(--Corner0) !important
+}
+
 .gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L::before {
   font-size: var(--FontSize) !important;
   transition-delay: .2s !important;
@@ -286,7 +294,7 @@
   font-family: var(--Font) !important;
   visibility: visible !important;
   display: block !important;
-  margin-top: 15px !important;
+  margin-top: 0px !important;
   letter-spacing: var(--LetterSpacing) !important;
 }
 
