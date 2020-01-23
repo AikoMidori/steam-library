@@ -186,6 +186,10 @@
   background: transparent !important;
 }
 
+.gamelistsectionheader_Container_2sYIg:hover {
+  background: var(--darkgrey) !important;
+}
+
 /* Sidebar Game Name Hover */
 .gamelistentry_Container_2-O4Z:hover, .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy {
   background-color: var(--gamelist) !important;
