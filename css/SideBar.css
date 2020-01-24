@@ -128,7 +128,7 @@
 /* Home Button */
 .gamelisthome_Bar_3pSPl {
   border-radius: var(--Corner0) !important;
-  margin-left: 10px !important;
+  margin-left: 5px !important;
   background-color: var(--BackgroundColor) !important;
   border: 1px solid transparent !important;
   letter-spacing: var(--LetterSpacing) !important;
@@ -258,6 +258,7 @@
 .gamelisthome_Label_3O48L {
   visibility: hidden !important;
   font-size: 0px !important;
+  margin-left: 0px !important;
 }
 
 .gamelisthome_Label_3O48L::before {
