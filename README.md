@@ -1,4 +1,4 @@
-# Steam Library
+# Steam Library Beta
 
 Visit https://steamcommunity.com/groups/metroskin/discussions/0/1761356057412667612/ to check for updates.
 Join us on discord https://discord.gg/015OTigbS9wyJlBDP to discuss about upcoming releases and updates.
