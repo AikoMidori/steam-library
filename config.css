@@ -26,14 +26,14 @@
     --backdropblur: var(--invisiblegrey); /* Blur color */
     --libraryhome: var(--purple); /* Main library color */
     --progressbar: var(--purple); /* Progressbar color */
-    --gamelist: var(--purple); /* Gamelist selected color */
+    --gamelist: var(--purple); /* Game list selected color */
     --titlehover: var(--invisibleblack); /* Title hover background color */
-    --titlenamehover: var(--purple); /* Gamelist title hover name color */
+    --titlenamehover: var(--purple); /* Game list title hover name color */
     --gamehover: var(--white); /* Game hover color */
     --textcolor: var(--purple); /* Text color */
     --pending: var(--red); /* Text color for pending updates/downloads */
     --offline: var(--offlinegrey);; /* Offline avatar color */
-    --ingame: var(--ingamegreen); /* Ingame avatar color */
+    --ingame: var(--ingamegreen); /* Ing-ame avatar color */
     --online: var(--onlineblue); /* Online avatar color */
 
 }
@@ -58,33 +58,33 @@
     /*************************/
     --FontSize: 15px; /* The size of the font */
     --Font: "Motiva Sans", Arial, Helvetica, sans-serif;; /* Any font on the system */
-    --FontStyle: uppercase; /* Set to [lowercase | uppercase | none ] */
-    --LetterSpacing: 3px !important; /* Set 3px or more ] */
+    --FontStyle: uppercase; /* Set to [ lowercase | uppercase | none ] */
+    --LetterSpacing: 3px !important; /* Set 3px or more */
     --YourLibraryName: "YOUR LIBRARY" !important; /* Set your own library name */
     --BackgroundColor: transparent; /* Button background color */
-    --LibraryButton: flex; /* Hide/Show Library Button, Set to [none | flex ] */
-    --LibrarySearch: flex; /* Hide/Show Library Button, Set to [none | flex ] */
+    --LibraryButton: flex; /* Hide/Show Library Button, Set to [ none | flex ] */
+    --LibrarySearch: flex; /* Hide/Show Library Button, Set to [ none | flex ] */
     
 
     /**********************/
     /* LIBRARY CATEGORIES */
     /**********************/
-    --WhatsNew: block; /* Set to [none | block ] */
-    --Recent: block; /* Set to [none | block ] */
-    --TitleColor: var(--textcolor); /* Catagorie title color */
-    --TitleFont: 500; /* Set to [1 > 1000 ] */
+    --WhatsNew: block; /* Set to [ none | block ] */
+    --Recent: block; /* Set to [ none | block ] */
+    --TitleColor: var(--textcolor); /* Catagory title color */
+    --TitleFont: 500; /* Set to [ 1 > 1000 ] */
 
 
     /**************/
     /* GAME ICONS */
     /**************/
-    --GameIcons: none; /* Set to [none | block ] */
+    --GameIcons: none; /* Set to [ none | block ] */
 
 
     /**********************/
     /* INGAME FRIEND ICON */
     /**********************/
-    --FriendInGameIcon: none; /* Set to [block | none ] */
+    --FriendInGameIcon: none; /* Set to [ block | none ] */
     --FriendInGameIconPosition: -12px;  /* Position $BETTER NOT EDIT$ */
 
 
@@ -92,11 +92,11 @@
     /* BLUR AMOUNT ( Lower > Better ) */
     /**********************************/
     /* Blur turned off by default, to turn on; set FlatColor to none, and switch everything on. */
-    --FlatColor: #1e1e1f; /* Set to [none | color ] */
-    --FuckBlur: blur(0px); /* Set to [0px | Low PC ( 10px ) | High PC ( > 20px ) ] */
-    --BackgroundBlur: none; /* Set to [none | flex ] */
-    --ImageBlur: hidden; /* Set to [hidden | visible ] */
-    --ImageHeight: 320px; /* Set to [0px > 462px ] */
+    --FlatColor: #1e1e1f; /* Set to [ none | color ] */
+    --FuckBlur: blur(0px); /* Set to [ 0px | Low PC ( 10px ) | High PC ( > 20px ) ] */
+    --BackgroundBlur: none; /* Set to [ none | flex ] */
+    --ImageBlur: hidden; /* Set to [ hidden | visible ] */
+    --ImageHeight: 320px; /* Set to [ 0px > 462px ] */
 
 
     /******************************/
@@ -109,7 +109,7 @@
     /* GAMEPAGE PLAY HEADER */
     /************************/
     /* Turning this off results for a smoother scrolling experience on low end pc's */
-    --GamePlayHeader: flex; /* Set to [none | flex ] */
+    --GamePlayHeader: flex; /* Set to [ none | flex ] */
 
 
     /*********************/
