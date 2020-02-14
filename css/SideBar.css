@@ -20,7 +20,7 @@
 }
 
 .gamelisthome_Bar_3pSPl .SVGIcon_Home {
-  transition: 1s !important;
+  transition: 1s !important;min-width: 1px !important;
 }
 
 .gamelistentry_Container_2-O4Z .gamelistentry_GameListEntryContainer_1vO6B {
@@ -88,7 +88,9 @@
 
 /* Removes Sidebar Divider */
 .library_LibraryWindowDivider_276E6 {
-  display: none;
+  background: var(--darkgrey) !important;
+  min-width: 1px !important;
+  width: 1px !important;
 }
 
 /* Sidebar Searchbar Filter Button */
