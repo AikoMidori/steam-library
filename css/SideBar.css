@@ -88,7 +88,9 @@
 
 /* Removes Sidebar Divider */
 .library_LibraryWindowDivider_276E6 {
-  display: none;
+  background: var(--darkgrey) !important;
+  min-width: 1px !important;
+  width: 1px !important;
 }
 
 /* Sidebar Searchbar Filter Button */
