@@ -282,8 +282,8 @@
   font-size: 0px !important;
 }
 
-.gamelisthome_Bar_3pSPl .gamelisthome_Icon_1ooRO {
-  height: 120% !important;
+.gamelisthome_Bar_3pSPl .gamelisthome_Icon_1ooRO svg {
+  display: none !important;
 }
 
 .gamelistbar_GameListHomeAndSearch_2TKEa .gamelistbar_HomeBox_3AhYl {
