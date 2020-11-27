@@ -69,13 +69,6 @@
   display: none;
 }
 
-/* Removes Sidebar Game Icons */
-.gamelistentry_Container_2-O4Z .gamelistentry_GameIcon_ga1hy {
-  display: var(--GameIcons) !important;
-  height: 17px !important;
-  width: 17px !important;
-}
-
 /* Tile Name Hover color */
 .gamelistsectionheader_SectionName_2mZ8L:hover {
   color: var(--titlenamehover) !important;
@@ -333,14 +326,6 @@ stroke: var(--white) !important;
 
 .gamelistentry_Container_2-O4Z.gamelistentry_Selected_1UBpA.gamelistentry_Updating_1LVQp {
   color: var(--white) !important; 
-}
-
-.gamelistentry_AppIconDownloading_2kzMb {
-  display: var(--GameIcons) !important;
-}
-
-.gamelistentry_FriendIsPlaying_cNZ3w {
-  display: var(--FriendInGameIcon) !important;
 }
 
 .gamelistentry_Container_2-O4Z .gamelistentry_GameListEntryContainer_1vO6B {
