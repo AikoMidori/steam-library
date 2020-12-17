@@ -8,6 +8,11 @@
     background: #1e1e1f !important;
 }
 
+/* Top Line */
+.ModalPosition_TopBar {
+    background: var(--libraryhome) !important;
+}
+
 /* Properties Game Title */
 .pagedsettings_PagedSettingsDialog_Title_2rjVT {
     color: var(--libraryhome) !important;
@@ -29,11 +34,16 @@
 }
   
 .DialogTextInputBase:not(disabled):hover {
-    background: #121212 !important;
+    background: var(--libraryhome) !important;
 }
   
 .DialogTextInputBase:disabled:hover {
     background: #121212 !important;
+}
+
+/* Storage Available Text Color */
+.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_BlueHighlight_1KmR8 {
+    color: var(--libraryhome) !important;
 }
 
 /* UPDATES */
@@ -43,11 +53,33 @@
 }
 
 /* UPDATES */
-/* Background Buttons */
+/* Background All Buttons */
 button.DialogButton {
-    background: #1e1e1f !important;
+    background: #121212 !important;
 }
 
 button.DialogButton:not(disabled):hover {
-    background: #1e1e1f;
+    background: var(--libraryhome) !important;
 }
+
+/* CONTROLLER */
+/* Background Color List */
+.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_SteamInputStatusGrid_3lj3- {
+    background-color: transparent !important;
+}
+
+/* Text Color List */
+.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_SteamInputStatus_2H4Ly {
+    color: white !important;
+}
+
+/* DLC */
+/* Background Order Row */
+.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_DlcGrid_3sXdO .appproperties_DlcHeader_1SKB0 {
+    background: transparent !important;
+}
+
+.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_DlcGrid_3sXdO .appproperties_DlcHeader_1SKB0:hover {
+    background: transparent !important;
+}
+
