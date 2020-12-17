@@ -1,0 +1,53 @@
+/* Left Background */
+.pagedsettings_PagedSettingsDialog_PageListColumn_2kwFF {
+    background: #1e1e1f !important;
+}
+
+/* Right Background */
+.DialogContent, .DialogContentTransition {
+    background: #1e1e1f !important;
+}
+
+/* Properties Game Title */
+.pagedsettings_PagedSettingsDialog_Title_2rjVT {
+    color: var(--libraryhome) !important;
+}
+
+/* GENERAL */
+/* Background Check Boxes */
+.appproperties_AppProperties_1FyBL .appproperties_Checkbox_2V2nc {
+    background: transparent !important;
+}
+
+/* Search Box */
+.DialogTextInputBase, ._DialogInputContainer {
+    background: #151515 !important;
+}
+
+.DialogTextInputBase:focus {
+    background: #121212 !important;
+}
+  
+.DialogTextInputBase:not(disabled):hover {
+    background: #121212 !important;
+}
+  
+.DialogTextInputBase:disabled:hover {
+    background: #121212 !important;
+}
+
+/* UPDATES */
+/* Dropdown Menu Background */
+.dropdown_DialogDropDownMenu_30wJO._DialogInputContainer {
+    background: #121212 !important;
+}
+
+/* UPDATES */
+/* Background Buttons */
+button.DialogButton {
+    background: #1e1e1f !important;
+}
+
+button.DialogButton:not(disabled):hover {
+    background: #1e1e1f;
+}
