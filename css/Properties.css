@@ -26,7 +26,7 @@
 
 /* Search Box */
 .DialogTextInputBase {
-    background: #151515 !important;
+    background: #121212 !important;
 }
 
 .DialogTextInputBase:focus {
@@ -46,10 +46,21 @@
     color: var(--libraryhome) !important;
 }
 
+/* Dropdown Menu Button Background */
+.DialogDropDown {
+    background: #121212 !important;
+}
+
 /* UPDATES */
 /* Dropdown Menu Background */
 .dropdown_DialogDropDownMenu_30wJO._DialogInputContainer {
     background: #121212 !important;
+}
+
+/* Dropdown Menu List Hover */
+.dropdown_DialogDropDownMenu_Item_2oAiZ:hover {
+    background: #2e2e2f !important;
+    border-radius: 4px !important;
 }
 
 /* UPDATES */
