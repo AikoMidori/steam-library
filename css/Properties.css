@@ -25,7 +25,7 @@
 }
 
 /* Search Box */
-.DialogTextInputBase, ._DialogInputContainer {
+.DialogTextInputBase {
     background: #151515 !important;
 }
 
