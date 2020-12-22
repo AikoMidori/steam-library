@@ -47,7 +47,7 @@
 }
 
 /* Dropdown Menu Button Background */
-.DialogDropDown {
+.ModalDialogPopup .DialogDropDown {
     background: #121212 !important;
 }
 
