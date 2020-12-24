@@ -69,7 +69,13 @@
   display: none;
 }
 
-/* Tile Name Hover color */
+/* Game Name Right Click Color */
+.gamelistentry_HasContextMenuOpen_3km84 {
+  background-color: var(--gamelist) !important;
+  border: 1px solid var(--gamelist) !important;
+}
+
+/* Tile Name Hover Color */
 .gamelistsectionheader_SectionName_2mZ8L:hover {
   color: var(--titlenamehover) !important;
 }
