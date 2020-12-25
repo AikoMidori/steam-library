@@ -73,6 +73,7 @@
 .gamelistentry_HasContextMenuOpen_3km84 {
   background-color: var(--gamelist) !important;
   border: 1px solid var(--gamelist) !important;
+  color: var(--gamehover) !important;
 }
 
 /* Tile Name Hover Color */
