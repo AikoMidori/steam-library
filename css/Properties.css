@@ -1,0 +1,96 @@
+/* Left Background */
+.pagedsettings_PagedSettingsDialog_PageListColumn_2kwFF {
+    background: #1e1e1f !important;
+}
+
+/* Right Background */
+.DialogContent, .DialogContentTransition {
+    background: #1e1e1f !important;
+}
+
+/* Top Line */
+.ModalPosition_TopBar {
+    background: var(--libraryhome) !important;
+}
+
+/* Properties Game Title */
+.pagedsettings_PagedSettingsDialog_Title_2rjVT {
+    color: var(--libraryhome) !important;
+}
+
+/* GENERAL */
+/* Background Check Boxes */
+.appproperties_AppProperties_1FyBL .appproperties_Checkbox_2V2nc {
+    background: transparent !important;
+}
+
+/* Search Box */
+.DialogTextInputBase {
+    background: #121212 !important;
+}
+
+.DialogTextInputBase:focus {
+    background: #121212 !important;
+}
+  
+.DialogTextInputBase:not(disabled):hover {
+    background: var(--libraryhome) !important;
+}
+  
+.DialogTextInputBase:disabled:hover {
+    background: #121212 !important;
+}
+
+/* Storage Available Text Color */
+.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_BlueHighlight_1KmR8 {
+    color: var(--libraryhome) !important;
+}
+
+/* Dropdown Menu Button Background */
+.ModalDialogPopup .DialogDropDown {
+    background: #121212 !important;
+}
+
+/* UPDATES */
+/* Dropdown Menu Background */
+.dropdown_DialogDropDownMenu_30wJO._DialogInputContainer {
+    background: #121212 !important;
+}
+
+/* Dropdown Menu List Hover */
+.dropdown_DialogDropDownMenu_Item_2oAiZ:hover {
+    background: #2e2e2f !important;
+    border-radius: 4px !important;
+}
+
+/* UPDATES */
+/* Background All Buttons */
+button.DialogButton {
+    background: #121212 !important;
+}
+
+button.DialogButton:not(disabled):hover {
+    background: var(--libraryhome) !important;
+}
+
+/* CONTROLLER */
+/* Background Color List */
+.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_SteamInputStatusGrid_3lj3- {
+    background-color: transparent !important;
+}
+
+/* Text Color List */
+.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_SteamInputStatus_2H4Ly {
+    color: white !important;
+}
+
+/* DLC */
+/* Background Order Row */
+.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_DlcGrid_3sXdO .appproperties_DlcHeader_1SKB0 {
+    background: transparent !important;
+}
+
+.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_DlcGrid_3sXdO .appproperties_DlcHeader_1SKB0:hover {
+    background: transparent !important;
+}
+

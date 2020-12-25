@@ -1,4 +1,4 @@
-@import url('https://shiinaskins.com/steam-library/remote!url=master&css/Scrollbar.css');
+@import url('https://shiinaskins.com/steam-library/remote!url=beta&css/Scrollbar.css');
 /* ------------------SIDEBAR GAME LIST------------------ */
 
 /* Sidebar Background */
@@ -20,7 +20,7 @@
 }
 
 .gamelisthome_Bar_3pSPl .SVGIcon_Home {
-  transition: 1s !important;min-width: 1px !important;
+  transition: 1s !important;
 }
 
 .gamelistentry_Container_2-O4Z .gamelistentry_GameListEntryContainer_1vO6B {
@@ -69,14 +69,14 @@
   display: none;
 }
 
-/* Removes Sidebar Game Icons */
-.gamelistentry_Container_2-O4Z .gamelistentry_GameIcon_ga1hy {
-  display: var(--GameIcons) !important;
-  height: 17px !important;
-  width: 17px !important;
+/* Game Name Right Click Color */
+.gamelistentry_HasContextMenuOpen_3km84 {
+  background-color: var(--gamelist) !important;
+  border: 1px solid var(--gamelist) !important;
+  color: var(--gamehover) !important;
 }
 
-/* Tile Name Hover color */
+/* Tile Name Hover Color */
 .gamelistsectionheader_SectionName_2mZ8L:hover {
   color: var(--titlenamehover) !important;
 }
@@ -130,7 +130,7 @@
 /* Home Button */
 .gamelisthome_Bar_3pSPl {
   border-radius: var(--Corner0) !important;
-  margin-left: 10px !important;
+  margin-left: 5px !important;
   background-color: var(--BackgroundColor) !important;
   border: 1px solid transparent !important;
   letter-spacing: var(--LetterSpacing) !important;
@@ -155,7 +155,7 @@
 
 /* Filter Button Position */
 .gamelistdropdown_Bar_1ZS_x {
-  margin-top: 0px !important;
+  margin-top: -5px !important;
   border-top: 0px;
   border-radius: var(--Corner2) !important;
   margin-left: 5px;
@@ -260,6 +260,7 @@
 .gamelisthome_Label_3O48L {
   visibility: hidden !important;
   font-size: 0px !important;
+  margin-left: 0px !important;
 }
 
 .gamelisthome_Label_3O48L::before {
@@ -272,13 +273,17 @@
   font-family: var(--Font) !important;
   visibility: visible !important;
   display: block !important;
-  margin-top: 15px !important;
+  margin-top: 0px !important;
   letter-spacing: var(--LetterSpacing) !important;
 }
 
 .gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L {
   visibility: hidden !important;
   font-size: 0px !important;
+}
+
+.gamelisthome_Bar_3pSPl .gamelisthome_Icon_1ooRO svg {
+  display: none !important;
 }
 
 .gamelistbar_GameListHomeAndSearch_2TKEa .gamelistbar_HomeBox_3AhYl {
@@ -297,7 +302,7 @@
   font-family: var(--Font) !important;
   visibility: visible !important;
   display: block !important;
-  margin-top: 15px !important;
+  margin-top: 0px !important;
   letter-spacing: var(--LetterSpacing) !important;
 }
 
@@ -328,14 +333,6 @@ stroke: var(--white) !important;
 
 .gamelistentry_Container_2-O4Z.gamelistentry_Selected_1UBpA.gamelistentry_Updating_1LVQp {
   color: var(--white) !important; 
-}
-
-.gamelistentry_AppIconDownloading_2kzMb {
-  display: var(--GameIcons) !important;
-}
-
-.gamelistentry_FriendIsPlaying_cNZ3w {
-  display: var(--FriendInGameIcon) !important;
 }
 
 .gamelistentry_Container_2-O4Z .gamelistentry_GameListEntryContainer_1vO6B {

@@ -26,14 +26,14 @@
     --backdropblur: var(--invisiblegrey); /* Blur color */
     --libraryhome: var(--purple); /* Main library color */
     --progressbar: var(--purple); /* Progressbar color */
-    --gamelist: var(--purple); /* Game list selected color */
+    --gamelist: var(--purple); /* Gamelist selected color */
     --titlehover: var(--invisibleblack); /* Title hover background color */
     --titlenamehover: var(--purple); /* Game list title hover name color */
     --gamehover: var(--white); /* Game hover color */
     --textcolor: var(--purple); /* Text color */
     --pending: var(--red); /* Text color for pending updates/downloads */
     --offline: var(--offlinegrey);; /* Offline avatar color */
-    --ingame: var(--ingamegreen); /* Ing-ame avatar color */
+    --ingame: var(--ingamegreen); /* In-game avatar color */
     --online: var(--onlineblue); /* Online avatar color */
 
 }
@@ -73,12 +73,6 @@
     --Recent: block; /* Set to [ none | block ] */
     --TitleColor: var(--textcolor); /* Catagory title color */
     --TitleFont: 500; /* Set to [ 1 > 1000 ] */
-
-
-    /**************/
-    /* GAME ICONS */
-    /**************/
-    --GameIcons: none; /* Set to [ none | block ] */
 
 
     /**********************/
