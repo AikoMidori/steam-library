@@ -32,11 +32,11 @@
 .DialogTextInputBase:focus {
     background: #121212 !important;
 }
-  
+
 .DialogTextInputBase:not(disabled):hover {
     background: var(--libraryhome) !important;
 }
-  
+
 .DialogTextInputBase:disabled:hover {
     background: #121212 !important;
 }
@@ -94,3 +94,33 @@ button.DialogButton:not(disabled):hover {
     background: transparent !important;
 }
 
+/* WHAT'S NEW */
+/* Main Background */
+.libraryhomenewupdates_WhatsNewSettingsContainer_2JKpG {
+    background: #1e1e1f !important;
+}
+
+/* Categories Background */
+._DialogInputContainer, ._DialogInputContainer.libraryhomenewupdates_WhatsNewPriorityContainer_25JfL {
+    background: #121212 !important;
+    border-radius: 8px !important;
+}
+
+/* Toggle Background */
+.toggle_Toggle_3POJz .toggle_ToggleRail_3DiLY {
+    border-radius: 8px !important;
+    top: 0px !important;
+    height: 16px !important;
+}
+
+.toggle_Toggle_3POJz {
+  background: #2e2e2f !important;
+  border-radius: 8px !important;
+}
+
+/* Toggle Image */
+.toggle_Toggle_3POJz .toggle_ToggleSwitch_21X4K.toggle_On_3N31m {
+  background-color: var(--libraryhome) !important;
+  background-image: none !important;
+
+}
