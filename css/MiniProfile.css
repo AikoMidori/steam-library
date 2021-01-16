@@ -3,7 +3,7 @@
 /* Changes User Avatar Game Page Community Photos */
 .steamavatar_avatar_3h-QR {
     border-radius: var(--Corner6) !important;
-    border: 0px !important;
+    border: 0 !important;
     height: 28px !important;
     width: 28px !important;
 }
@@ -11,7 +11,7 @@
 /* Changes User Miniprofile Avatar */
 .miniprofile_miniProfile_2QPdq .steamavatar_avatar_3h-QR {
     border-radius: var(--Corner6) !important;
-    border: 0px !important;
+    border: 0 !important;
     height: 90px !important;
     width: 90px !important;
 }
@@ -24,8 +24,8 @@
     border-radius: var(--Corner0) !important; }
 
 .miniprofile_miniProfile_2QPdq {
-    border: 0px !important;
-    border-radius: 0px !important; }
+    border: 0 !important;
+    border-radius: 0 !important; }
   
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfileHeader_3CZcH {
     background: var(--black) !important;

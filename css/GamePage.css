@@ -16,7 +16,7 @@
 }
  
 .appactivityday_PartnerEvent_1AYE1 {
-  border: 0x !important;
+  border: none !important;
   border-image-source: none !important;
   background: var(--backdropblur) !important;
 }
@@ -132,7 +132,7 @@
   background-color: transparent !important;
 }
   
-/* Game Page Catogory Background */
+/* Game Page Category Background */
 .collectionview_OuterContainer_2sNr7 {
   background: var(--darkgrey) !important;
 }
@@ -198,7 +198,7 @@
   background-image: radial-gradient(100% 100% at 45% 35%, var(--darkgrey) 0%, var(--darkgrey) 100%) !important;
 }
 
-  /* Changes Background Game Page Communnity Photos */
+  /* Changes Background Game Page Community Photos */
   .appdetailscommunityfeed_CommunityItem_3QS6O {
   background-color: var(--backdropblur) !important;
 }
@@ -247,12 +247,12 @@
   background: var(--backdropblur) !important;
 }
 
-/* Changes Background Game Page Communnity Guide */
+/* Changes Background Game Page Community Guide */
 .appdetailscommunityfeed_Guide_-85o5 .appdetailscommunityfeed_TopSectionInner_1dJuv {
   background: transparent !important;
 }
 
-/* Removes Background Game Page Communnity Photos */
+/* Removes Background Game Page Community Photos */
 .appdetailscommunityfeed_AuthorSection_1ul9Z {
   background: transparent !important;
   padding: 0px !important;
@@ -266,8 +266,6 @@
 /* Removes Image Blur */
 .appdetailssection_AppDetailsSectionContainer_31ptF.appdetailssection_RightColumnSection_3KfxI {
   border: 1px solid transparent !important;
-  /* border-image-source: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIW…ZzXCqnpSlmImI2x2QQKSJm5qJtxuV5CRVFdnby/ODBJ/j/Lba7Vcfad4UAAAAASUVORK5CYII=);
-  border-image-width: 1px !important; */
   background: none !important;
 }
 
@@ -388,7 +386,7 @@
 }
 
 .sharedappdetailsheader_ImgSrc_HNbe3.sharedappdetailsheader_ImgBlurBackdrop_3_IUV {
-  display: var(--BackgoundBlur) !important;
+  display: var(--BackgroundBlur) !important;
 }
 
 .sharedappdetailsheader_TopCapsule_NZMJ6.sharedappdetailsheader_TopCapsule_NZMJ6 {

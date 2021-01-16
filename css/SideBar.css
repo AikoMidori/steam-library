@@ -163,24 +163,23 @@
 
 .gamelistdropdown_ScrollToTop_uE7Pj .SVGIcon_Arrow {
   border: 0px !important;
-  background-color: var(--darkgrey) !important;
 }
 
 .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_MenuHeader_2PF_m {
   border: 0px !important;
 }
 
-/* Sidebar Catogory Name Position */
+/* Sidebar Category Name Position */
 .gamelist_Container_1ijTa .ReactVirtualized__Grid {
   margin-left: 0px !important;
 }
 
-/* Sidebar Catogory Name Lines */
+/* Sidebar Category Name Lines */
 .gamelistsectionheader_SectionRule_1PxXc {
   display: none !important;
 }
 
-/* Sidebar Catogory Name Selected */
+/* Sidebar Category Name Selected */
 .gamelistsectionheader_Container_2sYIg.gamelistsectionheader_Selected_sXMOs {
   background-color: var(--titlehover) !important;
 }
@@ -342,16 +341,6 @@ stroke: var(--white) !important;
 
 .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z :hover, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z :hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy {
   background-color: var(--gamelist) !important;
-}
-
-/* Collections Button Hover */
-.tooltip_TextToolTip_2FxbH {
-  background-color: #121212 !important;
-}
-
-/* show Only Ready to Play Games Button Hover */
-.tooltip_ToolTipCustom_3XGRk {
-  background-color: #121212 !important;
 }
 
 

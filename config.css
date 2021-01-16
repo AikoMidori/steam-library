@@ -18,6 +18,7 @@
     --offlinegrey: #919191;
     --ingamegreen: #90ba3c;
     --onlineblue: #5db2fe;
+    --snoozeorange: #FF6600;
     --yourcolor: #000000; /* make your own color */
     --invisiblegrey: rgba(62, 62, 62, 0.24);
     --invisibleblack: rgba(0, 0, 0, 0);
@@ -36,6 +37,7 @@
     --offline: var(--offlinegrey);; /* Offline avatar color */
     --ingame: var(--ingamegreen); /* In-game avatar color */
     --online: var(--onlineblue); /* Online avatar color */
+    --snooze: var(--snoozeorange); /* Online avatar color */
 
 }
 

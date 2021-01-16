@@ -110,7 +110,7 @@ button.DialogButton:not(disabled):hover {
 .toggle_Toggle_3POJz .toggle_ToggleRail_3DiLY {
     background-color: #1e1e1f !important;
     border-radius: 8px !important;
-    top: 0px !important;
+    top: 0 !important;
     height: 16px !important;
 }
 

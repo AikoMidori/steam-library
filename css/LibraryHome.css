@@ -44,7 +44,7 @@
 .appgrid_SortingDropDownContainer_1ZpBQ > div {
     background: var(--grey) !important;
     border-radius: var(--Corner0) !important;
-    border: 0px !important;
+    border: 0 !important;
 }
 
 .tooltip_TextToolTip_SeaN1 { 
@@ -55,7 +55,7 @@
 .DialogDropDownMenu._DialogInputContainer {
     background: var(--grey) !important;
     border-radius: var(--Corner0) !important;
-    border: 0px !important;
+    border: 0 !important;
     margin-top: 4px !important
 }
 
@@ -85,7 +85,7 @@
 .DialogDropDownMenu._DialogInputContainer {
     background: var(--grey) !important;
     border-radius: var(--Corner0) !important;
-    border: 0px !important;
+    border: 0 !important;
     margin-top: 4px !important;
 }
 
