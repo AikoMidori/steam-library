@@ -111,17 +111,17 @@
     /*********************/
 
     /* Remove the Dropdown button next to play */
-    --DrowdownPlay: none !important; /* flex/none */
+    --DrowdownPlay: none; /* Set to [ none | flex ] */
 
     --ButtonPlay: var(--libraryhome); /* Play button color shade 1 */
     --ButtonPlay2: var(--libraryhome); /* Play button color shade 2 */
     --ButtonPlayHover: var(--libraryhome); /* Play button hover color shade 1 */
-    --ButtonPlayHover2: var(--libraryhome) /* Play button hover color shade 2 */
+    --ButtonPlayHover2: var(--libraryhome); /* Play button hover color shade 2 */
     
     --ButtonInstall: var(--libraryhome); /* Install button color shade 1 */
     --ButtonInstall2: var(--libraryhome); /* Install button color shade 2 */
-    --ButtonInstallHover: var(--libraryhome) /* Install button hover color shade 1 */
-    --ButtonInstallHover2: var(--libraryhome) /* Install button hover color shade 2 */
+    --ButtonInstallHover: var(--libraryhome); /* Install button hover color shade 1 */
+    --ButtonInstallHover2: var(--libraryhome); /* Install button hover color shade 2 */
 
 }
 
