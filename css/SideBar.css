@@ -88,7 +88,7 @@
 
 /* Removes Sidebar Divider */
 .library_LibraryWindowDivider_276E6 {
-  background: var(--darkgrey) !important;
+  background: #151515 !important;
   min-width: 1px !important;
   width: 1px !important;
 }
