@@ -1,9 +1,12 @@
 /* Game Page Header Background */
 .libraryhome_UpdatesContainer_17uEB {
-    display: var(--WhatsNew) !important;
     background: var(--darkgrey) !important;
     padding-top: 15px !important;
     padding-bottom: 275px !important;
+}
+
+.libraryhome_WhatsNewContainer_gdZT7 {
+    display: var(--WhatsNew) !important;
 }
 
 .libraryhome_LibraryHomeSection_1NCHR {
@@ -103,7 +106,7 @@
 }
 
 .libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd .libraryhomenewupdates_EventTimeSpan_3OSZu {
-    background-color: var(--backdropfilter) !important;
+    background-color: var(--backdropblur) !important;
     backdrop-filter: blur(50px) !important;
     border-radius: var(--Corner0) !important;
     color: var(--online) !important;
