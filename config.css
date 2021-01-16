@@ -2,6 +2,7 @@
 
 :root { /* COLORS */
 
+    /* BASIC COLORS */
     --black: #151515;
     --darkgrey: #1e1e1f;
     --grey: #2e2e2f;
@@ -26,7 +27,7 @@
     --backdropblur: var(--invisiblegrey); /* Blur color */
     --libraryhome: var(--purple); /* Main library color */
     --progressbar: var(--purple); /* Progressbar color */
-    --gamelist: var(--purple); /* Gamelist selected color */
+    --gamelist: var(--purple); /* Game list selected color */
     --titlehover: var(--invisibleblack); /* Title hover background color */
     --titlenamehover: var(--purple); /* Game list title hover name color */
     --gamehover: var(--white); /* Game hover color */
@@ -71,12 +72,12 @@
     /**********************/
     --WhatsNew: block; /* Set to [ none | block ] */
     --Recent: block; /* Set to [ none | block ] */
-    --TitleColor: var(--textcolor); /* Catagory title color */
+    --TitleColor: var(--textcolor); /* Category title color */
     --TitleFont: 500; /* Set to [ 1 > 1000 ] */
 
 
     /**********************/
-    /* INGAME FRIEND ICON */
+    /* IN-GAME FRIEND ICON */
     /**********************/
     --FriendInGameIcon: none; /* Set to [ block | none ] */
     --FriendInGameIconPosition: -12px;  /* Position $BETTER NOT EDIT$ */
@@ -100,7 +101,7 @@
 
 
     /************************/
-    /* GAMEPAGE PLAY HEADER */
+    /* GAME PAGE PLAY HEADER */
     /************************/
     /* Turning this off results for a smoother scrolling experience on low end pc's */
     --GamePlayHeader: flex; /* Set to [ none | flex ] */
@@ -126,9 +127,9 @@
 }
 
 /* ===== CREDITS  =====
-/* SHIINA♪
+/* Shiina♪#9670
 /* DISCORD: https://discord.gg/UZvkvkh
 /* GITHUB: https://github.com/AikoMidori/
 /* -------------------------------------------------------------------------------------------
-/* © 2019 All Rights Reserved. Created by Shiina♪
+/* © 2021 All Rights Reserved. Created by Shiina♪
 /**/
