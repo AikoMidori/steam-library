@@ -101,20 +101,25 @@ button.DialogButton:not(disabled):hover {
 }
 
 /* Categories Background */
-._DialogInputContainer, ._DialogInputContainer.libraryhomenewupdates_WhatsNewPriorityContainer_25JfL {
+.libraryhomenewupdates_WhatsNewSettings_1n-sV ._DialogInputContainer, ._DialogInputContainer.libraryhomenewupdates_WhatsNewPriorityContainer_25JfL {
     background: #121212 !important;
     border-radius: 8px !important;
 }
 
 /* Toggle Background */
 .toggle_Toggle_3POJz .toggle_ToggleRail_3DiLY {
+    background-color: #1e1e1f !important;
     border-radius: 8px !important;
     top: 0px !important;
     height: 16px !important;
 }
 
+.toggle_Toggle_3POJz .toggle_ToggleRail_3DiLY.toggle_Highlight_2FNJu {
+    background-color: #121212 !important;
+}
+
 .toggle_Toggle_3POJz {
-  background: #2e2e2f !important;
+  background: #1e1e1f !important;
   border-radius: 8px !important;
 }
 
@@ -122,5 +127,4 @@ button.DialogButton:not(disabled):hover {
 .toggle_Toggle_3POJz .toggle_ToggleSwitch_21X4K.toggle_On_3N31m {
   background-color: var(--libraryhome) !important;
   background-image: none !important;
-
 }

@@ -163,6 +163,7 @@
 
 .gamelistdropdown_ScrollToTop_uE7Pj .SVGIcon_Arrow {
   border: 0px !important;
+  background-color: var(--darkgrey) !important;
 }
 
 .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_MenuHeader_2PF_m {
@@ -341,6 +342,16 @@ stroke: var(--white) !important;
 
 .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z :hover, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z :hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy {
   background-color: var(--gamelist) !important;
+}
+
+/* Collections Button Hover */
+.tooltip_TextToolTip_2FxbH {
+  background-color: #121212 !important;
+}
+
+/* show Only Ready to Play Games Button Hover */
+.tooltip_ToolTipCustom_3XGRk {
+  background-color: #121212 !important;
 }
 
 
