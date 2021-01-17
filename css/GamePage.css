@@ -100,7 +100,7 @@
 .appdetailsplaysection_DetailsProgressContainer_25YVD {
   border-radius: var(--Corner1) !important;
   background-color: var(--invisiblegrey) !important;
-  margin-top: 10px !important;
+  margin-top: 0 !important;
 }
 
 .appdetailsplaysection_DetailsProgressContainer_25YVD .appdetailsplaysection_DetailsProgressBar_1FnTq {
@@ -329,15 +329,18 @@
 
 .appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX {
   background: linear-gradient(to right, var(--ButtonPlay) 0%, var(--ButtonPlay2)) 60% !important;
+  border-radius: var(--Corner0) !important;
 }
 
 .appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX.appactionbutton_StreamingSelector_2q-gZ {
   background: linear-gradient(to right, var(--ButtonPlayHover) 0%, var(--ButtonPlayHover2)) 100% !important;
   display: var(--DrowdownPlay) !important;
+  border-radius: var(--Corner0) !important;
 }
 
 .appactionbutton_ButtonChild_2AzIX.appactionbutton_StreamingSelector_2q-gZ {
   display: var(--DrowdownPlay) !important;
+  border-radius: var(--Corner0) !important;
 }
 
 :not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_Green_3cI5T > .appactionbutton_ButtonChild_2AzIX:hover {

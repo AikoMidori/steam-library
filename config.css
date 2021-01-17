@@ -91,7 +91,7 @@
     /* BLUR AMOUNT ( Lower > Better ) */
     /**********************************/
     /* Blur turned off by default, to turn on; set FlatColor to none, and switch everything on. */
-    --FlatColor: #1e1e1f; /* Set to [ none | color #1e1e1f ] */
+    --FlatColor: var(--darkgrey); /* Set to [ none | color #1e1e1f ] */
     --FuckBlur: blur(0px); /* Set to [ Off ( 0px ) | Low PC ( 10px ) | High PC ( > 20px ) ] */
     --BackgroundBlur: none; /* Set to [ none | flex ] */
     --ImageBlur: none; /* Set to [ none | visible ] */
