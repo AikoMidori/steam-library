@@ -14,7 +14,11 @@
 }
 
 .libraryassetimage_LandscapeImage_ZsU8n .libraryassetimage_Image_24_Au, .libraryassetimage_LandscapeImage_ZsU8n .libraryassetimage_Image_24_Au {
-  border-radius: var(--Corner1);
+  border-radius: var(--Corner1) !important;
+}
+
+.appdetailscommunityfeed_Guide_-85o5 .appdetailscommunityfeed_Preview_AxZMH {
+  border-radius: var(--Corner1) !important;
 }
  
 .appactivityday_PartnerEvent_1AYE1 {
@@ -359,14 +363,12 @@
 
 .appactionbutton_ButtonChild_2AzIX {
   background: linear-gradient(to right, var(--ButtonInstall) 0%, var(--ButtonInstall2)) 60% !important;
-}
-
-.appactionbutton_ButtonChild_2AzIX {
-  background: linear-gradient(to right, var(--ButtonInstall) 0%, var(--ButtonInstall2)) 60% !important;
+  border-radius: var(--Corner0) !important;
 }
 
 .appactionbutton_ButtonChild_2AzIX.appactionbutton_StreamingSelector_2q-gZ {
   background: linear-gradient(to right, var(--ButtonInstallHover) 0%, var(--ButtonInstallHover2)) 100% !important;
+  border-radius: var(--Corner0) !important;
 }
 
 :not(.appactionbutton_Disabled_1Pb6P) > .appactionbutton_ButtonChild_2AzIX:hover {
