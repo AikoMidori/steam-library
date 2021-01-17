@@ -2,7 +2,7 @@
 
 :root { /* COLORS */
 
-    /* BASIC COLORS */
+    /* MAIN COLORS */
     --blacker: #121212;
     --black: #151515;
     --darkgrey: #1e1e1f;
@@ -61,7 +61,7 @@
     /* SET LIBRARY TEXT PART */
     /*************************/
     --FontSize: 15px; /* The size of the font */
-    --Font: "Motiva Sans", Arial, Helvetica, sans-serif;; /* Any font on the system */
+    --Font: "Motiva Sans", Arial, Helvetica, sans-serif; /* Any font on the system */
     --FontStyle: uppercase; /* Set to [ lowercase | uppercase | none ] */
     --LetterSpacing: 3px !important; /* Set 3px or more */
     --YourLibraryName: "YOUR LIBRARY" !important; /* Set your own library name */
@@ -79,9 +79,9 @@
     --TitleFont: 500; /* Set to [ 1 > 1000 ] */
 
 
-    /**********************/
+    /***********************/
     /* IN-GAME FRIEND ICON */
-    /**********************/
+    /***********************/
     --FriendInGameIcon: none; /* Set to [ block | none ] */
     --FriendInGameIconPosition: -12px;  /* Position $BETTER NOT EDIT$ */
 
@@ -90,10 +90,10 @@
     /* BLUR AMOUNT ( Lower > Better ) */
     /**********************************/
     /* Blur turned off by default, to turn on; set FlatColor to none, and switch everything on. */
-    --FlatColor: #1e1e1f; /* Set to [ none | color ] */
-    --FuckBlur: blur(0px); /* Set to [ 0px | Low PC ( 10px ) | High PC ( > 20px ) ] */
+    --FlatColor: #1e1e1f; /* Set to [ none | color #1e1e1f ] */
+    --FuckBlur: blur(0px); /* Set to [ Off ( 0px ) | Low PC ( 10px ) | High PC ( > 20px ) ] */
     --BackgroundBlur: none; /* Set to [ none | flex ] */
-    --ImageBlur: hidden; /* Set to [ hidden | visible ] */
+    --ImageBlur: none; /* Set to [ none | visible ] */
     --ImageHeight: 320px; /* Set to [ 0px > 462px ] */
 
 
@@ -103,17 +103,16 @@
     --CoverHover: show; /* Set to [ show | hide ] */
 
 
-    /************************/
+    /*************************/
     /* GAME PAGE PLAY HEADER */
-    /************************/
+    /*************************/
     /* Turning this off results for a smoother scrolling experience on low end pc's */
     --GamePlayHeader: flex; /* Set to [ none | flex ] */
 
 
-    /*********************/
-    /* BUTTON BAR COLORS */
-    /*********************/
-
+    /******************************/
+    /* PLAY/INSTALL BUTTON COLORS */
+    /******************************/
     /* Remove the Dropdown button next to play */
     --DrowdownPlay: none; /* Set to [ none | flex ] */
 
