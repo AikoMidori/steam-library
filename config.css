@@ -34,7 +34,9 @@
     --gamehover: var(--white); /* Game hover color */
     --textcolor: var(--purple); /* Text color */
     --pending: var(--red); /* Text color for pending updates/downloads */
-    --offline: var(--offlinegrey);; /* Offline avatar color */
+    --filter: var(--blacker); /* filter button color */
+    --search: var(--blacker); /* Searchbar color */
+    --offline: var(--offlinegrey); /* Offline avatar color */
     --ingame: var(--ingamegreen); /* In-game avatar color */
     --online: var(--onlineblue); /* Online avatar color */
     --snooze: var(--onlineblue); /* Online avatar color */
