@@ -104,16 +104,24 @@
 }
 
 .appportrait_LibraryItemBox_WYgDg {
-    border-top: 1px solid !important;
-    border-radius: var(--Corner0) !important;
+    border-top: 0 !important;
+    border-radius: var(--Corner1) !important;
 }
 
 /* Scroll To Top */
 .smartscrollcontainer_ScrollToTopButton_1J21t div {
     background: var(--backdropblur) !important;
     border-radius: var(--Corner2) !important;
-    bottom: 5px !important;
+    color: white !important;
     backdrop-filter: blur(50px) !important;
+}
+
+.smartscrollcontainer_ScrollToTopButton_1J21t {
+    bottom: 5px !important;
+}
+
+.smartscrollcontainer_ScrollToTopButton_1J21t:hover.smartscrollcontainer_Visible_28ZR8 {
+    color: white !important;
 }
 
 .libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd .libraryhomenewupdates_EventTimeSpan_3OSZu {

@@ -12,6 +12,10 @@
 .appdetailsoverview_Glassy_2OOzY > div {
   z-index: -1 !important;
 }
+
+.libraryassetimage_LandscapeImage_ZsU8n .libraryassetimage_Image_24_Au, .libraryassetimage_LandscapeImage_ZsU8n .libraryassetimage_Image_24_Au {
+  border-radius: var(--Corner1);
+}
  
 .appactivityday_PartnerEvent_1AYE1 {
   border: none !important;
@@ -478,6 +482,10 @@
 }
 
 /* DLC Images Corners */
-.libraryassetimage_LandscapeImage_ZsU8n .libraryassetimage_Image_24_A, .appdetailsdlcsection_DLCArt_2bF7X .appdetailsdlcsection_Gloss_HAvWs {
-  border-radius : var(--Corner0) !important;
+.libraryassetimage_LandscapeImage_ZsU8n .libraryassetimage_Image_24_Au, .appdetailsdlcsection_DLCArt_2bF7X .appdetailsdlcsection_Gloss_HAvWs {
+  border-radius: var(--Corner1) !important;
+}
+
+.appactivityday_PartnerEventMediumImage_Image_VytJz {
+  border-radius: var(--Corner0) !important;
 }
