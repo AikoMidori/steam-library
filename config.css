@@ -29,6 +29,7 @@
     --libraryhome: var(--purple); /* Main library color */
     --progressbar: var(--purple); /* Progressbar color */
     --gamelist: var(--purple); /* Game list selected color */
+    --menudrop: var(--darkgrey); /* Menu & dropdown background color */
     --titlehover: var(--darkgrey); /* Title hover background color */
     --titlenamehover: var(--purple); /* Game list title hover name color */
     --gamehover: var(--white); /* Game hover color */

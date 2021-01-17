@@ -224,7 +224,7 @@
 
 /* Context Menu Background */
 .contextmenu_contextMenu_PP7LM {
-  background: var(--darkgrey) !important;
+  background: var(--menudrop) !important;
   border-radius: var(--Corner0) !important;
   margin-left: 0px !important;
   padding: 2px !important;
@@ -352,7 +352,7 @@ stroke: var(--white) !important;
 
 /* Hover-Over Popups */
 .tooltip_ToolTipCustom_3XGRk, .tooltip_TextToolTip_2FxbH {
-  background-color: var(--blacker) !important;
+  background-color: var(--menudrop) !important;
 }
 
 
