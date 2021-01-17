@@ -29,6 +29,17 @@
     background-color: transparent !important;
 }
 
+/* Add Shelf Hover Line */
+.libraryhomeshowcases_AddShowcaseRow_3SkuN .libraryhomeshowcases_Rule_1PhK8 {
+    display: none !important;
+}
+
+/* Add Shelf Button Reposition */
+.libraryhomeshowcases_AddShowcaseRow_3SkuN .libraryhomeshowcases_AddShowcase_2aw5a {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
 .appportrait_UninstalledBar_kX-tI .appportrait_UninstalledProgressBar_mA39H {
     background-color: var(--libraryhome) !important;
 }
@@ -93,7 +104,7 @@
 }
 
 .appportrait_LibraryItemBox_WYgDg {
-    border-top: 1px solid 0, 0, 0, 0.5 !important;
+    border-top: 1px solid 0 !important;
     border-radius: var(--Corner0) !important;
 }
 
