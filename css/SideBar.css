@@ -156,10 +156,9 @@
 /* Filter Button Position */
 .gamelistdropdown_Bar_1ZS_x {
   margin-top: -5px !important;
-  border-top: 0px;
   margin-bottom: 5px !important;
   border-radius: var(--Corner2) !important;
-  margin-left: 5px;
+  margin-left: 0 !important;
 }
 
 .gamelistdropdown_ScrollToTop_uE7Pj .SVGIcon_Arrow {
