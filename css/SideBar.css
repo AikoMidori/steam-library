@@ -139,12 +139,13 @@
 /* Filter Button + Background */
 .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_MenuHeader_2PF_m {
   border-radius: var(--Corner0) !important;
-  background-color: var(--darkgrey) !important;
+  background-color: var(--filter) !important;
+  border: 0 !important;
 }
 
 /* Filter Button + Background Hover */
 .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_MenuHeader_2PF_m:hover {
-  background-color: var(--darkgrey) !important;
+  background-color: var(--filter) !important;
 }
 
 /* Filter Back To Top Button */
@@ -162,16 +163,12 @@
 }
 
 .gamelistdropdown_ScrollToTop_uE7Pj .SVGIcon_Arrow {
-  border: 0px !important;
-}
-
-.gamelistdropdown_Bar_1ZS_x .gamelistdropdown_MenuHeader_2PF_m {
-  border: 0px !important;
+  border: 0 !important;
 }
 
 /* Sidebar Category Name Position */
 .gamelist_Container_1ijTa .ReactVirtualized__Grid {
-  margin-left: 0px !important;
+  margin-left: 0 !important;
 }
 
 /* Sidebar Category Name Lines */
