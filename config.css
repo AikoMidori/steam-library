@@ -104,6 +104,7 @@
     /************************/
     --CoverHover: show; /* Set to [ show | hide ] */
     --AvatarEffect: none; /* Hide/Show Miniprofile Avatar Image Effect, Set to [ none | flex ] */
+    --TopShadow: none;  /* Hide/Show Header Shadow, Set to [ none | flex ] */
 
 
     /*************************/

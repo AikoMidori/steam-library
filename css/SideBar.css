@@ -1,4 +1,3 @@
-@import url('https://shiinaskins.com/steam-library/remote!url=beta&css/Scrollbar.css');
 /* ------------------SIDEBAR GAME LIST------------------ */
 
 /* Sidebar Background */
@@ -222,7 +221,7 @@
 .contextmenu_contextMenu_PP7LM {
   background: var(--menudrop) !important;
   border-radius: var(--Corner0) !important;
-  margin-left: 0px !important;
+  margin-left: 0 !important;
   padding: 2px !important;
   margin-top: 5px !important;
 }
@@ -250,8 +249,8 @@
 }
 
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_AdvancedSearchContainer_vCCmY.gamelistsearchbar_Extended_31r1_ {
-  border-top-right-radius: 0px !important;
-  border-bottom-right-radius: 0px !important;
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
 }
 
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_AdvancedSearchContainer_vCCmY .gamelistsearchbar_AdvancedSearchPane_Woh0k {
@@ -262,8 +261,8 @@
 
 .gamelisthome_Label_3O48L {
   visibility: hidden !important;
-  font-size: 0px !important;
-  margin-left: 0px !important;
+  font-size: 0 !important;
+  margin-left: 0 !important;
 }
 
 .gamelisthome_Label_3O48L::before {
@@ -276,13 +275,13 @@
   font-family: var(--Font) !important;
   visibility: visible !important;
   display: block !important;
-  margin-top: 0px !important;
+  margin-top: 0 !important;
   letter-spacing: var(--LetterSpacing) !important;
 }
 
 .gamelisthome_Selected_eNLOx .gamelisthome_Label_3O48L {
   visibility: hidden !important;
-  font-size: 0px !important;
+  font-size: 0 !important;
 }
 
 .gamelisthome_Bar_3pSPl .gamelisthome_Icon_1ooRO svg {
@@ -305,7 +304,7 @@
   font-family: var(--Font) !important;
   visibility: visible !important;
   display: block !important;
-  margin-top: 0px !important;
+  margin-top: 0 !important;
   letter-spacing: var(--LetterSpacing) !important;
 }
 
@@ -327,7 +326,7 @@ stroke: var(--white) !important;
 
 .collapseicon_Container_3SFRZ .SVGIcon_PlusCircle {
   width: 30px !important;
-  margin-left: 0px !important;
+  margin-left: 0 !important;
 }
 
 .gamelistentry_Container_2-O4Z.gamelistentry_Uninstalled_5YTBr:hover, .gamelistentry_Container_2-O4Z.gamelistentry_Uninstalled_5YTBr.gamelistentry_HoverOverlay_3cMVy {

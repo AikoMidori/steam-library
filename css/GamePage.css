@@ -1,5 +1,3 @@
-@import url('https://shiinaskins.com/steam-library/remote!url=beta&css/Scrollbar.css');
-
 /* ------------------GAME PAGES------------------ */
 
 /* Beta Button */
@@ -22,12 +20,12 @@
 }
 
 .appdetailssection_AppDetailsSection_2r4TK {
-  margin-bottom: 0px !important;
+  margin-bottom: 0 !important;
 }
 
 .contextmenu_contextMenuItem_1n7Wl {
-  border-top: 0px !important;
-  border-bottom: 0px !important;
+  border-top: 0 !important;
+  border-bottom: 0 !important;
 }
 
 .contextmenu_contextMenuItem_1n7Wl:hover, .contextmenu_contextMenuItem_1n7Wl.contextmenu_active_18z-3 {
@@ -88,7 +86,7 @@
   backdrop-filter: var(--FuckBlur) !important;
   background: var(--FlatColor) !important;
   margin-left: -6px !important;
-  border-bottom: 0px solid black !important;
+  border-bottom: 0 solid black !important;
 }
 
 .appdetailscommunityfeed_ArtItem_1aP1b .appdetailscommunityfeed_BottomSection_3uabi {
@@ -117,7 +115,7 @@
 }
 
 .appdetailsplaysection_GameStat_1kiZK .appdetailsplaysection_GameStatIcon_1tIg- {
-  margin: 0px !important;
+  margin: 0 !important;
 }
 
 /* Hover Over What's New Game */
@@ -152,7 +150,7 @@
   width: 18px !important;
   height: 18px !important;
   padding: 5px !important;
-  font-size: 0px !important;
+  font-size: 0 !important;
   background: var(--lightgrey) !important;
   border-radius: var(--Corner4) !important;
 }
@@ -209,7 +207,7 @@
 
 .appactivityday_PartnerEventLargeImage_Container_Libri {
   background: transparent !important;
-  border: 0px !important;
+  border: 0 !important;
   border-image-source: none !important;
 }
 
@@ -255,12 +253,12 @@
 /* Removes Background Game Page Community Photos */
 .appdetailscommunityfeed_AuthorSection_1ul9Z {
   background: transparent !important;
-  padding: 0px !important;
+  padding: 0 !important;
 }
   
 /* Removes Padding Social Background */
 .appdetailsprimarylinkssection_LinksSection_3-V8v {
-  margin-bottom: 0px !important;
+  margin-bottom: 0 !important;
 }
   
 /* Removes Image Blur */
@@ -391,7 +389,7 @@
 .appdetailsachievementssection_AchievementProgressContainer_3ns91 .appdetailsachievementssection_AchievementProgress_3Rm36 {
   background-color: var(--progressbar) !important;
 }
-.miniprofile_miniProfileVideoBackgroundContainer_3MrYv
+.miniprofile_miniProfileVideoBackgroundContainer_3MrYv,
 .sharedappdetailsheader_ImgSrc_HNbe3.sharedappdetailsheader_ImgBlurBackdrop_3_IUV {
   display: var(--BackgroundBlur) !important;
 

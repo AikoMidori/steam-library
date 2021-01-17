@@ -104,7 +104,7 @@
 }
 
 .appportrait_LibraryItemBox_WYgDg {
-    border-top: 1px solid 0 !important;
+    border-top: 1px solid !important;
     border-radius: var(--Corner0) !important;
 }
 
@@ -205,4 +205,9 @@
 /* Small Install Button Color Hover */
 .appportrait_HoversEnabled_54PuC .appportrait_LibraryItemBox_WYgDg .appportrait_LibraryItemActionButton_3AjoL:hover:not(.appportrait_Disabled_1aml4):not(.appportrait_Play_1_Bo2) {
     background: var(--ButtonInstallHover) !important;
+}
+
+/* Shadow Navigation Bar */
+.library_TopGradient_34Cqr {
+    display: var(--TopShadow) !important;
 }
