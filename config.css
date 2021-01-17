@@ -29,7 +29,7 @@
     --libraryhome: var(--purple); /* Main library color */
     --progressbar: var(--purple); /* Progressbar color */
     --gamelist: var(--purple); /* Game list selected color */
-    --titlehover: var(--invisibleblack); /* Title hover background color */
+    --titlehover: var(--darkgrey); /* Title hover background color */
     --titlenamehover: var(--purple); /* Game list title hover name color */
     --gamehover: var(--white); /* Game hover color */
     --textcolor: var(--purple); /* Text color */
@@ -55,7 +55,7 @@
     --Corner3: 30px !important; /* Default set to 30px */
     --Corner4: 40px !important; /* Default set to 40px */
     --Corner5: 50px !important; /* Default set to 50px */
-    --Corner6: 60px !important; /* Default set to 60px *//
+    --Corner6: 60px !important; /* Default set to 60px */
 
 
     /*************************/

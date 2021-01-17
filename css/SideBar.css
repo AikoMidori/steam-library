@@ -190,7 +190,7 @@
 }
 
 .gamelistsectionheader_Container_2sYIg:hover {
-  background: var(--darkgrey) !important;
+  background: var(--titlehover) !important;
 }
 
 /* Sidebar Game Name Hover */
