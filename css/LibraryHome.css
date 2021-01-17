@@ -176,3 +176,12 @@
 .libraryhomeshowcases_CollectionDropDownContainer_2Sj4-.libraryhomeshowcases_CollectionDropDownContainer_2Sj4- .libraryhomeshowcases_DropDownItems_lYnGt:hover {
     background: var(--libraryhome) !important;
 }
+
+/* Small Install Button Color */
+.appportrait_FeaturedCapsule_xp7A- .appportrait_LibraryItemActionButton_3AjoL {
+    background: var(--ButtonInstall) !important;
+}
+/* Small Install Button Color Hover */
+.appportrait_HoversEnabled_54PuC .appportrait_LibraryItemBox_WYgDg .appportrait_LibraryItemActionButton_3AjoL:hover:not(.appportrait_Disabled_1aml4):not(.appportrait_Play_1_Bo2) {
+    background: var(--ButtonInstallHover) !important;
+}

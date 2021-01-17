@@ -19,7 +19,6 @@
     --offlinegrey: #919191;
     --ingamegreen: #90ba3c;
     --onlineblue: #5db2fe;
-    --snoozeorange: #FF6600;
     --yourcolor: #000000; /* make your own color */
     --invisiblegrey: rgba(62, 62, 62, 0.24);
     --invisibleblack: rgba(0, 0, 0, 0);
@@ -38,7 +37,7 @@
     --offline: var(--offlinegrey);; /* Offline avatar color */
     --ingame: var(--ingamegreen); /* In-game avatar color */
     --online: var(--onlineblue); /* Online avatar color */
-    --snooze: var(--snoozeorange); /* Online avatar color */
+    --snooze: var(--onlineblue); /* Online avatar color */
 
 }
 
@@ -54,7 +53,7 @@
     --Corner3: 30px !important; /* Default set to 30px */
     --Corner4: 40px !important; /* Default set to 40px */
     --Corner5: 50px !important; /* Default set to 50px */
-    --Corner6: 60px !important; /* Default set to 60px */
+    --Corner6: 60px !important; /* Default set to 60px *//
 
 
     /*************************/
@@ -97,10 +96,11 @@
     --ImageHeight: 320px; /* Set to [ 0px > 462px ] */
 
 
-    /******************************/
-    /* GAME COVER EFFECTS #HOVER# */
-    /******************************/
+    /************************/
+    /* GAME COVER & EFFECTS */
+    /************************/
     --CoverHover: show; /* Set to [ show | hide ] */
+    --AvatarEffect: none; /* Hide/Show Miniprofile Avatar Image Effect, Set to [ none | flex ] */
 
 
     /*************************/

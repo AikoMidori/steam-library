@@ -157,6 +157,7 @@
 .gamelistdropdown_Bar_1ZS_x {
   margin-top: -5px !important;
   border-top: 0px;
+  margin-bottom: 5px !important;
   border-radius: var(--Corner2) !important;
   margin-left: 5px;
 }
@@ -221,12 +222,18 @@
   background: var(--gamelist) !important;
 }
 
+/* Context Menu Background */
 .contextmenu_contextMenu_PP7LM {
-  background: var(--grey) !important;
+  background: var(--darkgrey) !important;
   border-radius: var(--Corner0) !important;
   margin-left: 0px !important;
   padding: 2px !important;
   margin-top: 5px !important;
+}
+
+/* Dialog Checkboxes Colors */
+.DialogCheckbox, .DialogCheckbox:hover {
+  background: var(--blacker) !important;
 }
 
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_AdvancedSearchContainer_vCCmY .gamelistsearchbar_AdvancedSearchPaneContainer_1dgAM.gamelistsearchbar_Visible_1v65x .gamelistsearchbar_AdvancedSearchPane_Woh0k:before {
@@ -234,7 +241,7 @@
 }
 
 .appfilterpane_Container_170Np .appfilterpane_FilterArea_1ennW .appfilterpane_FilterBucket_1axoi .DialogInput_Wrapper .DialogTextInputBase {
-  background: var(--grey) !important;
+  background: var(--darkgrey) !important;
 }
 
 .appfilterpane_Container_170Np .appfilterpane_FilterArea_1ennW .appfilterpane_FilterBucket_1axoi .DialogInput_Wrapper .DialogTextInputBase:hover {
@@ -341,6 +348,11 @@ stroke: var(--white) !important;
 
 .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z :hover, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z :hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy {
   background-color: var(--gamelist) !important;
+}
+
+/* Hover-Over Popups */
+.tooltip_ToolTipCustom_3XGRk, .tooltip_TextToolTip_2FxbH {
+  background-color: var(--blacker) !important;
 }
 
 

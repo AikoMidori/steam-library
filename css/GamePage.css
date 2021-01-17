@@ -388,20 +388,24 @@
 .appdetailsachievementssection_AchievementProgressContainer_3ns91 .appdetailsachievementssection_AchievementProgress_3Rm36 {
   background-color: var(--progressbar) !important;
 }
-
+.miniprofile_miniProfileVideoBackgroundContainer_3MrYv
 .sharedappdetailsheader_ImgSrc_HNbe3.sharedappdetailsheader_ImgBlurBackdrop_3_IUV {
   display: var(--BackgroundBlur) !important;
+
 }
 
 .sharedappdetailsheader_TopCapsule_NZMJ6.sharedappdetailsheader_TopCapsule_NZMJ6 {
   overflow: var(--ImageBlur) !important;
 }
 
+/* Game Header Background Image Corners */
+.sharedappdetailsheader_ImgSrc_HNbe3.sharedappdetailsheader_ImgBlurBackdrop_3_IUV, .sharedappdetailsheader_ImgSrc_HNbe3.sharedappdetailsheader_ImgBlur_HSQWw {
+  border-radius: var(--Corner0) !important;
+}
+
 /* Game Header Background Image */
 .sharedappdetailsheader_TopCapsule_NZMJ6.sharedappdetailsheader_TopCapsule_NZMJ6, .sharedappdetailsheader_HeaderBackgroundImage_1IX7F {
   max-height: var(--ImageHeight) !important;
-  border-top-left-radius: var(--Corner0) !important;
-  border-top-right-radius: var(--Corner0) !important;
 }
 
 
@@ -452,5 +456,27 @@
 }
 
 .steamavatar_avatarHolder_nibod {
-  margin: 5px -10px 0px 5px !important;
+  margin: 5px -10px 0 5px !important;
+}
+
+/* Achievement Corner */
+.appdetailsachievementssection_Icon_zcasg {
+  border-radius: var(--Corner0) !important;
+}
+
+/* Achievement Corner + Background */
+.appdetailsachievementssection_AdditionalItem_2aVnD {
+  background-color: var(--invisiblegrey) !important;
+  border-radius: var(--Corner0) !important;
+}
+
+/* Friends Hover Color */
+.appdetailsfriendssection_AvatarAndLabel_1GCZA:hover {
+  background-color: var(--invisiblegrey) !important;
+  border-radius: var(--Corner1) !important;
+}
+
+/* DLC Images Corners */
+.libraryassetimage_LandscapeImage_ZsU8n .libraryassetimage_Image_24_A, .appdetailsdlcsection_DLCArt_2bF7X .appdetailsdlcsection_Gloss_HAvWs {
+  border-radius : var(--Corner0) !important;
 }
