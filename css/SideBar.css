@@ -84,7 +84,7 @@
 
 /* Removes Sidebar Divider */
 .library_LibraryWindowDivider_276E6 {
-  background: var(--black) !important;
+  background: var(--librarybg) !important;
   min-width: 1px !important;
   width: 1px !important;
 }
@@ -165,6 +165,12 @@
 
 .gamelistdropdown_ScrollToTop_uE7Pj .SVGIcon_Arrow {
   border: 0 !important;
+  background-color: transparent !important;
+}
+
+.gamelistdropdown_ScrollToTop_uE7Pj .SVGIcon_Arrow:hover {
+  border: 0 !important;
+  background-color: transparent !important;
 }
 
 /* Sidebar Category Name Position */
