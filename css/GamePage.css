@@ -137,6 +137,11 @@
 .libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd .libraryhomenewupdates_PartnerEventRowCapsule_MainImageContainer_SPz0i {
   background-color: transparent !important;
 }
+
+/* Remove Collections Line */
+.allcollections_ScrollContainer_u1xD3 .allcollections_Header_2Th-v .allcollections_Rule_2wbrx {
+  display: none !important;
+}
   
 /* Game Page Category Background */
 .collectionview_OuterContainer_2sNr7 {
