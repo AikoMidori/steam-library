@@ -15,7 +15,7 @@
 
 /* Solid Background Color Instead Of Video */
 .miniprofile_miniProfileVideoBackgroundContainer_3MrYv {
-    background-color: var(--black) !important;
+    background-color: var(--miniprofilebg) !important;
 }
 
 /* Removes The Blur */
@@ -40,10 +40,11 @@
 
 .miniprofile_miniProfile_2QPdq {
     border: 0 !important;
+    background: var(--miniprofilebg) !important;
     border-radius: var(--Corner0) !important; }
   
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfileHeader_3CZcH {
-    background: var(--black) !important;
+    background: var(--miniprofilebg) !important;
     border-radius: var(--Corner0) !important; }
 
 .miniprofile_miniProfileContent_1xTAT.miniprofile_notInOrWatchingGame_1NkB7 .miniprofile_miniProfileBottom_26ga2,
@@ -205,7 +206,7 @@
 
 
 .appdetailsfriendssection_PlaytimeSection_1s3b9 {
-    background: var(--black) !important;
+    background: var(--miniprofilebg) !important;
 }
 
 /* Avatar Image Effect */

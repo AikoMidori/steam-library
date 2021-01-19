@@ -2,7 +2,7 @@
 
 /* Sidebar Background */
 .gamelistbar_Container_3x1Hk {
-  background-color: var(--black) !important;
+  background-color: var(--librarysidebg) !important;
   background-image: none !important;
 }
 
@@ -46,12 +46,9 @@
   background-color: var(--libraryhome) !important;
 }
 
-.gamelisthome_CollectionIcon_nC-pL .gamelisthome_CollectionIconBox_2tyaV.gamelisthome_CollectionIcon_nC-pL .gamelisthome_CollectionIconBox_2tyaV {
-  background: var(--libraryhome) !important;
-}
-
 .gamelisthome_CollectionIcon_nC-pL .gamelisthome_CollectionIconBox_2tyaV {
-  background: var(--white) !important;
+  background: var(--collections) !important;
+  display: var(--collectionsbtn) !important;
 }
 
 .gamelistsectionheader_SectionHeaderContent_3cV3O:hover .gamelistsectionheader_SectionName_2mZ8L {
@@ -96,7 +93,7 @@
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_AdvancedSearchContainer_vCCmY {
   border-radius: var(--Corner2) !important;
   margin-left: 10px;
-  background-color: var(--filter) !important;
+  background-color: var(--searchfilter) !important;
 }
 
 /* Sidebar Searchbar */
@@ -115,7 +112,7 @@
 
 /* Sidebar Searchbar Hover Color */
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_SearchInput_12vo5 .DialogTextInputBase:hover {
-  background: var(--search) !important;
+  background: var(--searchhover) !important;
   border-radius: var(--Corner3) !important;
   padding-right: 20px !important;
   padding-left: 10px !important;
@@ -138,19 +135,24 @@
 /* Filter Button + Background */
 .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_MenuHeader_2PF_m {
   border-radius: var(--Corner0) !important;
-  background-color: var(--filter) !important;
+  background-color: var(--gamefilter) !important;
   border: 0 !important;
 }
 
 /* Filter Button + Background Hover */
 .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_MenuHeader_2PF_m:hover {
-  background-color: var(--filter) !important;
+  background-color: var(--gamefilter) !important;
 }
 
 /* Filter Back To Top Button */
 .gamelistdropdown_ScrollToTop_uE7Pj.gamelistdropdown_Visible_rkfSf {
   margin-left: 5px !important;
-  border-radius: var(--Corner2) !important
+  border-radius: var(--Corner2) !important;
+  background: var(--backtotop) !important;
+}
+
+.gamelistdropdown_ScrollToTop_uE7Pj.gamelistdropdown_Visible_rkfSf:hover {
+  background: var(--backtotop) !important;
 }
 
 /* Filter Button Position */
@@ -347,7 +349,7 @@ stroke: var(--white) !important;
 
 /* Hover-Over Popups */
 .tooltip_ToolTipCustom_3XGRk, .tooltip_TextToolTip_2FxbH {
-  background-color: var(--menudrop) !important;
+  background-color: var(--popupbg) !important;
 }
 
 

@@ -214,7 +214,13 @@
 }
 
 .libraryhomeshowcases_CollectionDropDownContainer_2Sj4-.libraryhomeshowcases_CollectionDropDownContainer_2Sj4- ._DialogInputContainer {
-    background: var(--black) !important;
+    background: var(--dropdownbg) !important;
+    border-radius: var(--Corner0) !important;
+    box-shadow: none !important;
+}
+
+.appgrid_SortingDropDown_1tBzy ._DialogInputContainer .DialogDropDown_CurrentDisplay, .appgrid_SortingDropDown_1tBzy ._DialogInputContainer .DialogDropDown_Arrow {
+    background-color: var(--buttonbg1) !important;
 }
 
 .libraryhomeshowcases_CollectionDropDownContainer_2Sj4-.libraryhomeshowcases_CollectionDropDownContainer_2Sj4- .libraryhomeshowcases_DropDownItems_lYnGt:hover {
