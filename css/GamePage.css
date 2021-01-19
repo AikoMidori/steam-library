@@ -195,12 +195,13 @@
   
 /* Changes Blur Color For Games Page */
 .appdetails_ScrollContainer_2l416 {
-  background-color: var(--darkgrey) !important;
+  background-color: var(--librarybg) !important;
 }
   
 /* Changes Blur Color For Games Page */
 .appdetails_Glassy_3Fmxx.appdetails_ScrollContainer_2l416 {
-  background-image: radial-gradient(100% 100% at 45% 35%, var(--darkgrey) 0%, var(--darkgrey) 100%) !important;
+  background-image: none !important;
+  background: var(--librarybg) !important;
 }
 
   /* Changes Background Game Page Community Photos */
