@@ -55,11 +55,11 @@
 }
 
 ::-webkit-scrollbar-track {
-  background: var(--darkgrey) !important;
+  background: var(--librarybg) !important;
   border-radius: 0 !important;
 }
 
 ::-webkit-scrollbar-corner{
-  border: 0 solid var(--darkgrey) !important;
-  background-color: var(--darkgrey) !important;
+  border: 0 solid var(--librarybg) !important;
+  background-color: var(--librarybg) !important;
 }
