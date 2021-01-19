@@ -26,7 +26,7 @@
 
     /* FEATURE COLORS */
     --librarysidebg: var(--blacker); /* Library sidebar background color */
-    --librarygbg: var(--darkgrey); /* Library background color */
+    --librarybg: var(--darkgrey); /* Library background color */
     --libraryhome: var(--purple); /* Highlight library color */
     --scrollbar: var(--purple); /* Scrollbar color */
     --backdropblur: var(--invisiblegrey); /* Blur color */
@@ -48,8 +48,11 @@
     --miniprofilebg: var(--blacker); /* Miniprofile background color */
     --popupbg: var(--blacker); /* Pop-up background color */
     --buttonbg1: var(--blacker); /* Library sort-by button color */
+    --buttonbg2: var(--black); /* Music library button color */
     --dropdownbg: var(--blacker); /* Library category dropdown menu color */
     --checkbox: var(--grey); /* Checkbox color */
+    --musicbg: var(--black); /* Music library background color */
+    --musiclist: var(--darkgrey); /* Music library list color */
     --offline: var(--offlinegrey); /* Offline avatar color */
     --ingame: var(--ingamegreen); /* In-game avatar color */
     --online: var(--onlineblue); /* Online avatar color */

@@ -1,6 +1,6 @@
 /* Game Page Header Background */
 .libraryhome_UpdatesContainer_17uEB {
-    background: var(--darkgrey) !important;
+    background: var(--librarybg) !important;
     padding-top: 15px !important;
     padding-bottom: 275px !important;
 }
@@ -165,7 +165,7 @@
 }
 
 .libraryhome_Container_2gSXC {
-    background: var(--darkgrey) !important;
+    background: var(--librarybg) !important;
 }
 
 .offline .steamavatar_avatarStatus_3xUpb.avatarStatus.none {
