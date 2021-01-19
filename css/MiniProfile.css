@@ -3,15 +3,30 @@
 /* Changes User Avatar Game Page Community Photos */
 .steamavatar_avatar_3h-QR {
     border-radius: var(--Corner6) !important;
-    border: 0px !important;
+    border: 0 !important;
     height: 28px !important;
     width: 28px !important;
+}
+
+/* Removes The video */
+.miniprofile_miniProfileVideoBackground_2Zqfb {
+    display: none !important;
+}
+
+/* Solid Background Color Instead Of Video */
+.miniprofile_miniProfileVideoBackgroundContainer_3MrYv {
+    background-color: var(--miniprofilebg) !important;
+}
+
+/* Removes The Blur */
+.miniprofile_miniProfileBackdropBlur_1QhpY {
+    backdrop-filter: none !important;
 }
 
 /* Changes User Miniprofile Avatar */
 .miniprofile_miniProfile_2QPdq .steamavatar_avatar_3h-QR {
     border-radius: var(--Corner6) !important;
-    border: 0px !important;
+    border: 0 !important;
     height: 90px !important;
     width: 90px !important;
 }
@@ -24,11 +39,12 @@
     border-radius: var(--Corner0) !important; }
 
 .miniprofile_miniProfile_2QPdq {
-    border: 0px !important;
-    border-radius: 0px !important; }
+    border: 0 !important;
+    background: var(--miniprofilebg) !important;
+    border-radius: var(--Corner0) !important; }
   
 .miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfileHeader_3CZcH {
-    background: var(--black) !important;
+    background: var(--miniprofilebg) !important;
     border-radius: var(--Corner0) !important; }
 
 .miniprofile_miniProfileContent_1xTAT.miniprofile_notInOrWatchingGame_1NkB7 .miniprofile_miniProfileBottom_26ga2,
@@ -190,5 +206,10 @@
 
 
 .appdetailsfriendssection_PlaytimeSection_1s3b9 {
-    background: var(--black) !important;
+    background: var(--miniprofilebg) !important;
+}
+
+/* Avatar Image Effect */
+.miniprofile_miniProfileContent_1xTAT .miniprofile_playerAvatar_36eQg .miniprofile_Frame_2nPON {
+    display: var(--AvatarEffect) !important;
 }

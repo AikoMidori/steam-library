@@ -1,6 +1,6 @@
 ::-webkit-scrollbar{
   background-color: transparent !important;
-  border-radius: 0px !important;
+  border-radius: 0 !important;
   width:18px !important;
   -webkit-box-shadow: none !important;
 }
@@ -41,7 +41,7 @@
 
 .ReactVirtualized__List::-webkit-scrollbar-track {
   background: var(--black) !important;
-  border-radius: 0px !important;
+  border-radius: 0 !important;
 }
 
 .ReactVirtualized__Grid::-webkit-scrollbar {
@@ -56,10 +56,10 @@
 
 ::-webkit-scrollbar-track {
   background: var(--darkgrey) !important;
-  border-radius: 0px !important;
+  border-radius: 0 !important;
 }
 
 ::-webkit-scrollbar-corner{
-  border: 0px solid var(--darkgrey) !important;
+  border: 0 solid var(--darkgrey) !important;
   background-color: var(--darkgrey) !important;
 }

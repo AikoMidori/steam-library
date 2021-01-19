@@ -1,11 +1,11 @@
 /* Left Background */
 .pagedsettings_PagedSettingsDialog_PageListColumn_2kwFF {
-    background: #1e1e1f !important;
+    background: var(--darkgrey) !important;
 }
 
 /* Right Background */
 .DialogContent, .DialogContentTransition {
-    background: #1e1e1f !important;
+    background: var(--darkgrey) !important;
 }
 
 /* Top Line */
@@ -26,19 +26,19 @@
 
 /* Search Box */
 .DialogTextInputBase {
-    background: #121212 !important;
+    background: var(--blacker) !important;
 }
 
 .DialogTextInputBase:focus {
-    background: #121212 !important;
+    background: var(--blacker) !important;
 }
-  
+
 .DialogTextInputBase:not(disabled):hover {
     background: var(--libraryhome) !important;
 }
-  
+
 .DialogTextInputBase:disabled:hover {
-    background: #121212 !important;
+    background: var(--blacker) !important;
 }
 
 /* Storage Available Text Color */
@@ -48,25 +48,25 @@
 
 /* Dropdown Menu Button Background */
 .ModalDialogPopup .DialogDropDown {
-    background: #121212 !important;
+    background: var(--blacker) !important;
 }
 
 /* UPDATES */
 /* Dropdown Menu Background */
 .dropdown_DialogDropDownMenu_30wJO._DialogInputContainer {
-    background: #121212 !important;
+    background: var(--blacker) !important;
 }
 
 /* Dropdown Menu List Hover */
 .dropdown_DialogDropDownMenu_Item_2oAiZ:hover {
-    background: #2e2e2f !important;
+    background: var(--grey) !important;
     border-radius: 4px !important;
 }
 
 /* UPDATES */
 /* Background All Buttons */
 button.DialogButton {
-    background: #121212 !important;
+    background: var(--blacker) !important;
 }
 
 button.DialogButton:not(disabled):hover {
@@ -94,3 +94,37 @@ button.DialogButton:not(disabled):hover {
     background: transparent !important;
 }
 
+/* WHAT'S NEW */
+/* Main Background */
+.libraryhomenewupdates_WhatsNewSettingsContainer_2JKpG {
+    background: var(--darkgrey) !important;
+}
+
+/* Categories Background */
+.libraryhomenewupdates_WhatsNewSettings_1n-sV ._DialogInputContainer, ._DialogInputContainer.libraryhomenewupdates_WhatsNewPriorityContainer_25JfL {
+    background: var(--blacker) !important;
+    border-radius: 8px !important;
+}
+
+/* Toggle Background */
+.toggle_Toggle_3POJz .toggle_ToggleRail_3DiLY {
+    background-color: var(--darkgrey) !important;
+    border-radius: 8px !important;
+    top: 0 !important;
+    height: 16px !important;
+}
+
+.toggle_Toggle_3POJz .toggle_ToggleRail_3DiLY.toggle_Highlight_2FNJu {
+    background-color: var(--darkgrey) !important;
+}
+
+.toggle_Toggle_3POJz {
+  background: var(--darkgrey) !important;
+  border-radius: 8px !important;
+}
+
+/* Toggle Image */
+.toggle_Toggle_3POJz .toggle_ToggleSwitch_21X4K.toggle_On_3N31m {
+  background-color: var(--libraryhome) !important;
+  background-image: none !important;
+}
