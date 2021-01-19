@@ -49,6 +49,7 @@
     --popupbg: var(--blacker); /* Pop-up background color */
     --buttonbg1: var(--blacker); /* Library category button color */
     --dropdownbg: var(--blacker); /* Library Category dropdown color */
+    --checkbox: var(--darkgrey); /* Searchbar color */
     --offline: var(--offlinegrey); /* Offline avatar color */
     --ingame: var(--ingamegreen); /* In-game avatar color */
     --online: var(--onlineblue); /* Online avatar color */

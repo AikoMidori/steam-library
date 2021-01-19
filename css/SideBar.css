@@ -9,7 +9,7 @@
 /* Sidebar Header Background */
 .gamelistbar_GameListHomeAndSearch_2TKEa {
   display: var(--LibraryButton) !important;
-  background-color: var(--black) !important;
+  background-color: var(--librarysidebg) !important;
   height: 32px !important;
 }
 
@@ -230,7 +230,7 @@
 
 /* Dialog Checkboxes Colors */
 .DialogCheckbox, .DialogCheckbox:hover {
-  background: var(--blacker) !important;
+  background: var(--checkbox) !important;
 }
 
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_AdvancedSearchContainer_vCCmY .gamelistsearchbar_AdvancedSearchPaneContainer_1dgAM.gamelistsearchbar_Visible_1v65x .gamelistsearchbar_AdvancedSearchPane_Woh0k:before {
@@ -238,11 +238,11 @@
 }
 
 .appfilterpane_Container_170Np .appfilterpane_FilterArea_1ennW .appfilterpane_FilterBucket_1axoi .DialogInput_Wrapper .DialogTextInputBase {
-  background: var(--darkgrey) !important;
+  background: var(--search) !important;
 }
 
 .appfilterpane_Container_170Np .appfilterpane_FilterArea_1ennW .appfilterpane_FilterBucket_1axoi .DialogInput_Wrapper .DialogTextInputBase:hover {
-  background: var(--grey) !important;
+  background: var(--searchhover) !important;
 }
 
 .appfilterpane_Container_170Np .appfilterpane_SaveButton_1bqGA:disabled, .appfilterpane_Container_170Np .appfilterpane_SaveButton_1bqGA:disabled:hover {
@@ -256,7 +256,7 @@
 }
 
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_AdvancedSearchContainer_vCCmY .gamelistsearchbar_AdvancedSearchPane_Woh0k {
-  background-color: var(--menudrop) !important;
+  background-color: var(--searchfiltermenu) !important;
   box-shadow: 1px 1px 5px 1px var(--black) !important;
   margin-left: 10px !important;
 }

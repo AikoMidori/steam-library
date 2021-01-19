@@ -129,7 +129,7 @@
 /* Hover Over What's New Game */
 .libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd.libraryhomenewupdates_HoversEnabled_278jF:hover .libraryhomenewupdates_EventSummaryContainer_3Rb_j {
   background-color: transparent !important;
-  border-radius: var(--Corner0) !important;
+  border-radius: var(--Corner1) !important;
   backdrop-filter: blur(12px) !important;
 }
 
@@ -161,12 +161,6 @@
   font-size: 0 !important;
   background: var(--lightgrey) !important;
   border-radius: var(--Corner4) !important;
-}
-  
-/* Game Page Game Titles */
-.libraryhomenewupdates_GameIconAndName_3_xMy {
-  background-color: var(--grey) !important;
-  border-radius: var(--Corner0) !important;
 }
   
 /* Game Tags Title Line */

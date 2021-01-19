@@ -213,6 +213,17 @@
     fill: white !important;
 }
 
+/* What's New Section Image Roundness */
+.libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd .libraryhomenewupdates_PartnerEventRowCapsule_MainImageContainer_SPz0i {
+    border-radius: var(--Corner1) !important;
+}
+
+/* Game Page Game Titles */
+.libraryhomenewupdates_GameIconAndName_3_xMy {
+    background-color: var(--buttonbg1) !important;
+    border-radius: var(--Corner0) !important;
+}
+
 .libraryhomeshowcases_CollectionDropDownContainer_2Sj4-.libraryhomeshowcases_CollectionDropDownContainer_2Sj4- ._DialogInputContainer {
     background: var(--dropdownbg) !important;
     border-radius: var(--Corner0) !important;
