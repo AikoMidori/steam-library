@@ -16,7 +16,7 @@
 
 /* Soundtrack List Background */
 .appdetailssoundtrack_SoundtrackContainer_1c7FW .appdetailssoundtrack_Content_22Q27 .appdetailssoundtrack_RightColumn_1s3Ep .appdetailssoundtrack_TrackListContainer_1Rrhq {
-    background: var(--black) !important;
+    background: var(--musiclist) !important;
     border-radius: var(--Corner0) !important;
 }
 

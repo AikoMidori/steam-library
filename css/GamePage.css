@@ -137,10 +137,15 @@
 .libraryhomenewupdates_PartnerEventRowCapsule_Container_B-vCd .libraryhomenewupdates_PartnerEventRowCapsule_MainImageContainer_SPz0i {
   background-color: transparent !important;
 }
+
+/* Remove Collections Line */
+.allcollections_ScrollContainer_u1xD3 .allcollections_Header_2Th-v .allcollections_Rule_2wbrx {
+  display: none !important;
+}
   
 /* Game Page Category Background */
 .collectionview_OuterContainer_2sNr7 {
-  background: var(--darkgrey) !important;
+  background: var(--librarybg) !important;
 }
   
 /* Game Page Background */
@@ -176,7 +181,7 @@
   
 /* Your Collection Page */
 .allcollections_ScrollContainer_u1xD3 {
-  background: var(--darkgrey) !important;}
+  background: var(--librarybg) !important;}
   
 /* Your Collection Page Tile Backgrounds */
 .allcollections_Collection_3IWn- {
@@ -190,12 +195,13 @@
   
 /* Changes Blur Color For Games Page */
 .appdetails_ScrollContainer_2l416 {
-  background-color: var(--darkgrey) !important;
+  background-color: var(--librarybg) !important;
 }
   
 /* Changes Blur Color For Games Page */
 .appdetails_Glassy_3Fmxx.appdetails_ScrollContainer_2l416 {
-  background-image: radial-gradient(100% 100% at 45% 35%, var(--darkgrey) 0%, var(--darkgrey) 100%) !important;
+  background-image: none !important;
+  background: var(--librarybg) !important;
 }
 
   /* Changes Background Game Page Community Photos */
