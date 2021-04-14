@@ -1,0 +1,98 @@
+/* MODIFICATIONS DOWN BELOW */
+
+:root { /* MODIFICATIONS */
+
+    /*************************/
+    /* ROUND OR HARD CORNERS */
+    /*************************/
+    /* Set to 0px for hard edges version */
+    --Corner0: 4px  !important; /* Default set to 4px  */
+    --Corner1: 10px !important; /* Default set to 10px */
+    --Corner2: 20px !important; /* Default set to 20px */
+    --Corner3: 30px !important; /* Default set to 30px */
+    --Corner4: 40px !important; /* Default set to 40px */
+    --Corner5: 50px !important; /* Default set to 50px */
+    --Corner6: 60px !important; /* Default set to 60px */
+
+
+    /*************************/
+    /* SET LIBRARY TEXT PART */
+    /*************************/
+    --FontSize: 15px; /* The size of the font */
+    --Font: "Motiva Sans", Arial, Helvetica, sans-serif; /* Any font on the system */
+    --FontStyle: uppercase; /* Set to [ lowercase | uppercase | none ] */
+    --LetterSpacing: 3px !important; /* Set 3px or more */
+    --YourLibraryName: "YOUR LIBRARY" !important; /* Set your own library name */
+    --BackgroundColor: transparent; /* Button background color */
+    --LibraryButton: flex; /* Hide/Show Library Button, Set to [ none | flex ] */
+    --LibrarySearch: flex; /* Hide/Show Library Button, Set to [ none | flex ] */
+    
+
+    /**********************/
+    /* LIBRARY CATEGORIES */
+    /**********************/
+    --WhatsNew: block; /* Set to [ none | block ] */
+    --Recent: block; /* Set to [ none | block ] */
+    --TitleColor: var(--textcolor); /* Category title color */
+    --TitleFont: 500; /* Set to [ 1 > 1000 ] */
+
+
+    /***********************/
+    /* IN-GAME FRIEND ICON */
+    /***********************/
+    --FriendInGameIcon: none; /* Set to [ block | none ] */
+    --FriendInGameIconPosition: -12px;  /* Position $BETTER NOT EDIT$ */
+
+
+    /**********************************/
+    /* BLUR AMOUNT ( Lower > Better ) */
+    /**********************************/
+    /* Blur turned off by default, to turn on; set FlatColor to none, and switch everything on. */
+    --FlatColor: var(--darkgrey); /* Set to [ none | color #1e1e1f ] */
+    --FuckBlur: blur(0px); /* Set to [ Off ( 0px ) | Low PC ( 10px ) | High PC ( > 20px ) ] */
+    --BackgroundBlur: none; /* Set to [ none | flex ] */
+    --ImageBlur: none; /* Set to [ none | visible ] */
+    --ImageHeight: 320px; /* Set to [ 0px > 462px ] */
+
+
+    /************************/
+    /* GAME COVER & EFFECTS */
+    /************************/
+    --CoverHover: show; /* Set to [ show | hide ] */
+    --AvatarEffect: none; /* Hide/Show Miniprofile Avatar Image Effect, Set to [ none | flex ] */
+    --TopShadow: none;  /* Hide/Show Header Shadow, Set to [ none | flex ] */
+    --collectionsbtn: flex; /* Hide/Show Collections Button, Set to [ none | flex ] */
+
+
+    /*************************/
+    /* GAME PAGE PLAY HEADER */
+    /*************************/
+    /* Turning this off results for a smoother scrolling experience on low end pc's */
+    --GamePlayHeader: flex; /* Set to [ none | flex ] */
+
+
+    /******************************/
+    /* PLAY/INSTALL BUTTON COLORS */
+    /******************************/
+    /* Remove the Dropdown button next to play */
+    --DrowdownPlay: none; /* Set to [ none | flex ] */
+
+    --ButtonPlay: var(--libraryhome); /* Play button color shade 1 */
+    --ButtonPlay2: var(--libraryhome); /* Play button color shade 2 */
+    --ButtonPlayHover: var(--libraryhome); /* Play button hover color shade 1 */
+    --ButtonPlayHover2: var(--libraryhome); /* Play button hover color shade 2 */
+    
+    --ButtonInstall: var(--libraryhome); /* Install button color shade 1 */
+    --ButtonInstall2: var(--libraryhome); /* Install button color shade 2 */
+    --ButtonInstallHover: var(--libraryhome); /* Install button hover color shade 1 */
+    --ButtonInstallHover2: var(--libraryhome); /* Install button hover color shade 2 */
+
+}
+
+/* ===== CREDITS  =====
+/* Shiina♪#9670
+/* DISCORD: https://discord.gg/UZvkvkh
+/* GITHUB: https://github.com/AikoMidori/
+/* -------------------------------------------------------------------------------------------
+/* © 2021 All Rights Reserved. Created by Shiina♪
+/**/

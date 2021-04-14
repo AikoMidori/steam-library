@@ -1,0 +1,61 @@
+/* MODIFICATIONS DOWN BELOW */
+
+:root { /* COLORS */
+
+  /* MAIN COLORS */
+  --blacker: #121212; /* #121212 */
+  --black: #151515; /* #151515 */
+  --darkgrey: #1e1e1f; /* #1e1e1f */
+  --grey: #2e2e2f; /* #2e2e2f */
+  --lightgrey: #3e3e3f; /* #3e3e3f */
+  --white: #ffffff; /* #ffffff */
+  --purple: #6624e2; /* #6624e2 */
+  --green: #33ff00; /* #33ff00 */
+  --blue: #0066ff; /* #0066ff */
+  --pink: #ff00ff; /* #ff00ff */
+  --red: #ff0000; /* ff0000 */
+  --orange: #ff6600; /* ff6600 */
+  --yellow: #ffff00; /* #ffff00 */
+  --offlinegrey: #919191; /* #919191 */
+  --ingamegreen: #90ba3c; /* #90ba3c */
+  --onlineblue: #5db2fe; /* #5db2fe */
+  --airblue: #2e3340; /* #2e3340 */
+  --yourcolor: #000000; /* make your own color */
+  --invisiblegrey: rgba(62, 62, 62, 0.24);
+  --invisibleblack: rgba(0, 0, 0, 0);
+
+  /* FEATURE COLORS */
+  --librarysidebg: var(--blacker); /* Library sidebar background color */
+  --librarybg: var(--darkgrey); /* Library background color */
+  --libraryhome: var(--purple); /* Highlight library color */
+  --scrollbar: var(--purple); /* Scrollbar color */
+  --backdropblur: var(--invisiblegrey); /* Blur color */
+  --progressbar: var(--purple); /* Progressbar color */
+  --gamelist: var(--purple); /* Game list selected color */
+  --menudrop: var(--darkgrey); /* Filter dropdown menu color */
+  --titlehover: var(--darkgrey); /* Title hover background color */
+  --titlenamehover: var(--purple); /* Game list title hover name color */
+  --gamehover: var(--white); /* Game hover color */
+  --textcolor: var(--purple); /* Text color */
+  --pending: var(--red); /* Text color for pending updates/downloads */
+  --collections: var(--white); /* Collections button color */
+  --backtotop: var(--darkgrey); /* Sidebar back to top button color */
+  --gamefilter: var(--darkgrey); /* Game filter button color */
+  --searchfilter: var(--darkgrey); /* Search filter button color */
+  --searchfiltermenu: var(--blacker); /* Search filter dropdown menu color */
+  --search: var(--darkgrey); /* Searchbar color */
+  --searchhover: var(--darkgrey); /* Searchbar hover color */
+  --miniprofilebg: var(--blacker); /* Miniprofile background color */
+  --popupbg: var(--blacker); /* Pop-up background color */
+  --buttonbg1: var(--blacker); /* Library sort-by button color */
+  --buttonbg2: var(--black); /* Music library button color */
+  --dropdownbg: var(--blacker); /* Library category dropdown menu color */
+  --checkbox: var(--grey); /* Checkbox color */
+  --musicbg: var(--black); /* Music library background color */
+  --musiclist: var(--darkgrey); /* Music library list color */
+  --offline: var(--offlinegrey); /* Offline avatar color */
+  --ingame: var(--ingamegreen); /* In-game avatar color */
+  --online: var(--onlineblue); /* Online avatar color */
+  --snooze: var(--onlineblue); /* Snooze avatar color */
+
+}

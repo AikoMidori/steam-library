@@ -1,0 +1,130 @@
+/* Left Background */
+.pagedsettings_PagedSettingsDialog_PageListColumn_2kwFF {
+    background: var(--darkgrey) !important;
+}
+
+/* Right Background */
+.DialogContent, .DialogContentTransition {
+    background: var(--darkgrey) !important;
+}
+
+/* Top Line */
+.ModalPosition_TopBar {
+    background: var(--libraryhome) !important;
+}
+
+/* Properties Game Title */
+.pagedsettings_PagedSettingsDialog_Title_2rjVT {
+    color: var(--libraryhome) !important;
+}
+
+/* GENERAL */
+/* Background Check Boxes */
+.appproperties_AppProperties_1FyBL .appproperties_Checkbox_2V2nc {
+    background: transparent !important;
+}
+
+/* Search Box */
+.DialogTextInputBase {
+    background: var(--blacker) !important;
+}
+
+.DialogTextInputBase:focus {
+    background: var(--blacker) !important;
+}
+
+.DialogTextInputBase:not(disabled):hover {
+    background: var(--libraryhome) !important;
+}
+
+.DialogTextInputBase:disabled:hover {
+    background: var(--blacker) !important;
+}
+
+/* Storage Available Text Color */
+.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_BlueHighlight_1KmR8 {
+    color: var(--libraryhome) !important;
+}
+
+/* Dropdown Menu Button Background */
+.ModalDialogPopup .DialogDropDown {
+    background: var(--blacker) !important;
+}
+
+/* UPDATES */
+/* Dropdown Menu Background */
+.dropdown_DialogDropDownMenu_30wJO._DialogInputContainer {
+    background: var(--blacker) !important;
+}
+
+/* Dropdown Menu List Hover */
+.dropdown_DialogDropDownMenu_Item_2oAiZ:hover {
+    background: var(--grey) !important;
+    border-radius: 4px !important;
+}
+
+/* UPDATES */
+/* Background All Buttons */
+button.DialogButton {
+    background: var(--buttonbg2) !important;
+}
+
+button.DialogButton:not(disabled):hover {
+    background: var(--libraryhome) !important;
+}
+
+/* CONTROLLER */
+/* Background Color List */
+.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_SteamInputStatusGrid_3lj3- {
+    background-color: transparent !important;
+}
+
+/* Text Color List */
+.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_SteamInputStatus_2H4Ly {
+    color: white !important;
+}
+
+/* DLC */
+/* Background Order Row */
+.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_DlcGrid_3sXdO .appproperties_DlcHeader_1SKB0 {
+    background: transparent !important;
+}
+
+.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_DlcGrid_3sXdO .appproperties_DlcHeader_1SKB0:hover {
+    background: transparent !important;
+}
+
+/* WHAT'S NEW */
+/* Main Background */
+.libraryhomenewupdates_WhatsNewSettingsContainer_2JKpG {
+    background: var(--darkgrey) !important;
+}
+
+/* Categories Background */
+.libraryhomenewupdates_WhatsNewSettings_1n-sV ._DialogInputContainer, ._DialogInputContainer.libraryhomenewupdates_WhatsNewPriorityContainer_25JfL {
+    background: var(--blacker) !important;
+    border-radius: 8px !important;
+}
+
+/* Toggle Background */
+.toggle_Toggle_3POJz .toggle_ToggleRail_3DiLY {
+    background-color: var(--darkgrey) !important;
+    border-radius: 8px !important;
+    top: 0 !important;
+    height: 16px !important;
+}
+
+.toggle_Toggle_3POJz .toggle_ToggleRail_3DiLY.toggle_Highlight_2FNJu {
+    background-color: var(--darkgrey) !important;
+}
+
+.toggle_Toggle_3POJz {
+  background: var(--darkgrey) !important;
+  border-radius: 8px !important;
+}
+
+/* Toggle Image */
+.toggle_Toggle_3POJz .toggle_ToggleSwitch_21X4K.toggle_On_3N31m {
+  background-color: var(--libraryhome) !important;
+  background-image: none !important;
+}

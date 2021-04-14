@@ -1,6 +1,7 @@
 /* !!! DO NOT EDIT THESE !!! DO NOT EDIT THESE !!! */
-@import url('https://shiinaskins.com/steam-library/remote!url=beta&css/live.css');
-@import url('config.css');
+@import url('https://shiinaskins.com/steam-library/remote!url=beta&custom_library/scss/live_update.scss');
+@import url('custom_library/colors.scss');
+@import url('custom_library/config.scss');
 /* !!! DO NOT EDIT THESE !!! DO NOT EDIT THESE !!! */
 
 *{  /* Disable Shadows & Transitions */
