@@ -1,0 +1,39 @@
+/* main background color */
+.downloads_DownloadsPage_1bq4x {
+    background: var(--librarybg) !important;
+}
+
+/* top background color */
+.downloads_GraphAndStats_3ZsSz {
+    background: var(--librarysidebg) !important;
+}
+
+/* remove grandient from background top */
+.downloads_DownloadGraph_1ashw .downloads_Gradient_FZSi1 {
+    background-image: none !important;
+}
+
+/* remove background for item downloading */
+.downloads_SectionItem_1VNuY {
+    background-color: transparent !important;
+}
+
+/* remove background hover and drag for item downloading */
+.downloads_SectionItem_1VNuY:hover,.downloads_SectionItem_1VNuY.downloads_Dragging_3-SbB {
+    background-color:transparent
+}
+
+/* color for grabber */
+.downloads_SectionItem_1VNuY .downloads_DragHandle_14DhZ {
+    color: var(--libraryhome) !important;
+}
+
+/* give a rounded edge to the stop button */
+.downloads_SectionItem_1VNuY .downloads_Button_3oavR.downloads_RemoveFromQueue_2xR-V {
+    border-radius: 2px !important;
+}
+
+/* change the text to matching library color */
+.downloads_SectionItemStatus_1Sygg .downloads_State_2ns4w.downloads_Downloading_33BlY, .downloads_ProgressDetails_sv3ZH .downloads_Value_1dHjj.downloads_Active_IbePL {
+    color: var(--libraryhome) !important;
+}
