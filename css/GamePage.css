@@ -10,7 +10,7 @@
 
 /* Removes Play Button Glow */
 .appdetailsoverview_Glassy_2OOzY > div {
-  z-index: -1 !important;
+  z-index: 1 !important;
 }
 
 .libraryassetimage_LandscapeImage_ZsU8n .libraryassetimage_Image_24_Au, .libraryassetimage_LandscapeImage_ZsU8n .libraryassetimage_Image_24_Au {
@@ -50,6 +50,10 @@
   background:none;
 }
 
+.appdetails_Header_2gZXh.appdetail_HeaderLoaded_tXlLv {
+  z-index: -2 !important;
+}
+
 .steamavatar_friendavatar_xXwx9 {
   margin-top: 3px !important;
   margin-left: 5px !important;
@@ -74,7 +78,8 @@
 .appdetailsoverview_Container_27RcN {
   backdrop-filter: var(--FuckBlur) !important;
   background: var(--FlatColor) !important;
-  display: block!important;
+  display: flex !important;
+  z-index: 1 !important;
 }
 
 /* Blurs The Backgrounds */
