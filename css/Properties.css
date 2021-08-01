@@ -114,10 +114,12 @@ button.DialogButton:not(disabled):hover {
     height: 16px !important;
 }
 
+
 .toggle_Toggle_3POJz .toggle_ToggleRail_3DiLY.toggle_Highlight_2FNJu {
     background-color: var(--darkgrey) !important;
 }
 
+/* Toggle Image */
 .toggle_Toggle_3POJz {
   background: var(--darkgrey) !important;
   border-radius: 8px !important;
@@ -127,4 +129,61 @@ button.DialogButton:not(disabled):hover {
 .toggle_Toggle_3POJz .toggle_ToggleSwitch_21X4K.toggle_On_3N31m {
   background-color: var(--libraryhome) !important;
   background-image: none !important;
+}
+
+
+/* DOWNLOADS PAGE PROPERTIES (NEW) */
+/* Downloads properties background */
+.contentmanagement_ContentManagement_3wk64 {
+    background: var(--downloadspagetop) !important;
+}
+
+/* Downloads properties top background */
+.contentmanagement_LibraryContent_ybEU2 {
+    background: var(--downloadspagebg) !important;
+}
+
+/* Downloads properties footer background */
+.contentmanagement_AppActionBar_35T-O {
+    background: var(--downloadspagebg) !important;
+}
+
+/* Donwloads disk section radius */
+.contentmanagement_IsSelected_3VQeL {
+    border-top-left-radius: var(--Corner1) !important;
+    border-top-right-radius: var(--Corner1) !important;
+}
+
+/* Footer button radius */
+button.DialogButton:disabled {
+    border-radius: var(--Corner1) !important;
+}
+
+/* Footer button hover color */
+button.DialogButton:disabled:hover {
+    border-radius: var(--Corner1) !important;
+    color: var(--white) !important; 
+}
+
+/* Download properties settings button */
+.contentmanagement_DriveSettingsButton_1WKUO, .contentmanagement_DriveSettingsButton_1WKUO:hover {
+    background-color: none !important;
+}
+
+/* Remove divider */
+.contentmanagement_AppsGrid_2n6FN .contentmanagement_AppHeader_3_uaa .contentmanagement_Rule_2iZ4o {
+    display: none !important;
+}
+
+/* Reposition text after divider */
+.appgrid_SortingDropDown_1tBzy {
+    margin-left: 10px !important;
+    margin-top: 5px !important;
+}
+
+/* Background game list hover */ 
+.contentmanagement_AppsGrid_2n6FN .contentmanagement_AppBody_2RCSU:hover {
+    background: var(--downloadspagetop) !important;
+    border-radius: var(--Corner1) !important;
+    margin-bottom: 3px !important;
 }

@@ -28,8 +28,8 @@
     --librarysidebg: var(--blacker); /* Library sidebar background color */
     --librarybg: var(--darkgrey); /* Library background color */
     --libraryhome: var(--purple); /* Highlight library color */
-    --downloadsbg: var(--darkgrey); /* Downloads page background color */
-    --downloadstop: var(--blacker); /* Downloads page top background color */
+    --downloadspagebg: var(--darkgrey); /* Downloads page background color */
+    --downloadspagetop: var(--blacker); /* Downloads page top background color */
     --scrollbar: var(--purple); /* Scrollbar color */
     --backdropblur: var(--invisiblegrey); /* Blur color */
     --progressbar: var(--purple); /* Progressbar color */
