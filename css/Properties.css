@@ -150,6 +150,7 @@ button.DialogButton:not(disabled):hover {
 
 /* Donwloads disk section radius */
 .contentmanagement_IsSelected_3VQeL {
+    border-top: 1px solid var(--libraryhome) !important;
     border-top-left-radius: var(--Corner1) !important;
     border-top-right-radius: var(--Corner1) !important;
 }

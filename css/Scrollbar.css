@@ -40,7 +40,7 @@
 }
 
 .ReactVirtualized__List::-webkit-scrollbar-track {
-  background: var(--black) !important;
+  background: transparent !important;
   border-radius: 0 !important;
 }
 
@@ -55,7 +55,7 @@
 }
 
 ::-webkit-scrollbar-track {
-  background: var(--librarybg) !important;
+  background: transparent !important;
   border-radius: 0 !important;
 }
 
