@@ -1,11 +1,28 @@
 /* main background color */
 .downloads_DownloadsPage_1bq4x {
-    background: var(--librarybg) !important;
+    background: var(--downloadspagebg) !important;
 }
 
 /* top background color */
-.downloads_GraphAndStats_3ZsSz {
+.downloadgraph_GraphAndStats_3KDkL {
+    background: var(--downloadspagetop) !important;
+}
+
+/* downloads line top */
+.downloads_TopBar_SEmVp {
+    background: var(--libraryhome) !important;
+}
+
+/* hide the download image */
+.downloadgraph_HeroAndLogo_3mZ2r.downloadgraph_Empty_pHDI1 {
+    background: transparent !important;
+    display: var(--hidedlimage) !important;
+}
+
+/* top graph for downloads */
+.downloadgraph_DownloadGraph_1BxZD {
     background: var(--librarysidebg) !important;
+    display: var(--hidedlgraph) !important;
 }
 
 /* remove grandient from background top */
@@ -36,4 +53,15 @@
 /* change the text to matching library color */
 .downloads_SectionItemStatus_1Sygg .downloads_State_2ns4w.downloads_Downloading_33BlY, .downloads_ProgressDetails_sv3ZH .downloads_Value_1dHjj.downloads_Active_IbePL {
     color: var(--libraryhome) !important;
+}
+
+/* remove seperatoer line */
+.downloads_SectionTitle_qq2xI .downloads_Rule_1CTr1 {
+    display: none !important;
+}
+
+/* auto updates centered */
+.downloads_AutoUpdate_qrwf3 {
+    margin-top: 5px !important;
+    margin-left: 10px !important;
 }
