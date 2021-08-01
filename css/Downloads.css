@@ -57,7 +57,12 @@
 
 /* remove seperatoer line */
 .downloads_SectionTitle_qq2xI .downloads_Rule_1CTr1 {
-    display: none !important;
+    background: transparent !important;
+}
+
+/* Clean all button */
+.downloads_RemoveAllButton_1GdR5.downloads_RemoveAllButton_1GdR5.DialogButton:enabled {
+    border-radius: var(--Corner0) !important;
 }
 
 /* auto updates centered */
