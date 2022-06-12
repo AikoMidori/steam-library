@@ -4,7 +4,7 @@ Visit https://steamcommunity.com/groups/metroskin/discussions/0/1761356057412667
 Join us on discord https://discord.gg/015OTigbS9wyJlBDP to discuss about upcoming releases and updates.
 
 ### Requirements
-    https://github.com/PhantomGamers/SteamFriendsPatcher/releases/latest
+    https://github.com/PhantomGamers/SFP/releases/latest
 Thank you [PhantomGamers](https://github.com/PhantomGamers) for making the patcher.
 Don't forget to check out his work and leave him a like ❤
 
