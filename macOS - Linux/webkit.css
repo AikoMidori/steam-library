@@ -935,7 +935,7 @@ h2.pageheader{padding-left:0!important}
 .tabOff,.tabOn{background:#2e2e2f!important;border-radius:4px!important}
 .flat_page .modal_frame{width:97%!important;left:0!important;margin:0 40px 0 10px!important}
 #modalContentFrameContainer{height:100%!important;overflow:scroll!important}
-#modalContentFrameContainer .modalContent_iFrame{height:900%!important}
+.flat_page #modalContentFrameContainer .modalContent_iFrame{height:900%!important}
 .favorite_game_cap a img{border-radius:4px!important}
 .showcase_gamecollector_game a img{border-radius:4px!important}
 .showcase_achievement a img{border-radius:4px!important}
