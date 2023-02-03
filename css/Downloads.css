@@ -1,72 +1,72 @@
 /* main background color */
-.downloads_DownloadsPage_1bq4x {
+[class*="downloads_DownloadsPage_"] {
     background: var(--downloadspagebg) !important;
 }
 
 /* top background color */
-.downloadgraph_GraphAndStats_3KDkL {
+[class*="downloadgraph_GraphAndStats_"] {
     background: var(--downloadspagetop) !important;
 }
 
 /* downloads line top */
-.downloads_TopBar_SEmVp {
+[class*="downloads_TopBar_"] {
     background: var(--libraryhome) !important;
 }
 
 /* hide the download image */
-.downloadgraph_HeroAndLogo_3mZ2r.downloadgraph_Empty_pHDI1 {
+[class*="downloadgraph_HeroAndLogo_"][class*="downloadgraph_Empty_"] {
     background: transparent !important;
     display: var(--hidedlimage) !important;
 }
 
 /* top graph for downloads */
-.downloadgraph_DownloadGraph_1BxZD {
+[class*="downloadgraph_DownloadGraph_"] {
     background: var(--librarysidebg) !important;
     display: var(--hidedlgraph) !important;
 }
 
 /* remove grandient from background top */
-.downloads_DownloadGraph_1ashw .downloads_Gradient_FZSi1 {
+[class*="downloads_DownloadGraph_"] [class*="downloads_Gradient_"] {
     background-image: none !important;
 }
 
 /* remove background for item downloading */
-.downloads_SectionItem_1VNuY {
+[class*="downloads_SectionItem_"] {
     background-color: transparent !important;
 }
 
 /* remove background hover and drag for item downloading */
-.downloads_SectionItem_1VNuY:hover,.downloads_SectionItem_1VNuY.downloads_Dragging_3-SbB {
+[class*="downloads_SectionItem_"]:hover,[class*="downloads_SectionItem_"][class*="downloads_Dragging_"] {
     background-color:transparent
 }
 
 /* color for grabber */
-.downloads_SectionItem_1VNuY .downloads_DragHandle_14DhZ {
+[class*="downloads_SectionItem_"] [class*="downloads_DragHandle_"] {
     color: var(--libraryhome) !important;
 }
 
 /* give a rounded edge to the stop button */
-.downloads_SectionItem_1VNuY .downloads_Button_3oavR.downloads_RemoveFromQueue_2xR-V {
+[class*="downloads_SectionItem_"] [class*="downloads_Button_"][class*="downloads_RemoveFromQueue_"] {
     border-radius: 2px !important;
 }
 
 /* change the text to matching library color */
-.downloads_SectionItemStatus_1Sygg .downloads_State_2ns4w.downloads_Downloading_33BlY, .downloads_ProgressDetails_sv3ZH .downloads_Value_1dHjj.downloads_Active_IbePL {
+[class*="downloads_SectionItemStatus_"] [class*="downloads_State_"][class*="downloads_Downloading_"], [class*="downloads_ProgressDetails_"] [class*="downloads_Value_"][class*="downloads_Active_"] {
     color: var(--libraryhome) !important;
 }
 
 /* remove seperatoer line */
-.downloads_SectionTitle_qq2xI .downloads_Rule_1CTr1 {
+[class*="downloads_SectionTitle_"] [class*="downloads_Rule_"] {
     background: transparent !important;
 }
 
 /* Clean all button */
-.downloads_RemoveAllButton_1GdR5.downloads_RemoveAllButton_1GdR5.DialogButton:enabled {
+[class*="downloads_RemoveAllButton_"][class*="downloads_RemoveAllButton_"].DialogButton:enabled {
     border-radius: var(--Corner0) !important;
 }
 
 /* auto updates centered */
-.downloads_AutoUpdate_qrwf3 {
+[class*="downloads_AutoUpdate_"] {
     margin-top: 5px !important;
     margin-left: 10px !important;
 }
