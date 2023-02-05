@@ -31,12 +31,12 @@
   margin-bottom: 0 !important;
 }
 
-.contextmenu_contextMenuItem_1n7Wl {
+[class*="contextmenu_contextMenuItem_"] {
   border-top: 0 !important;
   border-bottom: 0 !important;
 }
 
-.contextmenu_contextMenuItem_1n7Wl:hover, .contextmenu_contextMenuItem_1n7Wl.contextmenu_active_18z-3 {
+[class*="contextmenu_contextMenuItem_"]:hover, [class*="contextmenu_contextMenuItem_"][class*="contextmenu_active_"] {
   background: var(--darkgrey) !important;
   border-radius: var(--Corner0) !important;
 }
