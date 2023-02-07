@@ -5,11 +5,11 @@
     padding-bottom: 275px !important;
 }
 
-.libraryhome_WhatsNewContainer_gdZT7 {
+[class*="libraryhome_UpdatesContainer_"] {
     display: var(--WhatsNew) !important;
 }
 
-.libraryhome_LibraryHomeSection_1NCHR {
+[class*="libraryhomeshowcases_Showcase_"] {
     display: var(--Recent) !important;
 }
 

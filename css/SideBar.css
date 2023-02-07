@@ -226,7 +226,7 @@
 }
 
 /* Context Menu Background */
-.contextmenu_contextMenu_PP7LM {
+[class*="contextmenu_contextMenu_"] {
   background: var(--menudrop) !important;
   border-radius: var(--Corner0) !important;
   margin-left: 0 !important;
