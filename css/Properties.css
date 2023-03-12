@@ -1,5 +1,5 @@
 /* Left Background */
-.pagedsettings_PagedSettingsDialog_PageListColumn_2kwFF {
+[class*="pagedsettings_PagedSettingsDialog_PageListColumn_"] {
     background: var(--darkgrey) !important;
 }
 
@@ -14,13 +14,13 @@
 }
 
 /* Properties Game Title */
-.pagedsettings_PagedSettingsDialog_Title_2rjVT {
+[class*="pagedsettings_PagedSettingsDialog_Title_"] {
     color: var(--libraryhome) !important;
 }
 
 /* GENERAL */
 /* Background Check Boxes */
-.appproperties_AppProperties_1FyBL .appproperties_Checkbox_2V2nc {
+[class*="appproperties_AppProperties_"] [class*="appproperties_Checkbox_"] {
     background: transparent !important;
 }
 
@@ -42,7 +42,7 @@
 }
 
 /* Storage Available Text Color */
-.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_BlueHighlight_1KmR8 {
+[class*="appproperties_AppProperties_"] [class*="appproperties_Page_"] [class*="appproperties_BlueHighlight_"] {
     color: var(--libraryhome) !important;
 }
 
@@ -53,12 +53,12 @@
 
 /* UPDATES */
 /* Dropdown Menu Background */
-.dropdown_DialogDropDownMenu_30wJO._DialogInputContainer {
+[class*="dropdown_DialogDropDownMenu_"]._DialogInputContainer {
     background: var(--blacker) !important;
 }
 
 /* Dropdown Menu List Hover */
-.dropdown_DialogDropDownMenu_Item_2oAiZ:hover {
+[class*="dropdown_DialogDropDownMenu_Item_"]:hover {
     background: var(--grey) !important;
     border-radius: 4px !important;
 }
@@ -75,39 +75,39 @@ button.DialogButton:not(disabled):hover {
 
 /* CONTROLLER */
 /* Background Color List */
-.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_SteamInputStatusGrid_3lj3- {
+[class*="appproperties_AppProperties_"] [class*="appproperties_Page_"] [class*="appproperties_SteamInputStatusGrid_"] {
     background-color: transparent !important;
 }
 
 /* Text Color List */
-.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_SteamInputStatus_2H4Ly {
+[class*="appproperties_AppProperties_"] [class*="appproperties_Page_"] [class*="appproperties_SteamInputStatus_"] {
     color: white !important;
 }
 
 /* DLC */
 /* Background Order Row */
-.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_DlcGrid_3sXdO .appproperties_DlcHeader_1SKB0 {
+[class*="appproperties_AppProperties_"] [class*="appproperties_Page_"] [class*="appproperties_DlcGrid_"] [class*="appproperties_DlcHeader_"] {
     background: transparent !important;
 }
 
-.appproperties_AppProperties_1FyBL .appproperties_Page_1SvWY .appproperties_DlcGrid_3sXdO .appproperties_DlcHeader_1SKB0:hover {
+[class*="appproperties_AppProperties_"] [class*="appproperties_Page_"] [class*="appproperties_DlcGrid_"] [class*="appproperties_DlcHeader_"]:hover {
     background: transparent !important;
 }
 
 /* WHAT'S NEW */
 /* Main Background */
-.libraryhomenewupdates_WhatsNewSettingsContainer_2JKpG {
+[class*="libraryhomenewupdates_WhatsNewSettingsContainer_"] {
     background: var(--darkgrey) !important;
 }
 
 /* Categories Background */
-.libraryhomenewupdates_WhatsNewSettings_1n-sV ._DialogInputContainer, ._DialogInputContainer.libraryhomenewupdates_WhatsNewPriorityContainer_25JfL {
+[class*="libraryhomenewupdates_WhatsNewSettings_"] ._DialogInputContainer, ._DialogInputContainer[class*="libraryhomenewupdates_WhatsNewPriorityContainer_"] {
     background: var(--blacker) !important;
     border-radius: 8px !important;
 }
 
 /* Toggle Background */
-.toggle_Toggle_3POJz .toggle_ToggleRail_3DiLY {
+[class*="toggle_Toggle_"] [class*="toggle_ToggleRail_"] {
     background-color: var(--darkgrey) !important;
     border-radius: 8px !important;
     top: 0 !important;
@@ -115,18 +115,18 @@ button.DialogButton:not(disabled):hover {
 }
 
 
-.toggle_Toggle_3POJz .toggle_ToggleRail_3DiLY.toggle_Highlight_2FNJu {
+[class*="toggle_Toggle_"] [class*="toggle_ToggleRail_"][class*="toggle_Highlight_"] {
     background-color: var(--darkgrey) !important;
 }
 
 /* Toggle Image */
-.toggle_Toggle_3POJz {
+[class*="toggle_Toggle_"] {
   background: var(--darkgrey) !important;
   border-radius: 8px !important;
 }
 
 /* Toggle Image */
-.toggle_Toggle_3POJz .toggle_ToggleSwitch_21X4K.toggle_On_3N31m {
+[class*="toggle_Toggle_"] [class*="toggle_ToggleSwitch_"][class*="toggle_On_"] {
   background-color: var(--libraryhome) !important;
   background-image: none !important;
 }
@@ -134,22 +134,22 @@ button.DialogButton:not(disabled):hover {
 
 /* DOWNLOADS PAGE PROPERTIES (NEW) */
 /* Downloads properties background */
-.contentmanagement_ContentManagement_3wk64 {
+[class*="contentmanagement_ContentManagement_"] {
     background: var(--downloadspagetop) !important;
 }
 
 /* Downloads properties top background */
-.contentmanagement_LibraryContent_ybEU2 {
+[class*="contentmanagement_LibraryContent_"] {
     background: var(--downloadspagebg) !important;
 }
 
 /* Downloads properties footer background */
-.contentmanagement_AppActionBar_35T-O {
+[class*="contentmanagement_AppActionBar_"] {
     background: var(--downloadspagebg) !important;
 }
 
 /* Donwloads disk section radius */
-.contentmanagement_IsSelected_3VQeL {
+[class*="contentmanagement_IsSelected_"] {
     border-top: 1px solid var(--libraryhome) !important;
     border-top-left-radius: var(--Corner1) !important;
     border-top-right-radius: var(--Corner1) !important;
@@ -167,23 +167,23 @@ button.DialogButton:disabled:hover {
 }
 
 /* Download properties settings button */
-.contentmanagement_DriveSettingsButton_1WKUO, .contentmanagement_DriveSettingsButton_1WKUO:hover {
+[class*="contentmanagement_DriveSettingsButton_"], [class*="contentmanagement_DriveSettingsButton_"]:hover {
     background-color: none !important;
 }
 
 /* Remove divider */
-.contentmanagement_AppsGrid_2n6FN .contentmanagement_AppHeader_3_uaa .contentmanagement_Rule_2iZ4o {
+[class*="contentmanagement_AppsGrid_"] [class*="contentmanagement_AppHeader_"] [class*="contentmanagement_Rule_"] {
     display: none !important;
 }
 
 /* Reposition text after divider */
-.appgrid_SortingDropDown_1tBzy {
+[class*="appgrid_SortingDropDown_"] {
     margin-left: 10px !important;
     margin-top: 5px !important;
 }
 
 /* Background game list hover */ 
-.contentmanagement_AppsGrid_2n6FN .contentmanagement_AppBody_2RCSU:hover {
+[class*="contentmanagement_AppsGrid_"] [class*="contentmanagement_AppBody_"]:hover {
     background: var(--downloadspagetop) !important;
     border-radius: var(--Corner1) !important;
     margin-bottom: 3px !important;

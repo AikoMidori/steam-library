@@ -1,42 +1,42 @@
 /* Remove Blur & Wallpaper Background */
-.appdetailssoundtrack_BackgroundContainer_26bNl .appdetailssoundtrack_BackgroundBlurArt_3JZ9b {
+[class*="appdetailssoundtrack_BackgroundContainer_"] [class*="appdetailssoundtrack_BackgroundBlurArt_"] {
    background-image: none !important;
     -webkit-mask-image: none !important;
 }
 
 /* Background */
-.appdetailssoundtrack_SoundtrackPanel_23zCI, .library_AppDetailsTransitionGroup_2Dd4T {
+[class*="appdetailssoundtrack_SoundtrackPanel_"], [class*="library_AppDetailsTransitionGroup_"] {
     background: var(--musicbg) !important;
 }
 
 /* Soundtrack Big List Background */
-.appdetailssoundtrack_SoundtrackContainer_1c7FW .appdetailssoundtrack_Content_22Q27 .appdetailssoundtrack_RightColumn_1s3Ep {
+[class*="appdetailssoundtrack_SoundtrackContainer_"] [class*="appdetailssoundtrack_Content_"] [class*="appdetailssoundtrack_RightColumn_"] {
     background: none !important;
 }
 
 /* Soundtrack List Background */
-.appdetailssoundtrack_SoundtrackContainer_1c7FW .appdetailssoundtrack_Content_22Q27 .appdetailssoundtrack_RightColumn_1s3Ep .appdetailssoundtrack_TrackListContainer_1Rrhq {
+[class*="appdetailssoundtrack_SoundtrackContainer_"] [class*="appdetailssoundtrack_Content_"] [class*="appdetailssoundtrack_RightColumn_"] [class*="appdetailssoundtrack_TrackListContainer_"] {
     background: var(--musiclist) !important;
     border-radius: var(--Corner0) !important;
 }
 
 /* Disc Number Background */
-.appdetailssoundtrack_SoundtrackContainer_1c7FW .appdetailssoundtrack_Content_22Q27 .appdetailssoundtrack_RightColumn_1s3Ep .appdetailssoundtrack_TrackListContainer_1Rrhq .appdetailssoundtrack_Disc_17Yl1 {
+[class*="appdetailssoundtrack_SoundtrackContainer_"] [class*="appdetailssoundtrack_Content_"] [class*="appdetailssoundtrack_RightColumn_"] [class*="appdetailssoundtrack_TrackListContainer_"] [class*="appdetailssoundtrack_Disc_"] {
     background: none !important;
 }
 
 /* Artwork Image Corners */
-.appdetailssoundtrack_SoundtrackContainer_1c7FW .appdetailssoundtrack_Content_22Q27 .appdetailssoundtrack_LeftColumn_23WS1 .appdetailssoundtrack_AlbumArt_1R0eE {
+[class*="appdetailssoundtrack_SoundtrackContainer_"] [class*="appdetailssoundtrack_Content_"] [class*="appdetailssoundtrack_LeftColumn_"] [class*="appdetailssoundtrack_AlbumArt_"] {
     border-radius: var(--Corner0) !important;
 }
 
 /* Song Number */
-.appdetailssoundtrack_SoundtrackContainer_1c7FW .appdetailssoundtrack_Content_22Q27 .appdetailssoundtrack_RightColumn_1s3Ep .appdetailssoundtrack_TrackListContainer_1Rrhq .appdetailssoundtrack_TrackListing_2c5PP:hover .appdetailssoundtrack_TrackNumber_NZZPO {
+[class*="appdetailssoundtrack_SoundtrackContainer_"] [class*="appdetailssoundtrack_Content_"] [class*="appdetailssoundtrack_RightColumn_"] [class*="appdetailssoundtrack_TrackListContainer_"] [class*="appdetailssoundtrack_TrackListing_"]:hover [class*="appdetailssoundtrack_TrackNumber_"] {
     background: none !important;
 }
 
 /* Song Hover Background */
-.appdetailssoundtrack_SoundtrackContainer_1c7FW .appdetailssoundtrack_Content_22Q27 .appdetailssoundtrack_RightColumn_1s3Ep .appdetailssoundtrack_TrackListContainer_1Rrhq .appdetailssoundtrack_TrackListing_2c5PP:hover {
+[class*="appdetailssoundtrack_SoundtrackContainer_"] [class*="appdetailssoundtrack_Content_"] [class*="appdetailssoundtrack_RightColumn_"] [class*="appdetailssoundtrack_TrackListContainer_"] [class*="appdetailssoundtrack_TrackListing_"]:hover {
     background: var(--libraryhome) !important;
     border-radius: var(--Corner0) !important;
 }

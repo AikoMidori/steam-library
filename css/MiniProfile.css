@@ -1,7 +1,7 @@
 /* MINI PROFILES*/
 
 /* Changes User Avatar Game Page Community Photos */
-.steamavatar_avatar_3h-QR {
+[class*="steamavatar_avatar_"] {
     border-radius: var(--Corner6) !important;
     border: 0 !important;
     height: 28px !important;
@@ -9,67 +9,67 @@
 }
 
 /* Removes The video */
-.miniprofile_miniProfileVideoBackground_2Zqfb {
+[class*="miniprofile_miniProfileVideoBackground_"] {
     display: none !important;
 }
 
 /* Solid Background Color Instead Of Video */
-.miniprofile_miniProfileVideoBackgroundContainer_3MrYv {
+[class*="miniprofile_miniProfileVideoBackgroundContainer_"] {
     background-color: var(--miniprofilebg) !important;
 }
 
 /* Removes The Blur */
-.miniprofile_miniProfileBackdropBlur_1QhpY {
+[class*="miniprofile_miniProfileBackdropBlur_"] {
     backdrop-filter: none !important;
 }
 
 /* Changes User Miniprofile Avatar */
-.miniprofile_miniProfile_2QPdq .steamavatar_avatar_3h-QR {
+[class*="miniprofile_miniProfile_"] [class*="steamavatar_avatar_"] {
     border-radius: var(--Corner6) !important;
     border: 0 !important;
     height: 90px !important;
     width: 90px !important;
 }
 
-.miniprofile_miniProfileBackgroundBlur_xUosY {
+[class*="miniprofile_miniProfileBackgroundBlur_"] {
     display: none !important; }
 
-.miniprofile_miniProfileBackground_3HzZh {
+[class*="miniprofile_miniProfileBackground_"] {
     background: var(--black) !important;
     border-radius: var(--Corner0) !important; }
 
-.miniprofile_miniProfile_2QPdq {
+[class*="miniprofile_miniProfile_"] {
     border: 0 !important;
     background: var(--miniprofilebg) !important;
     border-radius: var(--Corner0) !important; }
   
-.miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfileHeader_3CZcH {
+[class*="miniprofile_miniProfileContent_"] [class*="miniprofile_miniProfileHeader_"] {
     background: var(--miniprofilebg) !important;
     border-radius: var(--Corner0) !important; }
 
-.miniprofile_miniProfileContent_1xTAT.miniprofile_notInOrWatchingGame_1NkB7 .miniprofile_miniProfileBottom_26ga2,
-.miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfileGameContainer_7-U6j {
+[class*="miniprofile_miniProfileContent_"][class*="miniprofile_notInOrWatchingGame_"] [class*="miniprofile_miniProfileBottom_"],
+[class*="miniprofile_miniProfileContent_"] [class*="miniprofile_miniProfileGameContainer_"] {
     background: transparent !important;
     top: 10px !important; }
 
-.miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.in-game .miniprofile_personaName_qiP8a:not(.miniprofile_hasNickname_2TAWS) .miniprofile_personaNameLabel_2VUw8,
-.miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.in-game .miniprofile_personaName_qiP8a.miniprofile_nickName_h_So5 .miniprofile_personaNameLabel_2VUw8 {
+[class*="miniprofile_miniProfileContent_"] [class*="miniprofile_miniProfilePlayer_"].in-game [class*="miniprofile_personaName_"]:not([class*="miniprofile_hasNickname_"]) [class*="miniprofile_personaNameLabel_"],
+[class*="miniprofile_miniProfileContent_"] [class*="miniprofile_miniProfilePlayer_"].in-game [class*="miniprofile_personaName_"][class*="miniprofile_nickName_"] [class*="miniprofile_personaNameLabel_"] {
     color: var(--ingame) !important;
     border-radius: var(--Corner0) !important; }
 
-.miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.online .miniprofile_nickname_1SWhp,
-.miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.online .miniprofile_persona_3c5GO,
-.miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.online .miniprofile_playerContent_2-pwJ .miniprofile_awayStatusLabel_1FgWI {
+[class*="miniprofile_miniProfileContent_"] [class*="miniprofile_miniProfilePlayer_"].online [class*="miniprofile_nickname_"],
+[class*="miniprofile_miniProfileContent_"] [class*="miniprofile_miniProfilePlayer_"].online [class*="miniprofile_persona_"],
+[class*="miniprofile_miniProfileContent_"] [class*="miniprofile_miniProfilePlayer_"].online [class*="miniprofile_playerContent_"] [class*="miniprofile_awayStatusLabel_"] {
     color: var(--online) !important;
     border-radius: var(--Corner0) !important; }
 
-.miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.miniprofile_online .miniprofile_nickname_1SWhp,
-.miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.miniprofile_online.online .miniprofile_persona_3c5GO,
-.miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.miniprofile_online.online .miniprofile_playerContent_2-pwJ .miniprofile_awayStatusLabel_1FgWI {
+[class*="miniprofile_miniProfileContent_"] [class*="miniprofile_miniProfilePlayer_"].miniprofile_online [class*="miniprofile_nickname_"],
+[class*="miniprofile_miniProfileContent_"] [class*="miniprofile_miniProfilePlayer_"].miniprofile_online.online [class*="miniprofile_persona_"],
+[class*="miniprofile_miniProfileContent_"] [class*="miniprofile_miniProfilePlayer_"].miniprofile_online.online [class*="miniprofile_playerContent_"] [class*="miniprofile_awayStatusLabel_"] {
     color: var(--online) !important;
     border-radius: var(--Corner0) !important; }
 
-.online .steamavatar_avatarStatus_3xUpb {
+.online [class*="steamavatar_avatarStatus_"] {
     background: var(--online) !important;
     border-radius: var(--Corner5) !important;
     width: 30px !important;
@@ -79,7 +79,7 @@
     z-index: -1 !important;
 }
 
-.ingame .steamavatar_avatarStatus_3xUpb {
+.ingame [class*="steamavatar_avatarStatus_"] {
     background: var(--ingame) !important;
     border-radius: var(--Corner5) !important;
     width: 30px !important;
@@ -89,7 +89,7 @@
     z-index: -1 !important;
 }
 
-.awayOrSnooze .steamavatar_avatarStatus_1Pwr6 {
+.awayOrSnooze [class*="steamavatar_avatarStatus_"] {
     background: var(--snooze) !important;
     border-radius: var(--Corner5) !important;
     width: 30px !important;
@@ -99,7 +99,7 @@
     z-index: -1 !important;
 } 
 
-.golden .steamavatar_avatarStatus_3xUpb {
+.golden [class*="steamavatar_avatarStatus_"] {
     border-radius: var(--Corner5) !important;
     width: 30px !important;
     height: 30px !important;
@@ -108,7 +108,7 @@
     z-index: -1 !important;
 }
 
-.watchingbroadcast .steamavatar_avatarStatus_3xUpb {
+.watchingbroadcast [class*="steamavatar_avatarStatus_"] {
     border-radius: var(--Corner5) !important;
     width: 30px !important;
     height: 30px !important;
@@ -117,7 +117,7 @@
     z-index: -1 !important;
 }
 
-.offline .steamavatar_avatarStatus_3xUpb {
+.offline [class*="steamavatar_avatarStatus_"] {
     background: var(--offline) !important;
     border-radius: var(--Corner5) !important;
     width: 30px !important;
@@ -127,7 +127,7 @@
     z-index: -1 !important;
 }
 
-.online .X-Large .steamavatar_avatarStatus_3xUpb {
+.online .X-Large [class*="steamavatar_avatarStatus_"] {
     background: var(--online) !important;
     border-radius: var(--Corner5) !important;
     width: 92px !important;
@@ -137,7 +137,7 @@
     z-index: 1 !important;
 }
 
-.ingame .X-Large .steamavatar_avatarStatus_3xUpb {
+.ingame .X-Large [class*="steamavatar_avatarStatus_"] {
     background: var(--ingame) !important;
     border-radius: var(--Corner5) !important;
     width: 92px !important;
@@ -147,7 +147,7 @@
     z-index: 1 !important;
 }
 
-.awayOrSnooze .X-Large .steamavatar_avatarStatus_3xUpb {
+.awayOrSnooze .X-Large [class*="steamavatar_avatarStatus_"] {
     background: var(--snooze) !important;
     border-radius: var(--Corner5) !important;
     width: 92px !important;
@@ -157,7 +157,7 @@
     z-index: 1 !important;
 }
 
-.golden .X-Large .steamavatar_avatarStatus_3xUpb {
+.golden .X-Large [class*="steamavatar_avatarStatus_"] {
     border-radius: var(--Corner5) !important;
     width: 92px !important;
     height: 92px !important;
@@ -166,7 +166,7 @@
     z-index: 1 !important;
 }
 
-.watchingbroadcast .X-Large .steamavatar_avatarStatus_3xUpb {
+.watchingbroadcast .X-Large [class*="steamavatar_avatarStatus_"] {
     border-radius: var(--Corner5) !important;
     width: 92px !important;
     height: 92px !important;
@@ -175,7 +175,7 @@
     z-index: 1 !important;
 }
 
-.offline .X-Large .steamavatar_avatarStatus_3xUpb {
+.offline .X-Large [class*="steamavatar_avatarStatus_"] {
     background: var(--offline) !important;
     border-radius: var(--Corner5) !important;
     width: 92px !important;
@@ -190,26 +190,26 @@
 .miniprofile_avatarStatus {
     display: none !important; }
 
-.miniprofile_miniProfileContent_1xTAT .miniprofile_playerAvatar_36eQg img {
+[class*="miniprofile_miniProfileContent_"] [class*="miniprofile_playerAvatar_"] img {
     border-radius: var(--Corner5) !important; }
 
-.miniprofile_miniProfileContent_1xTAT .miniprofile_playerAvatar_36eQg {
+[class*="miniprofile_miniProfileContent_"] [class*="miniprofile_playerAvatar_"] {
     border-radius: var(--Corner5) !important; }
     
-.miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.online .miniprofile_avatarStatus_1YdpX.miniprofile_miniProfileAvatarStatus_1k5Yk {
+[class*="miniprofile_miniProfileContent_"] [class*="miniprofile_miniProfilePlayer_"].online [class*="miniprofile_avatarStatus_"][class*="miniprofile_miniProfileAvatarStatus_"] {
     background: var(--online) !important;
     border-radius: var(--Corner0) !important; }
       
-.miniprofile_miniProfileContent_1xTAT .miniprofile_miniProfilePlayer_2jZ0A.in-game .miniprofile_avatarStatus_1YdpX.miniprofile_miniProfileAvatarStatus_1k5Yk {
+[class*="miniprofile_miniProfileContent_"] [class*="miniprofile_miniProfilePlayer_"].in-game [class*="miniprofile_avatarStatus_"][class*="miniprofile_miniProfileAvatarStatus_"] {
     background: var(--ingame) !important;
     border-radius: var(--Corner0) !important; }
 
 
-.appdetailsfriendssection_PlaytimeSection_1s3b9 {
+[class*="appdetailsfriendssection_PlaytimeSection_"] {
     background: var(--miniprofilebg) !important;
 }
 
 /* Avatar Image Effect */
-.miniprofile_miniProfileContent_1xTAT .miniprofile_playerAvatar_36eQg .miniprofile_Frame_2nPON {
+[class*="miniprofile_miniProfileContent_"] [class*="miniprofile_playerAvatar_"] [class*="miniprofile_Frame_"] {
     display: var(--AvatarEffect) !important;
 }
