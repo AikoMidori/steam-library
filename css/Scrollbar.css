@@ -6,7 +6,7 @@
 }
 
 .ReactVirtualized__List:hover::-webkit-scrollbar-thumb,
-.gamelist_Container_1ijTa:hover::-webkit-scrollbar-thumb {
+[class*="gamelist_Container_"]:hover::-webkit-scrollbar-thumb {
   background: var(--scrollbar) !important;
   background-clip: padding-box!important;
   -webkit-box-shadow: none !important;
@@ -49,7 +49,7 @@
   -webkit-box-shadow: none !important;
 }
 
-.library_LeftListSizableContainer_9sPoV::-webkit-scrollbar:horizontal {
+[class*="library_LeftListSizableContainer_"]::-webkit-scrollbar:horizontal {
   background-color: transparent!important;
   -webkit-box-shadow: none !important;
 }
