@@ -31,14 +31,82 @@
   margin-bottom: 0 !important;
 }
 
-[class*="contextmenu_contextMenuItem_"] {
-  border-top: 0 !important;
-  border-bottom: 0 !important;
+/* Context menu itself */
+[class*="contextmenu_contextMenu_"] {
+	background: var(--menudrop) !important;
+	border-radius: var(--Corner1) !important;
+	margin-left: 0 !important;
 }
 
-[class*="contextmenu_contextMenuItem_"]:hover, [class*="contextmenu_contextMenuItem_"][class*="contextmenu_active_"] {
-  background: var(--darkgrey) !important;
-  border-radius: var(--Corner0) !important;
+/* Context menu items */
+[class*="contextmenu_contextMenuItem_"] {
+	border-top: 0 !important;
+	border-bottom: 0 !important;
+}
+
+:not([class*="library_ContextMenuAction_"])[class*="contextmenu_contextMenuItem_"]:hover,
+:not([class*="library_ContextMenuAction_"])[class*="contextmenu_contextMenuItem_"][class*="contextmenu_active_"] {
+	background: var(--darkgrey) !important;
+	border-radius: var(--Corner0) !important;
+	color: var(--white) !important;
+}
+
+[class*="contextmenu_contextMenuItem_"]:first-child:hover,
+[class*="contextmenu_contextMenuItem_"][class*="contextmenu_active_"]:first-child {
+	border-radius: var(--Corner1) var(--Corner1) var(--Corner0) var(--Corner0) !important;
+}
+
+[class*="contextmenu_contextMenuItem_"]:last-child:hover,
+[class*="contextmenu_contextMenuItem_"][class*="contextmenu_active_"]:last-child {
+	border-radius: var(--Corner0) var(--Corner0) var(--Corner1) var(--Corner1) !important;
+}
+
+[class*="contextmenu_contextMenuItem_"]:only-child:hover,
+[class*="contextmenu_contextMenuItem_"][class*="contextmenu_active_"]:only-child {
+	border-radius: var(--Corner1) !important;
+}
+
+/* Context menu green (Play etc.) buttons */
+[class*="library_ContextMenuAction_"].Stream,
+[class*="library_ContextMenuAction_"].Connect,
+[class*="library_ContextMenuAction_"].Launch,
+[class*="library_ContextMenuAction_"].PlayMusic,
+[class*="library_ContextMenuAction_"].Play {
+	background: linear-gradient(to right, var(--ButtonPlay) 0%, var(--ButtonPlay2)) 60% !important;
+	border-radius: var(--Corner1) var(--Corner1) var(--Corner0) var(--Corner0) !important;
+}
+[class*="library_ContextMenuAction_"].Stream:hover,
+[class*="library_ContextMenuAction_"].Connect:hover,
+[class*="library_ContextMenuAction_"].Launch:hover,
+[class*="library_ContextMenuAction_"].PlayMusic:hover,
+[class*="library_ContextMenuAction_"].Play:hover {
+	background: linear-gradient(to right, var(--ButtonPlayHover) 0%, var(--ButtonPlayHover2)) 60% !important;
+}
+/* Context menu blue (Download etc.) buttons */
+[class*="library_ContextMenuAction_"].Download,
+[class*="library_ContextMenuAction_"].Update,
+[class*="library_ContextMenuAction_"].PreLoad,
+[class*="library_ContextMenuAction_"].Resume,
+[class*="library_ContextMenuAction_"].Pause,
+[class*="library_ContextMenuAction_"].BorrowApp,
+[class*="library_ContextMenuAction_"].Stop,
+[class*="library_ContextMenuAction_"].Cancel,
+[class*="library_ContextMenuAction_"].Install,
+[class*="library_ContextMenuAction_"].PurchaseApp {
+	background: linear-gradient(to right, var(--ButtonInstall) 0%, var(--ButtonInstall2)) 60% !important;
+	border-radius: var(--Corner1) var(--Corner1) var(--Corner0) var(--Corner0) !important;
+}
+[class*="library_ContextMenuAction_"].Download:hover,
+[class*="library_ContextMenuAction_"].Update:hover,
+[class*="library_ContextMenuAction_"].PreLoad:hover,
+[class*="library_ContextMenuAction_"].Resume:hover,
+[class*="library_ContextMenuAction_"].Pause:hover,
+[class*="library_ContextMenuAction_"].BorrowApp:hover,
+[class*="library_ContextMenuAction_"].Stop:hover,
+[class*="library_ContextMenuAction_"].Cancel:hover,
+[class*="library_ContextMenuAction_"].Install:hover,
+[class*="library_ContextMenuAction_"].PurchaseApp:hover {
+	background: linear-gradient(to right, var(--ButtonInstallHover) 0%, var(--ButtonInstallHover2)) 60% !important;
 }
 
 [class*="appactivityday_Event_"] {
@@ -344,7 +412,7 @@
 }
 
 [class*="appactionbutton_Green_"] > [class*="appactionbutton_ButtonChild_"][class*="appactionbutton_StreamingSelector_"] {
-  background: linear-gradient(to right, var(--ButtonPlayHover) 0%, var(--ButtonPlayHover2)) 100% !important;
+  background: linear-gradient(to right, var(--ButtonPlay) 0%, var(--ButtonPlay2)) 100% !important;
   display: var(--DrowdownPlay) !important;
   border-radius: var(--Corner0) !important;
 }
