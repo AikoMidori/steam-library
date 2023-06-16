@@ -225,15 +225,6 @@
   background: var(--gamelist) !important;
 }
 
-/* Context Menu Background */
-[class*="contextmenu_contextMenu_"] {
-  background: var(--menudrop) !important;
-  border-radius: var(--Corner0) !important;
-  margin-left: 0 !important;
-  padding: 2px !important;
-  margin-top: 5px !important;
-}
-
 /* Dialog Checkboxes Colors */
 .DialogCheckbox, .DialogCheckbox:hover {
   background: var(--checkbox) !important;
