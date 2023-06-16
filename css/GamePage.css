@@ -36,6 +36,8 @@
 	background: var(--menudrop) !important;
 	border-radius: var(--Corner1) !important;
 	margin-left: 0 !important;
+	padding: 2px !important;
+	margin-top: 5px !important;
 }
 
 /* Context menu items */
